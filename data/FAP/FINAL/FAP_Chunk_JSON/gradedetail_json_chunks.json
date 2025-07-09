@@ -1,0 +1,1672 @@
+[
+  {
+    "student_id": "DE190340",
+    "term": "Fall2023",
+    "course_name": "Traditional music instrument ",
+    "course_code": "DSA103",
+    "category": "Assignment",
+    "item": "Assignment",
+    "weight": "15.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2023",
+    "course_name": "Traditional music instrument ",
+    "course_code": "DSA103",
+    "category": "Participation",
+    "item": "Participation",
+    "weight": "15.0 %",
+    "value": 7.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2023",
+    "course_name": "Traditional music instrument ",
+    "course_code": "DSA103",
+    "category": "Final",
+    "item": "Final",
+    "weight": "70.0 %",
+    "value": 6.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2023",
+    "course_name": "Traditional music instrument ",
+    "course_code": "DSA103",
+    "category": "Final Resit",
+    "item": "Final Resit",
+    "weight": "70.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2023",
+    "course_name": "Orientation and General Training Program ",
+    "course_code": "OTP101",
+    "category": "Final",
+    "item": "Final",
+    "weight": "100.0 %",
+    "value": 6.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2023",
+    "course_name": "Orientation and General Training Program ",
+    "course_code": "OTP101",
+    "category": "Final Resit",
+    "item": "Final Resit",
+    "weight": "100.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2023",
+    "course_name": "Vovinam 1 ",
+    "course_code": "VOV114",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "100.0 %",
+    "value": 5.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2023",
+    "course_name": "Vovinam 1 ",
+    "course_code": "VOV114",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "100.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Introduction to Computer Science ",
+    "course_code": "CSI105",
+    "category": "Group Presentation",
+    "item": "Group Presentation 1",
+    "weight": "5.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Introduction to Computer Science ",
+    "course_code": "CSI105",
+    "category": "Group Presentation",
+    "item": "Group Presentation 2",
+    "weight": "5.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Introduction to Computer Science ",
+    "course_code": "CSI105",
+    "category": "Lab",
+    "item": "Lab 1",
+    "weight": "10.0 %",
+    "value": 7.3
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Introduction to Computer Science ",
+    "course_code": "CSI105",
+    "category": "Lab",
+    "item": "Lab 2",
+    "weight": "10.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Introduction to Computer Science ",
+    "course_code": "CSI105",
+    "category": "Progress Test",
+    "item": "Progress Test 1",
+    "weight": "10.0 %",
+    "value": 9.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Introduction to Computer Science ",
+    "course_code": "CSI105",
+    "category": "Progress Test",
+    "item": "Progress Test 2",
+    "weight": "10.0 %",
+    "value": 10.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Introduction to Computer Science ",
+    "course_code": "CSI105",
+    "category": "Progress Test",
+    "item": "Progress Test 3",
+    "weight": "10.0 %",
+    "value": 10.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Introduction to Computer Science ",
+    "course_code": "CSI105",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "40.0 %",
+    "value": 5.7
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Introduction to Computer Science ",
+    "course_code": "CSI105",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "40.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Discrete mathematics ",
+    "course_code": "MAD101",
+    "category": "Assignment or exercises",
+    "item": "Assignment or exercises 1",
+    "weight": "10.0 %",
+    "value": 8.6
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Discrete mathematics ",
+    "course_code": "MAD101",
+    "category": "Assignment or exercises",
+    "item": "Assignment or exercises 2",
+    "weight": "10.0 %",
+    "value": 8.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Discrete mathematics ",
+    "course_code": "MAD101",
+    "category": "Assignment or exercises",
+    "item": "Assignment or exercises 3",
+    "weight": "10.0 %",
+    "value": 8.6
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Discrete mathematics ",
+    "course_code": "MAD101",
+    "category": "Progress test",
+    "item": "Progress test 1",
+    "weight": "10.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Discrete mathematics ",
+    "course_code": "MAD101",
+    "category": "Progress test",
+    "item": "Progress test 2",
+    "weight": "10.0 %",
+    "value": 9.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Discrete mathematics ",
+    "course_code": "MAD101",
+    "category": "Progress test",
+    "item": "Progress test 3",
+    "weight": "10.0 %",
+    "value": 8.4
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Discrete mathematics ",
+    "course_code": "MAD101",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "40.0 %",
+    "value": 5.4
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Discrete mathematics ",
+    "course_code": "MAD101",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "40.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Mathematics for Engineering ",
+    "course_code": "MAE101",
+    "category": "Assignment / Excercise",
+    "item": "Assignment / Excercise 1",
+    "weight": "10.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Mathematics for Engineering ",
+    "course_code": "MAE101",
+    "category": "Assignment / Excercise",
+    "item": "Assignment / Excercise 2",
+    "weight": "10.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Mathematics for Engineering ",
+    "course_code": "MAE101",
+    "category": "Assignment / Excercise",
+    "item": "Assignment / Excercise 3",
+    "weight": "10.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Mathematics for Engineering ",
+    "course_code": "MAE101",
+    "category": "Progress test",
+    "item": "Progress test 1",
+    "weight": "10.0 %",
+    "value": 6.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Mathematics for Engineering ",
+    "course_code": "MAE101",
+    "category": "Progress test",
+    "item": "Progress test 2",
+    "weight": "10.0 %",
+    "value": 7.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Mathematics for Engineering ",
+    "course_code": "MAE101",
+    "category": "Progress test",
+    "item": "Progress test 3",
+    "weight": "10.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Mathematics for Engineering ",
+    "course_code": "MAE101",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "40.0 %",
+    "value": 5.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Mathematics for Engineering ",
+    "course_code": "MAE101",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "40.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Lab",
+    "item": "Lab 1",
+    "weight": "2.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Lab",
+    "item": "Lab 2",
+    "weight": "2.0 %",
+    "value": 5.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Lab",
+    "item": "Lab 3",
+    "weight": "2.0 %",
+    "value": 7.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Lab",
+    "item": "Lab 4",
+    "weight": "2.0 %",
+    "value": 7.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Lab",
+    "item": "Lab 5",
+    "weight": "2.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Progress Test",
+    "item": "Progress Test 1",
+    "weight": "5.0 %",
+    "value": 5.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Progress Test",
+    "item": "Progress Test 2",
+    "weight": "5.0 %",
+    "value": 5.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Assignment",
+    "item": "Assignment 1",
+    "weight": "10.0 %",
+    "value": 5.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Assignment",
+    "item": "Assignment 2",
+    "weight": "10.0 %",
+    "value": 7.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Practical Exam",
+    "item": "Practical Exam",
+    "weight": "30.0 %",
+    "value": 4.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Final Exam",
+    "item": "Final Exam",
+    "weight": "30.0 %",
+    "value": 8.6
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "category": "Final Exam Resit",
+    "item": "Final Exam Resit",
+    "weight": "30.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Vovinam 2 ",
+    "course_code": "VOV124",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "100.0 %",
+    "value": 6.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2024",
+    "course_name": "Vovinam 2 ",
+    "course_code": "VOV124",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "100.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Computer Organization and Architecture ",
+    "course_code": "CEA201",
+    "category": "Assignment",
+    "item": "Assignment 1",
+    "weight": "15.0 %",
+    "value": 5.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Computer Organization and Architecture ",
+    "course_code": "CEA201",
+    "category": "Assignment",
+    "item": "Assignment 2",
+    "weight": "15.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Computer Organization and Architecture ",
+    "course_code": "CEA201",
+    "category": "Exercises",
+    "item": "Exercises 1",
+    "weight": "7.5 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Computer Organization and Architecture ",
+    "course_code": "CEA201",
+    "category": "Exercises",
+    "item": "Exercises 2",
+    "weight": "7.5 %",
+    "value": 8.6
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Computer Organization and Architecture ",
+    "course_code": "CEA201",
+    "category": "Exercises",
+    "item": "Exercises 3",
+    "weight": "7.5 %",
+    "value": 8.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Computer Organization and Architecture ",
+    "course_code": "CEA201",
+    "category": "Exercises",
+    "item": "Exercises 4",
+    "weight": "7.5 %",
+    "value": 7.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Computer Organization and Architecture ",
+    "course_code": "CEA201",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "40.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Computer Organization and Architecture ",
+    "course_code": "CEA201",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "40.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Data Structures and Algorithm with Python ",
+    "course_code": "CSD203",
+    "category": "Assignment 1",
+    "item": "Assignment 1",
+    "weight": "10.0 %",
+    "value": 7.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Data Structures and Algorithm with Python ",
+    "course_code": "CSD203",
+    "category": "Assignment 2",
+    "item": "Assignment 2",
+    "weight": "10.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Data Structures and Algorithm with Python ",
+    "course_code": "CSD203",
+    "category": "Progress test 1",
+    "item": "Progress test 1",
+    "weight": "10.0 %",
+    "value": 7.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Data Structures and Algorithm with Python ",
+    "course_code": "CSD203",
+    "category": "Progress test 2",
+    "item": "Progress test 2",
+    "weight": "10.0 %",
+    "value": 7.3
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Data Structures and Algorithm with Python ",
+    "course_code": "CSD203",
+    "category": "Practical exam",
+    "item": "Practical exam",
+    "weight": "30.0 %",
+    "value": 5.3
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Data Structures and Algorithm with Python ",
+    "course_code": "CSD203",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "30.0 %",
+    "value": 8.2
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Data Structures and Algorithm with Python ",
+    "course_code": "CSD203",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "30.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Lab",
+    "item": "Lab 1",
+    "weight": "2.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Lab",
+    "item": "Lab 2",
+    "weight": "2.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Lab",
+    "item": "Lab 3",
+    "weight": "2.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Lab",
+    "item": "Lab 4",
+    "weight": "2.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Lab",
+    "item": "Lab 5",
+    "weight": "2.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Progress test",
+    "item": "Progress test 1",
+    "weight": "5.0 %",
+    "value": 7.6
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Progress test",
+    "item": "Progress test 2",
+    "weight": "5.0 %",
+    "value": 8.2
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Assignment",
+    "item": "Assignment",
+    "weight": "20.0 %",
+    "value": 7.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "30.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "30.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "category": "Practical Exam",
+    "item": "Practical Exam",
+    "weight": "30.0 %",
+    "value": 6.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Quiz",
+    "item": "Quiz",
+    "weight": "5.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Participation",
+    "item": "Participation",
+    "weight": "10.0 %",
+    "value": 6.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Activity",
+    "item": "Activity 1",
+    "weight": "5.0 %",
+    "value": 1.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Activity",
+    "item": "Activity 2",
+    "weight": "5.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Activity",
+    "item": "Activity 3",
+    "weight": "5.0 %",
+    "value": 6.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Group asm",
+    "item": "Group asm 1",
+    "weight": "10.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Group asm",
+    "item": "Group asm 2",
+    "weight": "10.0 %",
+    "value": 6.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Group Project",
+    "item": "Group Project 1",
+    "weight": "10.0 %",
+    "value": 7.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Group Project",
+    "item": "Group Project 2",
+    "weight": "10.0 %",
+    "value": 6.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Group Project",
+    "item": "Group Project 3",
+    "weight": "10.0 %",
+    "value": 6.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "20.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "20.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Vovinam 3 ",
+    "course_code": "VOV134",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "100.0 %",
+    "value": 7.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Summer2024",
+    "course_name": "Vovinam 3 ",
+    "course_code": "VOV134",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "100.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Assignment",
+    "item": "Assignment",
+    "weight": "10.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Progress test 1",
+    "item": "Progress test 1",
+    "weight": "10.0 %",
+    "value": 9.4
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Progress test 2",
+    "item": "Progress test 2",
+    "weight": "10.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Lab",
+    "item": "Lab 1",
+    "weight": "5.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Lab",
+    "item": "Lab 2",
+    "weight": "5.0 %",
+    "value": 9.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Lab",
+    "item": "Lab 3",
+    "weight": "5.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Lab",
+    "item": "Lab 4",
+    "weight": "5.0 %",
+    "value": 9.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Lab",
+    "item": "Lab 5",
+    "weight": "5.0 %",
+    "value": 9.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Lab",
+    "item": "Lab 6",
+    "weight": "5.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "40.0 %",
+    "value": 7.6
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "40.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Elementary Japanese 1-A1.1 ",
+    "course_code": "JPD113",
+    "category": "Tham gia giờ học tại giảng đường",
+    "item": "Tham gia giờ học tại giảng đường",
+    "weight": "10.0 %",
+    "value": 10.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Elementary Japanese 1-A1.1 ",
+    "course_code": "JPD113",
+    "category": "Kiểm tra nhỏ (small test)",
+    "item": "Kiểm tra nhỏ (small test) 1",
+    "weight": "10.0 %",
+    "value": 9.3
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Elementary Japanese 1-A1.1 ",
+    "course_code": "JPD113",
+    "category": "Kiểm tra nhỏ (small test)",
+    "item": "Kiểm tra nhỏ (small test) 2",
+    "weight": "10.0 %",
+    "value": 8.7
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Elementary Japanese 1-A1.1 ",
+    "course_code": "JPD113",
+    "category": "Kiểm tra giữa kì",
+    "item": "Kiểm tra giữa kì",
+    "weight": "30.0 %",
+    "value": 9.3
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Elementary Japanese 1-A1.1 ",
+    "course_code": "JPD113",
+    "category": "Thi cuối kỳ",
+    "item": "Reading - Grammar",
+    "weight": "10.0 %",
+    "value": 8.7
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Elementary Japanese 1-A1.1 ",
+    "course_code": "JPD113",
+    "category": "Thi cuối kỳ",
+    "item": "Speaking",
+    "weight": "30.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Elementary Japanese 1-A1.1 ",
+    "course_code": "JPD113",
+    "category": "Thi cuối kỳ Resit",
+    "item": "Reading - Grammar Resit",
+    "weight": "10.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Elementary Japanese 1-A1.1 ",
+    "course_code": "JPD113",
+    "category": "Thi cuối kỳ Resit",
+    "item": "Speaking Resit",
+    "weight": "30.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Advanced mathematics ",
+    "course_code": "MAI391",
+    "category": "Computer Project",
+    "item": "Computer Project",
+    "weight": "20.0 %",
+    "value": 9.4
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Advanced mathematics ",
+    "course_code": "MAI391",
+    "category": "Progress tests",
+    "item": "Progress tests 1",
+    "weight": "10.0 %",
+    "value": 9.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Advanced mathematics ",
+    "course_code": "MAI391",
+    "category": "Progress tests",
+    "item": "Progress tests 2",
+    "weight": "10.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Advanced mathematics ",
+    "course_code": "MAI391",
+    "category": "Assignments",
+    "item": "Assignments 1",
+    "weight": "10.0 %",
+    "value": 7.3
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Advanced mathematics ",
+    "course_code": "MAI391",
+    "category": "Assignments",
+    "item": "Assignments 2",
+    "weight": "10.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Advanced mathematics ",
+    "course_code": "MAI391",
+    "category": "Assignments",
+    "item": "Assignments 3",
+    "weight": "10.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Advanced mathematics ",
+    "course_code": "MAI391",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "30.0 %",
+    "value": 7.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Advanced mathematics ",
+    "course_code": "MAI391",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "30.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Statistics & Probability ",
+    "course_code": "MAS291",
+    "category": "Computer Project",
+    "item": "Computer Project",
+    "weight": "15.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Statistics & Probability ",
+    "course_code": "MAS291",
+    "category": "Assignment",
+    "item": "Assignment 1",
+    "weight": "10.0 %",
+    "value": 10.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Statistics & Probability ",
+    "course_code": "MAS291",
+    "category": "Assignment",
+    "item": "Assignment 2",
+    "weight": "10.0 %",
+    "value": 10.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Statistics & Probability ",
+    "course_code": "MAS291",
+    "category": "Progress Test",
+    "item": "Progress Test 1",
+    "weight": "10.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Statistics & Probability ",
+    "course_code": "MAS291",
+    "category": "Progress Test",
+    "item": "Progress Test 2",
+    "weight": "10.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Statistics & Probability ",
+    "course_code": "MAS291",
+    "category": "Progress Test",
+    "item": "Progress Test 3",
+    "weight": "10.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Statistics & Probability ",
+    "course_code": "MAS291",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "35.0 %",
+    "value": 7.2
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Fall2024",
+    "course_name": "Statistics & Probability ",
+    "course_code": "MAS291",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "35.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Machine Learning ",
+    "course_code": "AIL303m",
+    "category": "Progress test 1",
+    "item": "Progress test 1",
+    "weight": "5.0 %",
+    "value": 8.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Machine Learning ",
+    "course_code": "AIL303m",
+    "category": "Progress test 2",
+    "item": "Progress test 2",
+    "weight": "5.0 %",
+    "value": 8.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Machine Learning ",
+    "course_code": "AIL303m",
+    "category": "Progress test 3",
+    "item": "Progress test 3",
+    "weight": "5.0 %",
+    "value": 8.9
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Machine Learning ",
+    "course_code": "AIL303m",
+    "category": "Progress test 4",
+    "item": "Progress test 4",
+    "weight": "5.0 %",
+    "value": 8.9
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Machine Learning ",
+    "course_code": "AIL303m",
+    "category": "Lab 1",
+    "item": "Lab 1",
+    "weight": "10.0 %",
+    "value": 9.7
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Machine Learning ",
+    "course_code": "AIL303m",
+    "category": "Lab 2",
+    "item": "Lab 2",
+    "weight": "10.0 %",
+    "value": 4.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Machine Learning ",
+    "course_code": "AIL303m",
+    "category": "Mini capstone",
+    "item": "Mini capstone",
+    "weight": "30.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Machine Learning ",
+    "course_code": "AIL303m",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "30.0 %",
+    "value": 8.6
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Machine Learning ",
+    "course_code": "AIL303m",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "30.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Lab",
+    "item": "Lab 1",
+    "weight": "1.3 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Lab",
+    "item": "Lab 2",
+    "weight": "1.3 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Lab",
+    "item": "Lab 3",
+    "weight": "1.3 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Lab",
+    "item": "Lab 4",
+    "weight": "1.3 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Lab",
+    "item": "Lab 5",
+    "weight": "1.3 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Lab",
+    "item": "Lab 6",
+    "weight": "1.3 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Lab",
+    "item": "Lab 7",
+    "weight": "1.3 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Lab",
+    "item": "Lab 8",
+    "weight": "1.3 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Progress Test",
+    "item": "Progress Test 1",
+    "weight": "5.0 %",
+    "value": 8.8
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Progress Test",
+    "item": "Progress Test 2",
+    "weight": "5.0 %",
+    "value": 8.4
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Practical Exam",
+    "item": "Practical Exam",
+    "weight": "20.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Assignment",
+    "item": "Assignment",
+    "weight": "30.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Final Exam",
+    "item": "Final Exam",
+    "weight": "30.0 %",
+    "value": 8.4
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "category": "Final Exam Resit",
+    "item": "Final Exam Resit",
+    "weight": "30.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "AI-DS Project ",
+    "course_code": "DAP391m",
+    "category": "Progress test",
+    "item": "Progress test",
+    "weight": "10.0 %",
+    "value": 9.3
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "AI-DS Project ",
+    "course_code": "DAP391m",
+    "category": "5Labs",
+    "item": "5Labs 1",
+    "weight": "6.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "AI-DS Project ",
+    "course_code": "DAP391m",
+    "category": "5Labs",
+    "item": "5Labs 2",
+    "weight": "6.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "AI-DS Project ",
+    "course_code": "DAP391m",
+    "category": "5Labs",
+    "item": "5Labs 3",
+    "weight": "6.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "AI-DS Project ",
+    "course_code": "DAP391m",
+    "category": "5Labs",
+    "item": "5Labs 4",
+    "weight": "6.0 %",
+    "value": 9.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "AI-DS Project ",
+    "course_code": "DAP391m",
+    "category": "5Labs",
+    "item": "5Labs 5",
+    "weight": "6.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "AI-DS Project ",
+    "course_code": "DAP391m",
+    "category": "Assignment",
+    "item": "Assignment",
+    "weight": "30.0 %",
+    "value": 9.4
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "AI-DS Project ",
+    "course_code": "DAP391m",
+    "category": "Final exam",
+    "item": "Final exam",
+    "weight": "30.0 %",
+    "value": 8.6
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "AI-DS Project ",
+    "course_code": "DAP391m",
+    "category": "Final exam Resit",
+    "item": "Final exam Resit",
+    "weight": "30.0 %",
+    "value": NaN
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Japanese Elementary 1-A1.2 ",
+    "course_code": "JPD123",
+    "category": "Tham gia giờ học tại giảng đường",
+    "item": "Tham gia giờ học tại giảng đường",
+    "weight": "10.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Japanese Elementary 1-A1.2 ",
+    "course_code": "JPD123",
+    "category": "Kiểm tra nhỏ (small test)",
+    "item": "Kiểm tra nhỏ (small test) 1",
+    "weight": "10.0 %",
+    "value": 8.9
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Japanese Elementary 1-A1.2 ",
+    "course_code": "JPD123",
+    "category": "Kiểm tra nhỏ (small test)",
+    "item": "Kiểm tra nhỏ (small test) 2",
+    "weight": "10.0 %",
+    "value": 8.3
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Japanese Elementary 1-A1.2 ",
+    "course_code": "JPD123",
+    "category": "Kiểm tra giữa kỳ",
+    "item": "Kiểm tra giữa kỳ",
+    "weight": "30.0 %",
+    "value": 8.5
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Japanese Elementary 1-A1.2 ",
+    "course_code": "JPD123",
+    "category": "Thi cuối kỳ",
+    "item": "Reading - Grammar",
+    "weight": "10.0 %",
+    "value": 5.7
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Japanese Elementary 1-A1.2 ",
+    "course_code": "JPD123",
+    "category": "Thi cuối kỳ",
+    "item": "Speaking",
+    "weight": "30.0 %",
+    "value": 6.6
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Japanese Elementary 1-A1.2 ",
+    "course_code": "JPD123",
+    "category": "Thi cuối kỳ Resit",
+    "item": "Reading - Grammar Resit",
+    "weight": "10.0 %",
+    "value": 6.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Japanese Elementary 1-A1.2 ",
+    "course_code": "JPD123",
+    "category": "Thi cuối kỳ Resit",
+    "item": "Speaking Resit",
+    "weight": "30.0 %",
+    "value": 6.4
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Introduction to Software Engineering ",
+    "course_code": "SWE201c",
+    "category": "PE",
+    "item": "PE",
+    "weight": "40.0 %",
+    "value": 7.7
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Introduction to Software Engineering ",
+    "course_code": "SWE201c",
+    "category": "PE Resit",
+    "item": "PE Resit",
+    "weight": "40.0 %",
+    "value": 8.0
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Introduction to Software Engineering ",
+    "course_code": "SWE201c",
+    "category": "TE",
+    "item": "TE",
+    "weight": "60.0 %",
+    "value": 7.2
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Introduction to Software Engineering ",
+    "course_code": "SWE201c",
+    "category": "TE Resit",
+    "item": "TE Resit",
+    "weight": "60.0 %",
+    "value": 8.2
+  },
+  {
+    "student_id": "DE190340",
+    "term": "Spring2025",
+    "course_name": "Introduction to Software Engineering ",
+    "course_code": "SWE201c",
+    "category": "TE Resit",
+    "item": NaN,
+    "weight": "Bonus",
+    "value": NaN
+  }
+]

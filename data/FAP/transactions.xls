@@ -1,0 +1,213 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<ss:Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author>AP</Author>
+<LastAuthor></LastAuthor>
+<Created>5/25/2025 9:28:12 PM</Created>
+<Company>FPT University</Company>
+<Version>1.0</Version>
+</DocumentProperties>
+<ss:Worksheet ss:Name="Sheet1">
+<ss:Table>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">RollNumber</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Fullname</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">InputBy</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">ReceiptNo</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">ReceiptDate</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">FeeTypeName</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Amount</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Description</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">SemesterName</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">AutoDNG</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415_HP_1/001;C23TDA-00027617_3875176</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">12/21/2023 11:27:00 AM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Học phí</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">8232000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Import auto from dng</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">linhnt156</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415-HP-211223-1</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">12/21/2023 2:22:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Học phí</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">-8232000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Quét công nợ_SP24H1_Kỳ: 1</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">linhnt156</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415-20/01/2024</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">1/20/2024 12:00:00 AM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Tiền khác</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">20000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hoàn LPXT theo QĐ730</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">AutoDNG</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415_HP_1/001;C24TAA-00005442_4147281</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4/19/2024 12:04:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Học phí</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">14043000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Import auto from dng</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415-HP-190424-1</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4/19/2024 12:04:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Học phí</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">-14063000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Quét công nợ_SU24H1_Kỳ: 2</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">AutoDNG</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415_KHAC_1/001;C24TAA-00015251_4430107</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">7/21/2024 12:57:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Tiền khác</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">200000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Import auto from dng</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">KVHjtztTUCJ8</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">7/21/2024 12:57:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Tiền khác</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">-200000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Giá dịch vụ : Đề nghị phúc tra_DBI202</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">thaontm6</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">LvQoHtfZs</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">7/30/2024 10:59:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đơn từ sinh viên online</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">200000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Hoàn trả tiền cho sinh viên - Đề nghị phúc tra</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">AutoDNG</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415_HP_1/001;C24TAA-00019941_4724556</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">8/23/2024 11:57:00 AM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Học phí</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">13863000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Import auto from dng</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415-HP-230824-1</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">8/23/2024 11:57:00 AM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Học phí</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">-14063000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Quét công nợ_FA24H1_Kỳ: 3</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">AutoDNG</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415_KHAC_1/001;C24TAA-00025957_4848543</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">9/7/2024 5:46:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Tiền khác</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">20000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Import auto from dng</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">jhDLOko60KJE</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">9/7/2024 5:46:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Tiền khác</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">-20000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Giá dịch vụ : Hoãn nghĩa vụ quân sự</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">AutoDNG</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415_HP_1/001;C24TAA-00034726_5268442</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">12/23/2024 9:24:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Học phí</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">14063000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Import auto from dng</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415-HP-231224-1</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">12/23/2024 9:24:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Học phí</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">-14063000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Quét công nợ_SP25H1_Kỳ: 4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">AutoDNG</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415_HP_1/001;C25TAA-00007478_5574624</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4/29/2025 3:33:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Học phí</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">14063000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Import auto from dng</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Đỗ Tuấn Minh</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">DE190415-HP-290425-1</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4/29/2025 3:33:00 PM</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Học phí</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">-14063000</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Quét công nợ_SU25H1_Kỳ: 5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Summary</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="Number">0</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"></ss:Data></ss:Cell>
+</ss:Row>
+</ss:Table>
+</ss:Worksheet>
+</ss:Workbook>

@@ -1,0 +1,1339 @@
+[
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hoàng Trung Quân. Mã số sinh viên: DE170004. Email: quanhtde170004@fpt.edu.vn.",
+        "mssv": "DE170004",
+        "email": "quanhtde170004@fpt.edu.vn",
+        "fullname": "Hoàng Trung Quân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Ngọc Thiện. Mã số sinh viên: DE170061. Email: thientnde170061@fpt.edu.vn.",
+        "mssv": "DE170061",
+        "email": "thientnde170061@fpt.edu.vn",
+        "fullname": "Trần Ngọc Thiện"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Diên Bình. Mã số sinh viên: DE170221. Email: binhldde170221@fpt.edu.vn.",
+        "mssv": "DE170221",
+        "email": "binhldde170221@fpt.edu.vn",
+        "fullname": "Lê Diên Bình"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Nhật Trình. Mã số sinh viên: DE170294. Email: trinhlnde170294@fpt.edu.vn.",
+        "mssv": "DE170294",
+        "email": "trinhlnde170294@fpt.edu.vn",
+        "fullname": "Lê Nhật Trình"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Thái Nhật Tân. Mã số sinh viên: DE170454. Email: tantnde170454@fpt.edu.vn.",
+        "mssv": "DE170454",
+        "email": "tantnde170454@fpt.edu.vn",
+        "fullname": "Thái Nhật Tân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đoàn Văn Quốc Hoàn. Mã số sinh viên: DE170533. Email: hoandvqde170533@fpt.edu.vn.",
+        "mssv": "DE170533",
+        "email": "hoandvqde170533@fpt.edu.vn",
+        "fullname": "Đoàn Văn Quốc Hoàn"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Tri Nhân. Mã số sinh viên: DE170574. Email: nhanntde170574@fpt.edu.vn.",
+        "mssv": "DE170574",
+        "email": "nhanntde170574@fpt.edu.vn",
+        "fullname": "Nguyễn Tri Nhân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Văn Hơn. Mã số sinh viên: DE170592. Email: honnvde170592@fpt.edu.vn.",
+        "mssv": "DE170592",
+        "email": "honnvde170592@fpt.edu.vn",
+        "fullname": "Nguyễn Văn Hơn"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Đăng Huy. Mã số sinh viên: DE170599. Email: huyldde170599@fpt.edu.vn.",
+        "mssv": "DE170599",
+        "email": "huyldde170599@fpt.edu.vn",
+        "fullname": "Lê Đăng Huy"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Tạ Khôi Nguyên. Mã số sinh viên: DE170642. Email: nguyentkde170642@fpt.edu.vn.",
+        "mssv": "DE170642",
+        "email": "nguyentkde170642@fpt.edu.vn",
+        "fullname": "Tạ Khôi Nguyên"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Lê Hữu Bảo. Mã số sinh viên: DE170665. Email: baonlhde170665@fpt.edu.vn.",
+        "mssv": "DE170665",
+        "email": "baonlhde170665@fpt.edu.vn",
+        "fullname": "Nguyễn Lê Hữu Bảo"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Đức Minh. Mã số sinh viên: DE180328. Email: MinhNDDE180328@fpt.edu.vn.",
+        "mssv": "DE180328",
+        "email": "MinhNDDE180328@fpt.edu.vn",
+        "fullname": "Nguyễn Đức Minh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Thế Trọng Nhã. Mã số sinh viên: DE180466. Email: NhaNTTDE180466@fpt.edu.vn.",
+        "mssv": "DE180466",
+        "email": "NhaNTTDE180466@fpt.edu.vn",
+        "fullname": "Nguyễn Thế Trọng Nhã"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Hồ Nhật Huy. Mã số sinh viên: DE180760. Email: HuyNHNDE180760@fpt.edu.vn.",
+        "mssv": "DE180760",
+        "email": "HuyNHNDE180760@fpt.edu.vn",
+        "fullname": "Nguyễn Hồ Nhật Huy"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Văn Nhật Nam. Mã số sinh viên: DE180887. Email: NamNVNDE180887@fpt.edu.vn.",
+        "mssv": "DE180887",
+        "email": "NamNVNDE180887@fpt.edu.vn",
+        "fullname": "Nguyễn Văn Nhật Nam"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Bùi Đức Vương. Mã số sinh viên: DE160215. Email: VuongBDDE160215@fpt.edu.vn.",
+        "mssv": "DE160215",
+        "email": "VuongBDDE160215@fpt.edu.vn",
+        "fullname": "Bùi Đức Vương"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Võ Mạnh Hải. Mã số sinh viên: DE160631. Email: HaiVMDE160631@FPT.EDU.VN.",
+        "mssv": "DE160631",
+        "email": "HaiVMDE160631@FPT.EDU.VN",
+        "fullname": "Võ Mạnh Hải"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hoàng Minh Đức. Mã số sinh viên: DE170256. Email: duchmde170256@fpt.edu.vn.",
+        "mssv": "DE170256",
+        "email": "duchmde170256@fpt.edu.vn",
+        "fullname": "Hoàng Minh Đức"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Từ Trung Quân. Mã số sinh viên: DE170392. Email: quanttde170392@fpt.edu.vn.",
+        "mssv": "DE170392",
+        "email": "quanttde170392@fpt.edu.vn",
+        "fullname": "Từ Trung Quân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Chu Văn Nhân. Mã số sinh viên: DE180108. Email: NhanCVDE180108@fpt.edu.vn.",
+        "mssv": "DE180108",
+        "email": "NhanCVDE180108@fpt.edu.vn",
+        "fullname": "Chu Văn Nhân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: TRẦN BẢO KHA. Mã số sinh viên: DE180162. Email: KHATBDE180162@fpt.edu.vn.",
+        "mssv": "DE180162",
+        "email": "KHATBDE180162@fpt.edu.vn",
+        "fullname": "TRẦN BẢO KHA"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Quốc Khánh. Mã số sinh viên: DE180301. Email: KhanhTQDE180301@fpt.edu.vn.",
+        "mssv": "DE180301",
+        "email": "KhanhTQDE180301@fpt.edu.vn",
+        "fullname": "Trần Quốc Khánh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Bảo Khang. Mã số sinh viên: DE180379. Email: KhangNBDE180379@fpt.edu.vn.",
+        "mssv": "DE180379",
+        "email": "KhangNBDE180379@fpt.edu.vn",
+        "fullname": "Nguyễn Bảo Khang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Từ Nguyễn Đức Cường. Mã số sinh viên: DE180387. Email: CuongTNDDE180387@fpt.edu.vn.",
+        "mssv": "DE180387",
+        "email": "CuongTNDDE180387@fpt.edu.vn",
+        "fullname": "Từ Nguyễn Đức Cường"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hà Đức Minh Triết. Mã số sinh viên: DE180420. Email: TrietHDMDE180420@fpt.edu.vn.",
+        "mssv": "DE180420",
+        "email": "TrietHDMDE180420@fpt.edu.vn",
+        "fullname": "Hà Đức Minh Triết"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Minh Dũng. Mã số sinh viên: DE180498. Email: DungLMDE180498@fpt.edu.vn.",
+        "mssv": "DE180498",
+        "email": "DungLMDE180498@fpt.edu.vn",
+        "fullname": "Lê Minh Dũng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Đình Nguyên. Mã số sinh viên: DE180558. Email: NguyenTDDE180558@fpt.edu.vn.",
+        "mssv": "DE180558",
+        "email": "NguyenTDDE180558@fpt.edu.vn",
+        "fullname": "Trần Đình Nguyên"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hồ An Lộc. Mã số sinh viên: DE180620. Email: LocHADE180620@fpt.edu.vn.",
+        "mssv": "DE180620",
+        "email": "LocHADE180620@fpt.edu.vn",
+        "fullname": "Hồ An Lộc"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Văn Giáp. Mã số sinh viên: DE180671. Email: GiapLVDE180671@fpt.edu.vn.",
+        "mssv": "DE180671",
+        "email": "GiapLVDE180671@fpt.edu.vn",
+        "fullname": "Lê Văn Giáp"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trương Hoàng Vũ. Mã số sinh viên: DE181070. Email: VuTHDE181070@fpt.edu.vn.",
+        "mssv": "DE181070",
+        "email": "VuTHDE181070@fpt.edu.vn",
+        "fullname": "Trương Hoàng Vũ"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Ngô Minh Quân. Mã số sinh viên: DE170197. Email: quannmde170197@fpt.edu.vn.",
+        "mssv": "DE170197",
+        "email": "quannmde170197@fpt.edu.vn",
+        "fullname": "Ngô Minh Quân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trịnh Tấn Quang Bảo. Mã số sinh viên: DE170271. Email: baottqde170271@fpt.edu.vn.",
+        "mssv": "DE170271",
+        "email": "baottqde170271@fpt.edu.vn",
+        "fullname": "Trịnh Tấn Quang Bảo"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Văn Đảng. Mã số sinh viên: DE180043. Email: DangNVDE180043@fpt.edu.vn.",
+        "mssv": "DE180043",
+        "email": "DangNVDE180043@fpt.edu.vn",
+        "fullname": "Nguyễn Văn Đảng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Văn Mạnh. Mã số sinh viên: DE180090. Email: ManhTVDE180090@fpt.edu.vn.",
+        "mssv": "DE180090",
+        "email": "ManhTVDE180090@fpt.edu.vn",
+        "fullname": "Trần Văn Mạnh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trịnh Nam Thuận. Mã số sinh viên: DE180305. Email: ThuanTNDE180305@fpt.edu.vn.",
+        "mssv": "DE180305",
+        "email": "ThuanTNDE180305@fpt.edu.vn",
+        "fullname": "Trịnh Nam Thuận"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hoàng Phi Hùng. Mã số sinh viên: DE180523. Email: HungHPDE180523@fpt.edu.vn.",
+        "mssv": "DE180523",
+        "email": "HungHPDE180523@fpt.edu.vn",
+        "fullname": "Hoàng Phi Hùng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: NGUYỄN XUÂN CƯỜNG. Mã số sinh viên: DE180528. Email: CUONGNXDE180528@fpt.edu.vn.",
+        "mssv": "DE180528",
+        "email": "CUONGNXDE180528@fpt.edu.vn",
+        "fullname": "NGUYỄN XUÂN CƯỜNG"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trương Nhật Quang. Mã số sinh viên: DE180544. Email: QuangTNDE180544@fpt.edu.vn.",
+        "mssv": "DE180544",
+        "email": "QuangTNDE180544@fpt.edu.vn",
+        "fullname": "Trương Nhật Quang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Hữu Vương. Mã số sinh viên: DE180624. Email: VuongNHDE180624@fpt.edu.vn.",
+        "mssv": "DE180624",
+        "email": "VuongNHDE180624@fpt.edu.vn",
+        "fullname": "Nguyễn Hữu Vương"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trà Triệu Mẫn. Mã số sinh viên: DE180733. Email: ManTTDE180733@fpt.edu.vn.",
+        "mssv": "DE180733",
+        "email": "ManTTDE180733@fpt.edu.vn",
+        "fullname": "Trà Triệu Mẫn"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Nhật Minh. Mã số sinh viên: DE190019. Email: minhalex290799@gmail.com.",
+        "mssv": "DE190019",
+        "email": "minhalex290799@gmail.com",
+        "fullname": "Nguyễn Nhật Minh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Đức Khang. Mã số sinh viên: DE190052. Email: duckhangle1205@gmail.com.",
+        "mssv": "DE190052",
+        "email": "duckhangle1205@gmail.com",
+        "fullname": "Lê Đức Khang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đoàn Văn Nguyên. Mã số sinh viên: DE190212. Email: doanvantuanst357@gmail.com.",
+        "mssv": "DE190212",
+        "email": "doanvantuanst357@gmail.com",
+        "fullname": "Đoàn Văn Nguyên"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phạm Ngọc Thảo Nguyên. Mã số sinh viên: DE190222. Email: pntnguyen.nguyen@gmail.com.",
+        "mssv": "DE190222",
+        "email": "pntnguyen.nguyen@gmail.com",
+        "fullname": "Phạm Ngọc Thảo Nguyên"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Minh Ngọc. Mã số sinh viên: DE190271. Email: minhngocle595@gmail.com.",
+        "mssv": "DE190271",
+        "email": "minhngocle595@gmail.com",
+        "fullname": "Lê Minh Ngọc"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Thị Phương Quỳnh. Mã số sinh viên: DE190332. Email: ttpquynh2312@gmail.com.",
+        "mssv": "DE190332",
+        "email": "ttpquynh2312@gmail.com",
+        "fullname": "Trần Thị Phương Quỳnh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đỗ Vũ Hoàng Tiến. Mã số sinh viên: DE190446. Email: sosarasan1@gmail.com.",
+        "mssv": "DE190446",
+        "email": "sosarasan1@gmail.com",
+        "fullname": "Đỗ Vũ Hoàng Tiến"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Đình Gia. Mã số sinh viên: SE181550. Email: GiaTDSE181550@fpt.edu.vn.",
+        "mssv": "SE181550",
+        "email": "GiaTDSE181550@fpt.edu.vn",
+        "fullname": "Trần Đình Gia"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hoàng Trung Nguyên. Mã số sinh viên: DE180300. Email: NguyenHTDE180300@fpt.edu.vn.",
+        "mssv": "DE180300",
+        "email": "NguyenHTDE180300@fpt.edu.vn",
+        "fullname": "Hoàng Trung Nguyên"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Ngô Quang Hiển. Mã số sinh viên: DE180307. Email: HienNQDE180307@fpt.edu.vn.",
+        "mssv": "DE180307",
+        "email": "HienNQDE180307@fpt.edu.vn",
+        "fullname": "Ngô Quang Hiển"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lâm Gia Kiệt. Mã số sinh viên: DE180340. Email: KietLGDE180340@fpt.edu.vn.",
+        "mssv": "DE180340",
+        "email": "KietLGDE180340@fpt.edu.vn",
+        "fullname": "Lâm Gia Kiệt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Thị Gấm. Mã số sinh viên: DE180341. Email: GamTTDE180341@fpt.edu.vn.",
+        "mssv": "DE180341",
+        "email": "GamTTDE180341@fpt.edu.vn",
+        "fullname": "Trần Thị Gấm"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đặng Nguyên Giáp. Mã số sinh viên: DE180345. Email: GiapDNDE180345@fpt.edu.vn.",
+        "mssv": "DE180345",
+        "email": "GiapDNDE180345@fpt.edu.vn",
+        "fullname": "Đặng Nguyên Giáp"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hồ Trần Đình Nguyên. Mã số sinh viên: DE180372. Email: NguyenHTDDE180372@fpt.edu.vn.",
+        "mssv": "DE180372",
+        "email": "NguyenHTDDE180372@fpt.edu.vn",
+        "fullname": "Hồ Trần Đình Nguyên"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hồ Đắc Toàn. Mã số sinh viên: DE180377. Email: ToanHDDE180377@fpt.edu.vn.",
+        "mssv": "DE180377",
+        "email": "ToanHDDE180377@fpt.edu.vn",
+        "fullname": "Hồ Đắc Toàn"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Quang Nhật. Mã số sinh viên: DE180423. Email: NhatNQDE180423@fpt.edu.vn.",
+        "mssv": "DE180423",
+        "email": "NhatNQDE180423@fpt.edu.vn",
+        "fullname": "Nguyễn Quang Nhật"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Võ Phi Trường. Mã số sinh viên: DE180700. Email: TruongVPDE180700@fpt.edu.vn.",
+        "mssv": "DE180700",
+        "email": "TruongVPDE180700@fpt.edu.vn",
+        "fullname": "Võ Phi Trường"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Mai Thị Lệ Huyền. Mã số sinh viên: DE180792. Email: HuyenMTLDE180792@fpt.edu.vn.",
+        "mssv": "DE180792",
+        "email": "HuyenMTLDE180792@fpt.edu.vn",
+        "fullname": "Mai Thị Lệ Huyền"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phạm Anh Hào. Mã số sinh viên: DE180837. Email: HaoPADE180837@fpt.edu.vn.",
+        "mssv": "DE180837",
+        "email": "HaoPADE180837@fpt.edu.vn",
+        "fullname": "Phạm Anh Hào"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: TRẦN PHƯỚC ANH VŨ. Mã số sinh viên: DE180892. Email: VUTPADE180892@fpt.edu.vn.",
+        "mssv": "DE180892",
+        "email": "VUTPADE180892@fpt.edu.vn",
+        "fullname": "TRẦN PHƯỚC ANH VŨ"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Lý Minh Hoàng. Mã số sinh viên: DE190183. Email: minhhoangtran041105@gmail.com.",
+        "mssv": "DE190183",
+        "email": "minhhoangtran041105@gmail.com",
+        "fullname": "Trần Lý Minh Hoàng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phan Công Tâm. Mã số sinh viên: DE190340. Email: phancongtam190305@gmail.com.",
+        "mssv": "DE190340",
+        "email": "phancongtam190305@gmail.com",
+        "fullname": "Phan Công Tâm"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Ngọc Duy. Mã số sinh viên: DE190355. Email: lengocduy169@gmail.com.",
+        "mssv": "DE190355",
+        "email": "lengocduy169@gmail.com",
+        "fullname": "Lê Ngọc Duy"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đỗ Tuấn Minh. Mã số sinh viên: DE190415. Email: tuanminhdo1203@gmail.com.",
+        "mssv": "DE190415",
+        "email": "tuanminhdo1203@gmail.com",
+        "fullname": "Đỗ Tuấn Minh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Mai Hoàng Phúc. Mã số sinh viên: DE190701. Email: maiphuchoangqb@gmail.com.",
+        "mssv": "DE190701",
+        "email": "maiphuchoangqb@gmail.com",
+        "fullname": "Mai Hoàng Phúc"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Ngọc Bảo Quang. Mã số sinh viên: DE190709. Email: lucasnnnguyen1302@gmail.com.",
+        "mssv": "DE190709",
+        "email": "lucasnnnguyen1302@gmail.com",
+        "fullname": "Nguyễn Ngọc Bảo Quang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Doãn Duy Hoàng. Mã số sinh viên: DE190890. Email: bin06112005@gmail.com.",
+        "mssv": "DE190890",
+        "email": "bin06112005@gmail.com",
+        "fullname": "Doãn Duy Hoàng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Anh Tuấn. Mã số sinh viên: DS180604. Email: TuanNADS180604@fpt.edu.vn.",
+        "mssv": "DS180604",
+        "email": "TuanNADS180604@fpt.edu.vn",
+        "fullname": "Nguyễn Anh Tuấn"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Thiên Ân. Mã số sinh viên: DE180562. Email: AnNTDE180562@fpt.edu.vn.",
+        "mssv": "DE180562",
+        "email": "AnNTDE180562@fpt.edu.vn",
+        "fullname": "Nguyễn Thiên Ân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: TRẦN BẢO KHÁNH. Mã số sinh viên: DE180735. Email: KHANHTBDE180735@fpt.edu.vn.",
+        "mssv": "DE180735",
+        "email": "KHANHTBDE180735@fpt.edu.vn",
+        "fullname": "TRẦN BẢO KHÁNH"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phạm Khắc Ngọc. Mã số sinh viên: DE180840. Email: NgocPKDE180840@fpt.edu.vn.",
+        "mssv": "DE180840",
+        "email": "NgocPKDE180840@fpt.edu.vn",
+        "fullname": "Phạm Khắc Ngọc"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: ĐINH NGỌC HOÀNG NAM. Mã số sinh viên: DE180872. Email: NAMDNHDE180872@fpt.edu.vn.",
+        "mssv": "DE180872",
+        "email": "NAMDNHDE180872@fpt.edu.vn",
+        "fullname": "ĐINH NGỌC HOÀNG NAM"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lưu Quốc Việt. Mã số sinh viên: DE190005. Email: Luuquocviet005@gmail.com.",
+        "mssv": "DE190005",
+        "email": "Luuquocviet005@gmail.com",
+        "fullname": "Lưu Quốc Việt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Xuân Việt. Mã số sinh viên: DE190020. Email: vnguyenxuan8@gmail.com.",
+        "mssv": "DE190020",
+        "email": "vnguyenxuan8@gmail.com",
+        "fullname": "Nguyễn Xuân Việt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Thanh Trường Tuấn. Mã số sinh viên: DE190077. Email: 04122005truongtuan@gmail.com.",
+        "mssv": "DE190077",
+        "email": "04122005truongtuan@gmail.com",
+        "fullname": "Nguyễn Thanh Trường Tuấn"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Thế Vũ. Mã số sinh viên: DE190106. Email: tranthevu1005@gmail.com.",
+        "mssv": "DE190106",
+        "email": "tranthevu1005@gmail.com",
+        "fullname": "Trần Thế Vũ"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trương Nguyễn Quang Huy. Mã số sinh viên: DE190109. Email: huy.tnq@gmail.com.",
+        "mssv": "DE190109",
+        "email": "huy.tnq@gmail.com",
+        "fullname": "Trương Nguyễn Quang Huy"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Lê Khánh An. Mã số sinh viên: DE190126. Email: nguyenlekhanhan2k5@gmail.com.",
+        "mssv": "DE190126",
+        "email": "nguyenlekhanhan2k5@gmail.com",
+        "fullname": "Nguyễn Lê Khánh An"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Mai Phước Minh Tài. Mã số sinh viên: DE190157. Email: maiphuocminhtai21032005@gmail.com.",
+        "mssv": "DE190157",
+        "email": "maiphuocminhtai21032005@gmail.com",
+        "fullname": "Mai Phước Minh Tài"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Huỳnh Đức Anh. Mã số sinh viên: DE190187. Email: ducanhhuynh2005@gmail.com.",
+        "mssv": "DE190187",
+        "email": "ducanhhuynh2005@gmail.com",
+        "fullname": "Huỳnh Đức Anh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phạm Anh Kiệt. Mã số sinh viên: DE190265. Email: anhkiet2718@gmail.com.",
+        "mssv": "DE190265",
+        "email": "anhkiet2718@gmail.com",
+        "fullname": "Phạm Anh Kiệt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hoàng Ngọc Lưu Đức. Mã số sinh viên: DE190276. Email: hoangduc.qn122@gmail.com.",
+        "mssv": "DE190276",
+        "email": "hoangduc.qn122@gmail.com",
+        "fullname": "Hoàng Ngọc Lưu Đức"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Thanh Thịnh. Mã số sinh viên: DE190370. Email: thinhtanker2@gmail.com.",
+        "mssv": "DE190370",
+        "email": "thinhtanker2@gmail.com",
+        "fullname": "Lê Thanh Thịnh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hoàng Đình Minh Đạt. Mã số sinh viên: DE190394. Email: huyentonnuminhtam1975@gmail.com.",
+        "mssv": "DE190394",
+        "email": "huyentonnuminhtam1975@gmail.com",
+        "fullname": "Hoàng Đình Minh Đạt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Bắc Bảo Khang. Mã số sinh viên: DE190407. Email: nonamejp64446644@gmail.com.",
+        "mssv": "DE190407",
+        "email": "nonamejp64446644@gmail.com",
+        "fullname": "Nguyễn Bắc Bảo Khang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đặng Xuân Hùng. Mã số sinh viên: DE190414. Email: hungzoro75@gmail.com.",
+        "mssv": "DE190414",
+        "email": "hungzoro75@gmail.com",
+        "fullname": "Đặng Xuân Hùng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Thắng Đông. Mã số sinh viên: DE190501. Email: tranthangdong1892005@gmail.com.",
+        "mssv": "DE190501",
+        "email": "tranthangdong1892005@gmail.com",
+        "fullname": "Trần Thắng Đông"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trương Tấn Hưng. Mã số sinh viên: DE190532. Email: truongtanhung0@gmail.com.",
+        "mssv": "DE190532",
+        "email": "truongtanhung0@gmail.com",
+        "fullname": "Trương Tấn Hưng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phan Nhật Quang. Mã số sinh viên: DE190606. Email: quangnhatphan273@gmail.com.",
+        "mssv": "DE190606",
+        "email": "quangnhatphan273@gmail.com",
+        "fullname": "Phan Nhật Quang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Huỳnh Tấn Vinh. Mã số sinh viên: DE190615. Email: curryvinh150@gmail.com.",
+        "mssv": "DE190615",
+        "email": "curryvinh150@gmail.com",
+        "fullname": "Huỳnh Tấn Vinh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Tiến Thịnh. Mã số sinh viên: DE190623. Email: TranTienThinhDE190623@gmail.com.",
+        "mssv": "DE190623",
+        "email": "TranTienThinhDE190623@gmail.com",
+        "fullname": "Trần Tiến Thịnh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Thành Nhẫn. Mã số sinh viên: DE190635. Email: ntnuser004@gmail.com.",
+        "mssv": "DE190635",
+        "email": "ntnuser004@gmail.com",
+        "fullname": "Nguyễn Thành Nhẫn"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Ông Ích Bảo. Mã số sinh viên: DE190666. Email: ongichbaofpt111@gmail.com.",
+        "mssv": "DE190666",
+        "email": "ongichbaofpt111@gmail.com",
+        "fullname": "Ông Ích Bảo"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đoàn Thị Thuý An. Mã số sinh viên: DE190703. Email: ninnin2005.123@gmail.com.",
+        "mssv": "DE190703",
+        "email": "ninnin2005.123@gmail.com",
+        "fullname": "Đoàn Thị Thuý An"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Thành Quang. Mã số sinh viên: DE190708. Email: nguyenthanhquang260305@gmail.com.",
+        "mssv": "DE190708",
+        "email": "nguyenthanhquang260305@gmail.com",
+        "fullname": "Nguyễn Thành Quang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Huỳnh Ngọc Hân. Mã số sinh viên: DE191000. Email: Hanshvn11@gmail.com.",
+        "mssv": "DE191000",
+        "email": "Hanshvn11@gmail.com",
+        "fullname": "Huỳnh Ngọc Hân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Võ Huỳnh Khôi. Mã số sinh viên: DE191013. Email: vohuynhkhoi11@gmail.com.",
+        "mssv": "DE191013",
+        "email": "vohuynhkhoi11@gmail.com",
+        "fullname": "Võ Huỳnh Khôi"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Ngô Nguyên Khôi. Mã số sinh viên: DE191033. Email: khoik701@gmail.com.",
+        "mssv": "DE191033",
+        "email": "khoik701@gmail.com",
+        "fullname": "Ngô Nguyên Khôi"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Trung Tuyến. Mã số sinh viên: DE191053. Email: trungtuyensds@gmail.com.",
+        "mssv": "DE191053",
+        "email": "trungtuyensds@gmail.com",
+        "fullname": "Nguyễn Trung Tuyến"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đặng Gia Khánh. Mã số sinh viên: QE180087. Email: KhanhDGQE180087@fpt.edu.vn.",
+        "mssv": "QE180087",
+        "email": "KhanhDGQE180087@fpt.edu.vn",
+        "fullname": "Đặng Gia Khánh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Huỳnh Bá Sanh. Mã số sinh viên: QE180107. Email: SanhNHBQE180107@fpt.edu.vn.",
+        "mssv": "QE180107",
+        "email": "SanhNHBQE180107@fpt.edu.vn",
+        "fullname": "Nguyễn Huỳnh Bá Sanh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Văn Quang Khải. Mã số sinh viên: DE190021. Email: flawfloren@gmail.com.",
+        "mssv": "DE190021",
+        "email": "flawfloren@gmail.com",
+        "fullname": "Nguyễn Văn Quang Khải"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Thị Ngọc Vân. Mã số sinh viên: DE190034. Email: ngocvanday@gmail.com.",
+        "mssv": "DE190034",
+        "email": "ngocvanday@gmail.com",
+        "fullname": "Nguyễn Thị Ngọc Vân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Thanh Thiên. Mã số sinh viên: DE190045. Email: tranvanthien2637@gmail.com.",
+        "mssv": "DE190045",
+        "email": "tranvanthien2637@gmail.com",
+        "fullname": "Trần Thanh Thiên"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Đức Khang. Mã số sinh viên: DE190052. Email: duckhangle1205@gmail.com.",
+        "mssv": "DE190052",
+        "email": "duckhangle1205@gmail.com",
+        "fullname": "Lê Đức Khang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phan Phụng Minh. Mã số sinh viên: DE190089. Email: ppminh150305@gmail.com.",
+        "mssv": "DE190089",
+        "email": "ppminh150305@gmail.com",
+        "fullname": "Phan Phụng Minh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Bá Lê Hoàng. Mã số sinh viên: DE190274. Email: hoangtran18012005@gmail.com.",
+        "mssv": "DE190274",
+        "email": "hoangtran18012005@gmail.com",
+        "fullname": "Trần Bá Lê Hoàng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Nguyễn Trung Dũng. Mã số sinh viên: DE190282. Email: trungdungductri223@gmail.com.",
+        "mssv": "DE190282",
+        "email": "trungdungductri223@gmail.com",
+        "fullname": "Lê Nguyễn Trung Dũng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Đình Khánh. Mã số sinh viên: DE190297. Email: dinhkhanhnguyen2005@gmail.com.",
+        "mssv": "DE190297",
+        "email": "dinhkhanhnguyen2005@gmail.com",
+        "fullname": "Nguyễn Đình Khánh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Văn Vinh. Mã số sinh viên: DE190323. Email: vinhvane685@gmail.com.",
+        "mssv": "DE190323",
+        "email": "vinhvane685@gmail.com",
+        "fullname": "Nguyễn Văn Vinh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phan Thanh Duy. Mã số sinh viên: DE190337. Email: duyphanthanh103@gmail.com.",
+        "mssv": "DE190337",
+        "email": "duyphanthanh103@gmail.com",
+        "fullname": "Phan Thanh Duy"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Dương Tấn Hưng. Mã số sinh viên: DE190358. Email: duongtanhung24@gmail.com.",
+        "mssv": "DE190358",
+        "email": "duongtanhung24@gmail.com",
+        "fullname": "Dương Tấn Hưng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đoàn Lâm Hoàng. Mã số sinh viên: DE190384. Email: hoanglam333.a@gmail.com.",
+        "mssv": "DE190384",
+        "email": "hoanglam333.a@gmail.com",
+        "fullname": "Đoàn Lâm Hoàng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Võ Quốc Khánh. Mã số sinh viên: DE190469. Email: aquene12345@gmail.com.",
+        "mssv": "DE190469",
+        "email": "aquene12345@gmail.com",
+        "fullname": "Võ Quốc Khánh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Phạm Thiên Phong. Mã số sinh viên: DE190472. Email: lephamthienphong0105@gmail.com.",
+        "mssv": "DE190472",
+        "email": "lephamthienphong0105@gmail.com",
+        "fullname": "Lê Phạm Thiên Phong"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Vũ Văn Quốc Huy. Mã số sinh viên: DE190480. Email: huyqame1356@gmail.com.",
+        "mssv": "DE190480",
+        "email": "huyqame1356@gmail.com",
+        "fullname": "Vũ Văn Quốc Huy"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Thanh Bình. Mã số sinh viên: DE190517. Email: tbinhnguyen2005@gmail.com.",
+        "mssv": "DE190517",
+        "email": "tbinhnguyen2005@gmail.com",
+        "fullname": "Nguyễn Thanh Bình"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Bùi Hữu Quốc Ngọc. Mã số sinh viên: DE190523. Email: be74ct@gmail.com.",
+        "mssv": "DE190523",
+        "email": "be74ct@gmail.com",
+        "fullname": "Bùi Hữu Quốc Ngọc"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trương Nguyễn Minh Huy. Mã số sinh viên: DE190551. Email: truongminhhuy31@gmail.com.",
+        "mssv": "DE190551",
+        "email": "truongminhhuy31@gmail.com",
+        "fullname": "Trương Nguyễn Minh Huy"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phan Nhân Tuấn Kiệt. Mã số sinh viên: DE190644. Email: kirashiyami@gmail.com.",
+        "mssv": "DE190644",
+        "email": "kirashiyami@gmail.com",
+        "fullname": "Phan Nhân Tuấn Kiệt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Thế Trung. Mã số sinh viên: DE190704. Email: trung014444@gmail.com.",
+        "mssv": "DE190704",
+        "email": "trung014444@gmail.com",
+        "fullname": "Nguyễn Thế Trung"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Thành Quang. Mã số sinh viên: DE190708. Email: nguyenthanhquang260305@gmail.com.",
+        "mssv": "DE190708",
+        "email": "nguyenthanhquang260305@gmail.com",
+        "fullname": "Nguyễn Thành Quang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phạm Tuấn Thành. Mã số sinh viên: DE190711. Email: thanh01695727627@gmail.com.",
+        "mssv": "DE190711",
+        "email": "thanh01695727627@gmail.com",
+        "fullname": "Phạm Tuấn Thành"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trịnh Minh Bảo Trân. Mã số sinh viên: DE180788. Email: TranTMBDE180788@fpt.edu.vn.",
+        "mssv": "DE180788",
+        "email": "TranTMBDE180788@fpt.edu.vn",
+        "fullname": "Trịnh Minh Bảo Trân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đỗ Lê Minh Quân. Mã số sinh viên: DE190911. Email: quanbmt725@gmail.com.",
+        "mssv": "DE190911",
+        "email": "quanbmt725@gmail.com",
+        "fullname": "Đỗ Lê Minh Quân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phan Thanh Đạt. Mã số sinh viên: DE191061. Email: datphan3999@gmail.com.",
+        "mssv": "DE191061",
+        "email": "datphan3999@gmail.com",
+        "fullname": "Phan Thanh Đạt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phạm Minh Tiến. Mã số sinh viên: DE191091. Email: 15112005pt@gmail.com.",
+        "mssv": "DE191091",
+        "email": "15112005pt@gmail.com",
+        "fullname": "Phạm Minh Tiến"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Đức Anh. Mã số sinh viên: DE200022. Email: badboy240906@gmail.com.",
+        "mssv": "DE200022",
+        "email": "badboy240906@gmail.com",
+        "fullname": "Trần Đức Anh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Dương Tiến Thành. Mã số sinh viên: DE200048. Email: duongtienthanh11032006@gmail.com.",
+        "mssv": "DE200048",
+        "email": "duongtienthanh11032006@gmail.com",
+        "fullname": "Dương Tiến Thành"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Võ Đặng Nhật Quang. Mã số sinh viên: DE200102. Email: nhaatquaang@gmail.com.",
+        "mssv": "DE200102",
+        "email": "nhaatquaang@gmail.com",
+        "fullname": "Võ Đặng Nhật Quang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Trần Đăng Minh. Mã số sinh viên: DE200111. Email: bipminh2006@gmail.com.",
+        "mssv": "DE200111",
+        "email": "bipminh2006@gmail.com",
+        "fullname": "Nguyễn Trần Đăng Minh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phan Hữu Nhật Trường. Mã số sinh viên: DE200114. Email: truongnhat260106@gmail.com.",
+        "mssv": "DE200114",
+        "email": "truongnhat260106@gmail.com",
+        "fullname": "Phan Hữu Nhật Trường"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Cao Thái Dương. Mã số sinh viên: DE200144. Email: caothaiduong20062019@gmail.com.",
+        "mssv": "DE200144",
+        "email": "caothaiduong20062019@gmail.com",
+        "fullname": "Cao Thái Dương"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Thị Anh Thương. Mã số sinh viên: DE200161. Email: anhthuongle1109@gmail.com.",
+        "mssv": "DE200161",
+        "email": "anhthuongle1109@gmail.com",
+        "fullname": "Lê Thị Anh Thương"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Quảng Hà. Mã số sinh viên: DE200165. Email: lqh041225@gmail.com.",
+        "mssv": "DE200165",
+        "email": "lqh041225@gmail.com",
+        "fullname": "Lê Quảng Hà"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Hồ Anh Duy. Mã số sinh viên: DE200171. Email: lehoanhduy5426@gmail.com.",
+        "mssv": "DE200171",
+        "email": "lehoanhduy5426@gmail.com",
+        "fullname": "Lê Hồ Anh Duy"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trương Mạnh Lập. Mã số sinh viên: DE200206. Email: manhlaptruong@gmail.com.",
+        "mssv": "DE200206",
+        "email": "manhlaptruong@gmail.com",
+        "fullname": "Trương Mạnh Lập"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trương Công Phúc. Mã số sinh viên: DE200225. Email: henryphuc.forwork@gmail.com.",
+        "mssv": "DE200225",
+        "email": "henryphuc.forwork@gmail.com",
+        "fullname": "Trương Công Phúc"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Thái Hưng. Mã số sinh viên: DE200258. Email: hungnguyen.190206@gmail.com.",
+        "mssv": "DE200258",
+        "email": "hungnguyen.190206@gmail.com",
+        "fullname": "Nguyễn Thái Hưng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đoàn Ngọc Triết. Mã số sinh viên: DE200260. Email: trietdoanngoc@gmail.com.",
+        "mssv": "DE200260",
+        "email": "trietdoanngoc@gmail.com",
+        "fullname": "Đoàn Ngọc Triết"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đinh Khắc Nhật Trường. Mã số sinh viên: DE200277. Email: truong15022006@gmail.com.",
+        "mssv": "DE200277",
+        "email": "truong15022006@gmail.com",
+        "fullname": "Đinh Khắc Nhật Trường"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Công Vinh. Mã số sinh viên: DE200353. Email: trancongvinh2006@gmail.com.",
+        "mssv": "DE200353",
+        "email": "trancongvinh2006@gmail.com",
+        "fullname": "Trần Công Vinh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phan Tuấn Hưng. Mã số sinh viên: DE200437. Email: phantuanhung56pro@gmail.com.",
+        "mssv": "DE200437",
+        "email": "phantuanhung56pro@gmail.com",
+        "fullname": "Phan Tuấn Hưng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đặng Quang Nhật. Mã số sinh viên: DE200497. Email: dangquangnhat1504@gmail.com.",
+        "mssv": "DE200497",
+        "email": "dangquangnhat1504@gmail.com",
+        "fullname": "Đặng Quang Nhật"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Tuệ Triều. Mã số sinh viên: DE200526. Email: letuetrieu2204@gmail.com.",
+        "mssv": "DE200526",
+        "email": "letuetrieu2204@gmail.com",
+        "fullname": "Lê Tuệ Triều"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Huỳnh Nam Ngọc Hùng. Mã số sinh viên: DE200636. Email: huynhnamngochung2006@gmail.com.",
+        "mssv": "DE200636",
+        "email": "huynhnamngochung2006@gmail.com",
+        "fullname": "Huỳnh Nam Ngọc Hùng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hà Cao Phú Bình. Mã số sinh viên: DE190689. Email: hacaophubinhdj@gmail.com.",
+        "mssv": "DE190689",
+        "email": "hacaophubinhdj@gmail.com",
+        "fullname": "Hà Cao Phú Bình"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Triệu Vũ. Mã số sinh viên: DE191037. Email: nguyentrieuvu2k5@gmail.com.",
+        "mssv": "DE191037",
+        "email": "nguyentrieuvu2k5@gmail.com",
+        "fullname": "Nguyễn Triệu Vũ"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Đức Anh. Mã số sinh viên: DE200022. Email: badboy240906@gmail.com.",
+        "mssv": "DE200022",
+        "email": "badboy240906@gmail.com",
+        "fullname": "Trần Đức Anh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Ngọc Thành Nhân. Mã số sinh viên: DE200054. Email: nnmtreallove@gmail.com.",
+        "mssv": "DE200054",
+        "email": "nnmtreallove@gmail.com",
+        "fullname": "Nguyễn Ngọc Thành Nhân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Hải Nguyên. Mã số sinh viên: DE200113. Email: hainguyenzzz2201@gmail.com.",
+        "mssv": "DE200113",
+        "email": "hainguyenzzz2201@gmail.com",
+        "fullname": "Nguyễn Hải Nguyên"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Hồng Quân. Mã số sinh viên: DE200162. Email: hongquannguyen2k6@gmail.com.",
+        "mssv": "DE200162",
+        "email": "hongquannguyen2k6@gmail.com",
+        "fullname": "Nguyễn Hồng Quân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hồ Thành Tài. Mã số sinh viên: DE200167. Email: hothanhtaiqn06@gmail.com.",
+        "mssv": "DE200167",
+        "email": "hothanhtaiqn06@gmail.com",
+        "fullname": "Hồ Thành Tài"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Nguyễn Anh Quân. Mã số sinh viên: DE200181. Email: tnaquan00126@gmail.com.",
+        "mssv": "DE200181",
+        "email": "tnaquan00126@gmail.com",
+        "fullname": "Trần Nguyễn Anh Quân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Đỗ Uyên Phương. Mã số sinh viên: DE200192. Email: uyenphuongtran2006@gmail.com.",
+        "mssv": "DE200192",
+        "email": "uyenphuongtran2006@gmail.com",
+        "fullname": "Trần Đỗ Uyên Phương"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phan Bá Song Toàn. Mã số sinh viên: DE200247. Email: phanbasongtoan112@gmail.com.",
+        "mssv": "DE200247",
+        "email": "phanbasongtoan112@gmail.com",
+        "fullname": "Phan Bá Song Toàn"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Huy Hoàng. Mã số sinh viên: DE200352. Email: huyhoang060706@gmail.com.",
+        "mssv": "DE200352",
+        "email": "huyhoang060706@gmail.com",
+        "fullname": "Lê Huy Hoàng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đinh Quốc Trường. Mã số sinh viên: DE200389. Email: truongbf18@gmail.com.",
+        "mssv": "DE200389",
+        "email": "truongbf18@gmail.com",
+        "fullname": "Đinh Quốc Trường"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Ngô Ngọc Trường Sơn. Mã số sinh viên: DE200399. Email: truongsonks2006@gmail.com.",
+        "mssv": "DE200399",
+        "email": "truongsonks2006@gmail.com",
+        "fullname": "Ngô Ngọc Trường Sơn"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Gia Phúc. Mã số sinh viên: DE200407. Email: phucoik@gmail.com.",
+        "mssv": "DE200407",
+        "email": "phucoik@gmail.com",
+        "fullname": "Nguyễn Gia Phúc"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Hữu Gia Bảo. Mã số sinh viên: DE200456. Email: giabaovn294@gmail.com.",
+        "mssv": "DE200456",
+        "email": "giabaovn294@gmail.com",
+        "fullname": "Nguyễn Hữu Gia Bảo"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Đình Hoàng. Mã số sinh viên: DE200459. Email: ndhoang2310@gmail.com.",
+        "mssv": "DE200459",
+        "email": "ndhoang2310@gmail.com",
+        "fullname": "Nguyễn Đình Hoàng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Bùi Anh Kiệt. Mã số sinh viên: DE200465. Email: kietbui1109@gmail.com.",
+        "mssv": "DE200465",
+        "email": "kietbui1109@gmail.com",
+        "fullname": "Bùi Anh Kiệt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Quang Long. Mã số sinh viên: DE200488. Email: culongvlog@gmail.com.",
+        "mssv": "DE200488",
+        "email": "culongvlog@gmail.com",
+        "fullname": "Trần Quang Long"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đặng Quang Nhật. Mã số sinh viên: DE200497. Email: dangquangnhat1504@gmail.com.",
+        "mssv": "DE200497",
+        "email": "dangquangnhat1504@gmail.com",
+        "fullname": "Đặng Quang Nhật"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Vũ Quốc Đạt. Mã số sinh viên: DE200522. Email: qd1305@gmail.com.",
+        "mssv": "DE200522",
+        "email": "qd1305@gmail.com",
+        "fullname": "Vũ Quốc Đạt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Toàn Đạt. Mã số sinh viên: DE200594. Email: datletoan1812@gmail.com.",
+        "mssv": "DE200594",
+        "email": "datletoan1812@gmail.com",
+        "fullname": "Lê Toàn Đạt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: PHAN VĂN KHIÊM. Mã số sinh viên: DE180226. Email: KHIEMPVDE180226@fpt.edu.vn.",
+        "mssv": "DE180226",
+        "email": "KHIEMPVDE180226@fpt.edu.vn",
+        "fullname": "PHAN VĂN KHIÊM"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Hồ Vũ Minh Thiện. Mã số sinh viên: DE180325. Email: ThienHVMDE180325@fpt.edu.vn.",
+        "mssv": "DE180325",
+        "email": "ThienHVMDE180325@fpt.edu.vn",
+        "fullname": "Hồ Vũ Minh Thiện"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Đinh Công Hưng. Mã số sinh viên: DE180875. Email: HungDCDE180875@fpt.edu.vn.",
+        "mssv": "DE180875",
+        "email": "HungDCDE180875@fpt.edu.vn",
+        "fullname": "Đinh Công Hưng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Công Danh. Mã số sinh viên: DE190026. Email: myt0633@gmail.com.",
+        "mssv": "DE190026",
+        "email": "myt0633@gmail.com",
+        "fullname": "Trần Công Danh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Trung Dũng. Mã số sinh viên: DE190142. Email: dung14092k5@gmail.com.",
+        "mssv": "DE190142",
+        "email": "dung14092k5@gmail.com",
+        "fullname": "Nguyễn Trung Dũng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Đức Cường. Mã số sinh viên: DE190294. Email: biimaxx25@gmail.com.",
+        "mssv": "DE190294",
+        "email": "biimaxx25@gmail.com",
+        "fullname": "Lê Đức Cường"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Dương Quốc Sang. Mã số sinh viên: DE190924. Email: duongquocsang13@gmail.com.",
+        "mssv": "DE190924",
+        "email": "duongquocsang13@gmail.com",
+        "fullname": "Dương Quốc Sang"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Văn Quốc Nhật. Mã số sinh viên: DE200008. Email: williamnguyen0425@gmail.com.",
+        "mssv": "DE200008",
+        "email": "williamnguyen0425@gmail.com",
+        "fullname": "Nguyễn Văn Quốc Nhật"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Mai Anh Huy. Mã số sinh viên: DE200023. Email: maianhhuy1104@gmail.com.",
+        "mssv": "DE200023",
+        "email": "maianhhuy1104@gmail.com",
+        "fullname": "Mai Anh Huy"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phạm Ngọc Bảo Phú. Mã số sinh viên: DE200032. Email: phupham7770@gmail.com.",
+        "mssv": "DE200032",
+        "email": "phupham7770@gmail.com",
+        "fullname": "Phạm Ngọc Bảo Phú"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Văn Nhất. Mã số sinh viên: DE200047. Email: nguyenvannhat8826@gmail.com.",
+        "mssv": "DE200047",
+        "email": "nguyenvannhat8826@gmail.com",
+        "fullname": "Nguyễn Văn Nhất"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Gia Phát. Mã số sinh viên: DE200251. Email: phatngfs92256@gmail.com.",
+        "mssv": "DE200251",
+        "email": "phatngfs92256@gmail.com",
+        "fullname": "Nguyễn Gia Phát"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Nguyễn Hoàng Anh Kiệt. Mã số sinh viên: DE200278. Email: kiet.nguyen20067@gmail.com.",
+        "mssv": "DE200278",
+        "email": "kiet.nguyen20067@gmail.com",
+        "fullname": "Nguyễn Hoàng Anh Kiệt"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phạm Vũ Quang Minh. Mã số sinh viên: DE200347. Email: minhphamvuquang@gmail.com.",
+        "mssv": "DE200347",
+        "email": "minhphamvuquang@gmail.com",
+        "fullname": "Phạm Vũ Quang Minh"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Đình Sáng. Mã số sinh viên: DE200569. Email: ledinhsang2006@gmail.com.",
+        "mssv": "DE200569",
+        "email": "ledinhsang2006@gmail.com",
+        "fullname": "Lê Đình Sáng"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Gia Long. Mã số sinh viên: DE200583. Email: trangialong09102006@gmail.com.",
+        "mssv": "DE200583",
+        "email": "trangialong09102006@gmail.com",
+        "fullname": "Trần Gia Long"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Long Vũ. Mã số sinh viên: DE200615. Email: vutran.03092006@gmail.com.",
+        "mssv": "DE200615",
+        "email": "vutran.03092006@gmail.com",
+        "fullname": "Trần Long Vũ"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Huỳnh Thị Nhã Trân. Mã số sinh viên: DE200631. Email: myhuyen140922@gmail.com.",
+        "mssv": "DE200631",
+        "email": "myhuyen140922@gmail.com",
+        "fullname": "Huỳnh Thị Nhã Trân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Lê Trần Bình An. Mã số sinh viên: DE201000. Email: letranbinhan2006@gmail.com.",
+        "mssv": "DE201000",
+        "email": "letranbinhan2006@gmail.com",
+        "fullname": "Lê Trần Bình An"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Mai Quốc Huy. Mã số sinh viên: DE201068. Email: maiquochuy100506@gmail.com.",
+        "mssv": "DE201068",
+        "email": "maiquochuy100506@gmail.com",
+        "fullname": "Mai Quốc Huy"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trịnh Ngọc Thảo Hiền. Mã số sinh viên: DE201096. Email: thaohientrinhngoc@gmail.com.",
+        "mssv": "DE201096",
+        "email": "thaohientrinhngoc@gmail.com",
+        "fullname": "Trịnh Ngọc Thảo Hiền"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Trần Đăng Khoa. Mã số sinh viên: DE201144. Email: khoa2006hehe@gmail.com.",
+        "mssv": "DE201144",
+        "email": "khoa2006hehe@gmail.com",
+        "fullname": "Trần Đăng Khoa"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phạm Hồng Nhật Tân. Mã số sinh viên: DE201155. Email: phamhongnhattan@gmail.com.",
+        "mssv": "DE201155",
+        "email": "phamhongnhattan@gmail.com",
+        "fullname": "Phạm Hồng Nhật Tân"
+    },
+    {
+        "type": "student_list",
+        "content": "Họ và tên: Phạm Vũ Hoàng. Mã số sinh viên: DE201440. Email: 690demonking069@gmail.com.",
+        "mssv": "DE201440",
+        "email": "690demonking069@gmail.com",
+        "fullname": "Phạm Vũ Hoàng"
+    }
+]

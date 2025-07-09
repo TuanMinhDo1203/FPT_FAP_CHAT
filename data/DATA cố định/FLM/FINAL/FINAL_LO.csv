@@ -1,0 +1,382 @@
+﻿SubjectCode,CLO Name,CLO Details,LO Details
+OTP101,1,CLO1,Know general information about FPT university and the roles of functional department supporting students during the studying period.
+OTP101,2,CLO2,"Define training models and regulations of FPT university, know the curriculum that the students will study and information systems to support students' learning. Understand study skills for university students."
+OTP101,3,CLO3,"Indicate the fundermentals of military and national security and practice the basic skills in military training and Vovinam. Enhance fitness, sense of patriotism and national pride as well as the awareness of constructing and protecting the nation."
+OTP101,4,CLO4,"Develop soft skills such as team spirit, disciplines and positive attitude in different environment."
+OTP101,5,CLO5,"Experience plentiful activities in order to develop personalities, life skills and sense of community."
+VOV114,1,CLO1,Giới thiệu cho sinh viên sơ lược về sự hình thành và phát triển môn Vovinam – Việt võ đạo trong nước và thế giới. Briefly introduce the formation and development of Vovinam - Viet Vo Dao in Vietnam as well as around the world.
+VOV114,2,CLO2,Giới thiệu môn quy và các quy định trong tập luyện Vovinam tại trường Đại học FPT. Introduce rules and regulations of Vovinam training at FPT University.
+VOV114,3,CLO3,"Bước đầu xây dựng cho sinh viên những kỹ năng thực hiện kỹ thuật, các kỹ thuật cơ bản và nền tảng thể lực chung. Initially build basic skills, techniques and physical foundation for students."
+COV111,1,CLO1,Giới thiệu cho sinh viên sơ lược về môn học Cờ Vua. Briefly introduce the subject of Chess.
+COV111,2,CLO2,Giới thiệu các quy định trong học tập nội dung Cờ Vua tại trường Đại học FPT. Introduce regulations of studying Chess at FPT University.
+COV111,3,CLO3,Bước đầu xây dựng cho sinh viên những kỹ năng thi đấu cơ bản. Initially build basic competition skills for students.
+DTR103,1,CLO1,"Hiểu biết cơ bản về lịch sử, sự phát triển hình thành của nền âm nhạc truyền thống Việt Nam. Understand the history and development of Vietnamese traditional music."
+DTR103,2,CLO2,Phân biệt được sự khác nhau của các nhạc cụ truyền thống Việt Nam và một số nước khác. Differentiate traditional musical instruments of Vietnam from those of other countries.
+DTR103,3,CLO3,Chơi được một số bài cơ bản của nhạc truyền thống Việt Nam và nước ngoài. Be able to play some simple Vietnamese and foreign traditional songs.
+DBA103,1,CLO1,"Hiểu biết cơ bản về lịch sử, sự phát triển hình thành của nền âm nhạc truyền thống Việt Nam. Understand the history and development of Vietnamese traditional music."
+DBA103,2,CLO2,Chơi được một số bài cơ bản của nhạc truyền thống Việt Nam và nước ngoài. Be able to play some simple Vietnamese and foreign traditional songs.
+DSA103,1,CLO1,"Hiểu biết cơ bản về lịch sử, sự phát triển hình thành của nền âm nhạc truyền thống Việt Nam. Understand the history and development of Vietnamese traditional music."
+DSA103,2,CLO2,Chơi được một số bài cơ bản của nhạc truyền thống Việt Nam và nước ngoài. Be able to play some simple Vietnamese and foreign traditional songs.
+DNG103,1,CLO1,"Hiểu biết cơ bản về lịch sử, sự phát triển hình thành của nền âm nhạc truyền thống Việt Nam. Understand the history and development of Vietnamese traditional music."
+DNG103,2,CLO2,Phân biệt được sự khác nhau của các nhạc cụ truyền thống Việt Nam và một số nước khác. Be able to differentiate traditional musical instruments of Vietnam from those of other countries.
+DNG103,3,CLO3,Chơi được một số bài cơ bản của nhạc truyền thống Việt Nam và nước ngoài. Be able to play some simple Vietnamese and foreign traditional songs.
+DTB103,1,CLO1,"Hiểu biết cơ bản về lịch sử, sự phát triển hình thành của nền âm nhạc truyền thống Việt Nam. Understand the history and development of Vietnamese traditional music."
+DTB103,2,CLO2,Chơi được một số bài cơ bản của nhạc truyền thống Việt Nam và nước ngoài. Be able to play some simple Vietnamese and foreign traditional songs.
+TRG103,1,CLO1,"Hiểu biết cơ bản về lịch sử, sự phát triển hình thành của nền âm nhạc truyền thống Việt Nam. Understand the history and development of Vietnamese traditional music."
+TRG103,2,CLO2,Chơi được một số bài cơ bản của nhạc truyền thống Việt Nam và nước ngoài. Be able to play some simple Vietnamese and foreign traditional songs.
+DNH103,1,CLO1,"Hiểu biết cơ bản về lịch sử, sự phát triển hình thành của nền âm nhạc truyền thống Việt Nam. Understand the history and development of Vietnamese traditional music."
+DNH103,2,CLO2,Phân biệt được sự khác nhau của các nhạc cụ truyền thống Việt Nam và một số nước khác. Be able to differentiate traditional musical instruments of Vietnam from those of other countries.
+DNH103,3,CLO3,Chơi được một số bài cơ bản của nhạc truyền thống Việt Nam và nước ngoài. Be able to play some simple Vietnamese and foreign traditional songs.
+CSI106,1,CLO1,Understand the subsystems of a computer and describe the role of these components
+CSI106,2,CLO10,Distinguish between text file and binary file and access methods
+CSI106,3,CLO11,Describe and explain operations within a relational database
+CSI106,4,CLO12,Descibe security goals and discuss ethical issues
+CSI106,5,CLO13,Describe artificial intelligence and its basic concepts
+CSI106,6,CLO2,"Know how to convert a number from one base to other base( decimal, binary, octal and hexadecimal)"
+CSI106,7,CLO3,Describe how different data type is stored inside a computer as bit patterns and operations on data
+CSI106,8,CLO4,Describe the layers in netwoking and their relationship
+CSI106,9,CLO5,Undestand the role of OS in a computer system
+CSI106,10,CLO6,Define a algorithm and describe tools used to develop algorithms
+CSI106,11,CLO7,Explain how a program in a high-level language is translated into machine language
+CSI106,12,CLO8,Describe the software lifecycle
+CSI106,13,CLO9,"Discuss some data structures: Array, Records, Linked list"
+MAD101,1,CLO1,Manipulate logical expressions and use logic for inference	 LO1.1	Determine the truth value of a proposition; check if two propositions are equivalent; translate between logical expressions and sentences for propositional logic. LO1.2	Determine the truth value of a proposition; check if two propositions are equivalent; translate between logical expressions and sentences for predicate logic.  LO1.3	Manipulate logical expressions with nested quantifiers. LO1.4	Recognize the inference rules used in a valid statemment; use inference rules to draw conclusions; check if a statement is valid.
+MAD101,2,CLO2,"Perform basic operations on sets, functions and sequences	 LO2.1	Distinguish basic terminologies in set theory; find the power set and cartersian product; represent a subset using binary bits. LO2.2	Perform operations on sets; check if two sets are equal. LO2.3	Determine if a given rule represents a function; perform operations on functions and manipulate functions inlvolving the floor and the ceiling functions.  LO2.4	Determine if a function is one-to-one, onto or a bijection, and describe how these properties can be used to compare two sets. LO2.5	Find a formula for a sequence; evaluate a finite sum with a possible use of special summations."
+MAD101,3,CLO3,"Analyze basic algorithms written in pseudo codes and determine their complexities	 LO3.1	Determine if a procedure is an algorithm; work out basic algorithms written in pseudocodes including searching, sorting and  greedy algorithms. LO3.2	Find big-O, big-Omega and big-Theta estimates of a function; describe complexity of an algorithm."
+MAD101,4,CLO4,Discuss applications of modular arithmetic and analyze algorithms on integers	 LO4.1	Perform integer division and modular arithmetic; apply congruence in generating pseudorandom numbers and in cryptology.  LO4.2	Find the base b expansion of an integer; perform binary operations and modular exponentiation on integers.  LO4.3	Check if a number is prime and find prime factorization of an integer; find greatest common divisor and least common multiple.
+MAD101,5,CLO5,"Use induction and recursive definition to prove a statement or to describe an object, and write recursive algorithms	 LO5.1	Prove mathematical statements by induction.  LO5.2	Manipulate sequences and sets defined by recursion.  LO5.3	Work out recursive algorithms, including the mergesort algorithm; distinguish between iterative and recursive algorithms."
+MAD101,6,CLO6,"Solve counting problems	 LO6.1	Use basic rules for counting LO6.2	Use recurrence relations for counting, including divide-and-conquer recurrence relations."
+MAD101,7,CLO7,Analyze the structure of a graph and find shortest paths in a weighted graph	 LO7.1	Classify and describe a graph; use hand-shaking theorem to analyze a graph; identify special graphs including bipartite graphs. LO7.2	Represent a graph using incidence and adjacency matrices; determine if two graphs are isomorphic. LO7.3	Check connectivity of a graph and identify its connected components; count paths in a graph. LO7.4	Determine if a graph has Euler/Hamilton paths/circuits; find Euler and Hamilton paths/circuits in a graph.  LO7.5	Run Dijsktra's algorithm to determine the shortest paths and the shortest distance in a weighted graph.
+MAD101,8,CLO8,"Analyze the structure of a tree and describe algorithms using trees	 LO8.1	Check if a graph is a tree, and identify basic terminologies of a tree; use properties of m-ary trees to solve problems. LO8.2	Build binary search trees and decision trees; analyze complexities of algorithms described using binary search trees and decision trees. LO8.3	Recognize and construct prefix codes; build optimal trees using Huffman coding. LO8.4	Traverse a tree and use tree traversal to generate notations; evaluate prefix and postfix expressions. LO8.5	Run Depth-first search and Breadth-first search algorithms to find spanning trees  LO8.6	Find minimum spanning trees using Prim, Kruskal,... algorithms"
+MAE101,1,CLO1,"Describe basic properties and find the limit of a function LO1.1	Find the domain, range, zeros and analyze the symmetry of the graph; create new functions from old functions. LO1.2	Find the slope and write an equation of a line; describe how a function changes under graph translations. LO1.3	Compute the limit of a function using graphs and limit laws, including the Squeeze's Theorem. LO1.4	Find limits at infinity and infinity limits, and apply in finding asymptotes of a function. LO1.5	Identify where a function is continuous; use the Intermedia Value Theorem to show that an equation has a solution."
+MAE101,2,CLO2,"Calculate derivatives of a function LO2.1	Find the average rate of change; identify derivative as the limit of a difference quotient.  LO2.2	Recognize derivative as the instantaneous velocity and the slope of tangent lines. LO2.3	Find derivatives using basic formulas and the sum, difference, product, quotient, chain rules."
+MAE101,3,CLO3,"Use derivatives to analyze a function and to solve applications LO3.1	Use implicit differentiation to find derivatives and to solve related rates problems. LO3.2	Find linear approximation of a function; calculate differentials and apply in calculating errors of approximation. LO3.3	Apply Rolle's Theorem and Mean Value Theorem to a function; find critical numbers and absolute extrema of a function.  LO3.4	Identify local extrema, and describe the monotonicity of a function; solve optimization problems. LO3.5	Recognize acceleration as second derivative; determine inflection points and describe the concavity of a function. LO3.6	Use Newton method to approximate solutions of an equation."
+MAE101,4,CLO4,"Calculate integrals and find area under the graph of a function LO4.1	Use Riemann sums to approximate area; recognize area as a definite integral which is the limit of Riemann sums. LO4.2	Apply the Fundamental Theorems of Calculus to find derivatives of integrals, and to evaluate definite integrals.  LO4.3	Recognize indefinite integrals as anti-derivatives; find integrals using basic formulas and the techniques of substitution and integration by parts. LO4.4	Use integration to solve applications and to compute the average value of a function.  LO4.5	Approximate definite integrals using Midpoint, Trapezoidal and Simpson rules.  LO4.6	Determine if an improper integral converges."
+MAE101,5,CLO5,Solve a system of linear equations using Gaussian elimination LO5.1	Identify if a matrix is in echelon forms; carry a matrix into an echelon using row operations; calculate the rank of a matrix.  LO5.2	Use echelon matrices to solve/describe the solution set of a linear system.
+MAE101,6,CLO6,"Perform basic operations on matrices and manipulate matrix transformations LO6.1	Perform addition, scalar multiplication and transpose of matrices; verify if a matrix is symmetric. LO6.2	Multiply two matrices of appropriate sizes; transform between a linear system and a matrix equation. LO6.3	Determine the matrix of a linear transformation; use properties of linear transformations in solving problems."
+MAE101,7,CLO7,"Find the determinant, inverse and diagonalization of a matrix LO7.1	Compute the cofactors and the determinant of a matrix; analyze determinants in relation with row/column operations. LO7.2	Check if a matrix is invertible; find the adjugate and the inverse of a matrix; use properties of inverses and determinants in solving problems. LO7.3	Solve a system of linear equations using inverse matrices or Cramer's rule. LO7.4	Find the characteristic polynomial, eigenvalues and eigenvectors to diagonalize a matrix; check if a matrix is diagonalizable."
+MAE101,8,CLO8,Manipulate vector operations and linear transformations in R^3. LO8.1	Manipulate vector operations; find equations of lines.  LO8.2	Compute the dot product and the angle between two vectors; find the projection of a vector on another vector and manipulate equations of planes. LO8.3	Compute the cross product; analyze areas and volumns in relation with dot and cross products. LO8.4	Determine linear transformations in R^3 and discuss applications in computer graphic.
+MAE101,9,CLO9,"Find the dimension and bases of a subspace LO9.1	Determine if a subset of vectors is a subspace; describe the subspace spanned by a set of vectors. LO9.2	Check if a set of vectors are independent; determine if a set of vectors form a basis. LO9.3	Find a basis and the dimension of a subspace; analyze the rank in relation with the dimension of the column, row and the null space of a matrix. LO9.4	Compute dot product and length of vectors; check if a set of vectors are orthogonal or orthonormal; write a vector as a linear combination of an orthogonal basis."
+PFP191,1,CLO1,"Understand the development environment (IDE), programming concepts and python's world"
+PFP191,2,CLO2,"Understand variables, expression and statement"
+PFP191,3,CLO3,"Understand Conditional Execution, Functions, Loop and Iterations"
+PFP191,4,CLO4,Understand Strings
+PFP191,5,CLO5,Understand Files
+PFP191,6,CLO6,"Understand List, Dictionaries, Tuples"
+PFP191,7,CLO7,Understand OOP and how to apply this technology to an actual application
+VOV124,1,CLO1,"Củng cố và phát triển các 4 tố chất thể lực: nhanh, mạnh, bền, khéo léo.  Reinforce and develop 4 physical characteristics: speed, strength, resistance, flexibility."
+VOV124,2,CLO2,"Củng cố và phát triển hệ thống, nguyên lý kỹ thuật căn bản và thể lực chung. Strengthen and develop techniques and basic principles and physical strength."
+VOV124,3,CLO3,Phát triển kỹ năng phối hợp động tác. Develop skill of combining movements.
+COV121,1,CLO1,Giới thiệu cho sinh viên về luật Cờ Vua. Introduce rules of chess.
+COV121,2,CLO2,Giới thiệu và tập cho sinh viên những đòn chiến lược chiến thuật cơ bản trong cờ Vua. Introduce strategy and tactics in chess.
+COV121,3,CLO3,Bước đầu xây dựng cho sinh viên những kỹ năng thi đấu cơ bản. Initially build basic competition skills for students.
+SSL101c,1,CLO1,Understand and demonstrate how to develop Information & Digital Literacy Skills to help you achieve success in university studies
+SSL101c,2,CLO2,Develop Problem Solving and Creativity Skills
+SSL101c,3,CLO3,Develop Critical Thinking Skills
+SSL101c,4,CLO4,Develop Communication Skills
+SSL101c,5,CLO5,Apply all knowledge of skills learned in the courses to build a Capstone Project
+AIG202c,1,CLO1,"Understand what is AI, its applications and use cases, its ethical considerrations and how it is transforming our lives."
+AIG202c,2,CLO2,"Explain underlying concepts related to Machine Learning, Deep Learning and Neural Networks."
+AIG202c,3,CLO3,"Explore common generative AI models and tools for text, code, image, audio, and video generation."
+AIG202c,4,CLO4,Explore commonly used tools for prompt engineering to aid with prompt engineering
+AIG202c,5,CLO5,Visually create chatbots with Watson Assistant (formerly Watson Conversation) and how to deploy them on your own website through a handy WordPress plugin.
+CEA201,1,CLO1,Explain the general functions and structure of a digital computer
+CEA201,2,CLO2,Present an overview of the evolution of computer technology from early digital computers to the latest microprocessors.
+CEA201,3,CLO3,Understand the key performance issues that relate to computer design
+CEA201,4,CLO4,"Describe in detail the essential elements of computer organisation including internal bus, memory, Input/Output ( I/O) organisations and interfacing standards and discuss how these elements function;"
+CEA201,5,CLO5,"Summarize, at a top level, the key functions of an operating system (OS)."
+CEA201,6,CLO6,Be able to apply Boolean algebra and digital logic to design and interpret complex digital circuits;
+CEA201,7,CLO7,"Present various types of addressing modes common in instruction sets, an essential characteristics of machine instructions, types of operands supported by typical machine instruction sets"
+CEA201,8,CLO8,"Explain processor structure and function in details, the operations of Reduced Instruction Set Computers"
+CEA201,9,CLO9,"Investigate, evaluate and communicate general trends in computing technologies such as Instruction-Level Parallelism and Superscalar Processors"
+CSD203,1,CLO1,LO1.  Describe the list data structure and its’ different way of implementations. Implement the singly linked list.
+CSD203,2,CLO2,LO2.  Define stack and queue. Describe basic operations and the use of these structures.
+CSD203,3,CLO3,"LO3.  Describe about recursive definitions, algorithms, functions  and their implementation and use."
+CSD203,4,CLO4,"LO4.  Explain about general tree, Binary Tree and Binary Search Tree (BST). Implement BST with basic operations."
+CSD203,5,CLO5,LO5.  Díscuss about graphs and their  application. Implement a graph with some basic operations.
+CSD203,6,CLO6,LO6  Explain the operation and performance of some basic and advanced sorting alggorithms
+CSD203,7,CLO7,LO7  Explain about hashing and  application.
+CSD203,8,CLO8,"LO8  Describe the Text Processing problem and its’ application. Explain the Huffman, LZW and Run-length encoding Algorithms."
+DBI202,1,CLO1,Understand thedatabase concepts and database management system software
+DBI202,2,CLO2,Understand the relation model of data and Algebraic Query Language
+DBI202,3,CLO3,Understand data normalization and apply normalization techniques in database design
+DBI202,4,CLO4,Be able to model an application’s data requirements using conceptual modeling tools like ER diagrams and design database schemas based on the conceptual model.
+DBI202,5,CLO5,Be proficient in structure query language including Data Definition Language(DDL) and Data Manipulation Language(DML)
+DBI202,6,CLO6,"Understand PL/SQL concepts and manipulate with View, Cursors, Stored Procedures, Functions, Database Triggers"
+DBI202,7,CLO7,Apply the Index in database design and query optimization
+JPD113,1,CLO1,"Nhận biết được các ký tự trong hệ thống chữ cái tiếng Nhật (chữ mềm, chữ cứng)."
+JPD113,2,CLO2,"Ghi nhớ 200 từ vựng, 23 cấu trúc ngữ pháp, 35 chữ Hán liên quan đến các chủ đề được học."
+JPD113,3,CLO3,"Vận dụng từ vựng, mẫu câu, chữ Hán đã được học để có thể tự giới thiệu bản thân (giới thiệu tên, tuổi, quốc tịch, nghề nghiệp, ngày sinh nhật, sở thích); hội thoại đơn giản về chủ đề mua sắm, gọi đồ; có thể kể về những hoạt động hằng ngày của bản thân, hỏi giờ làm việc của các cơ quan tổ chức."
+JPD113,4,CLO4,Đọc được đoạn văn ngắn trình độ sơ cấp bằng tiếng Nhật.
+JPD113,5,CLO5,"Rèn luyện kỹ năng làm việc nhóm, phát triển bản thân thông qua các hoạt động nhóm trong lớp (role play..)."
+VOV134,1,CLO1,Phát triển  khả năng tư duy; sáng tạo. Develop critical thinking; creativity.
+VOV134,2,CLO2,Xây dựng tinh thần làm việc tập thể. Build team spirit.
+VOV134,3,CLO3,Phát triển kỹ năng phối hợp hoạt động và khả năng cảm thụ âm nhạc. Develop combination skills and music perception ability.
+VOV134,4,CLO4,Trang bị kỹ năng tự vệ. Develop self-defense skill.
+COV131,1,CLO1,Giới thiệu cho sinh viên về các giai đoạn trong Cờ Vua. Introduce stages in chess.
+COV131,2,CLO2,Giới thiệu cho sinh viên một số phần mềm cờ Vua. Introduce some chess softwares.
+COV131,3,CLO3,Giới thiệu các hình thức thi đấu cờ Vua. Introduce types of chess tournaments
+ADY201m,1,CLO1,"Understand relational database concepts, and foundational knowledge of the SQL language."
+ADY201m,2,CLO2,Define an overview of what data science is today.
+ADY201m,3,CLO3,"Know tools for Data Science, know how to use at least one tool for Data Science"
+ADY201m,4,CLO4,"Understand why we are interested in data science, what a methodology is, and why data scientists need a methodology."
+ADY201m,5,CLO5,"Discusses Python fundamentals, python libraries, API suport for data science"
+ADY201m,6,CLO6,"Explain the statistics for Data Science:  mean, median, mode, variance, and standard deviation, data visualization, regression analysis"
+ADY201m,7,CLO7,"Implement the small data science project by applying Python fundamentals, and Python data structures, and working with data in Python."
+ITE303c,1,CLO1,"Understand the rise of algorithms, from the most basic to the fully autonomous, and discuss the trajectory of artificial intelligence and the broader implications for society as well"
+ITE303c,2,CLO2,Explore fundamental issues of fairness and bias in machine learning and many aspects of building more ethical models
+ITE303c,3,CLO3,Explore fundamental concepts involved in security and privacy of machine learning projects and affects user privacy and transparency now and in the future while creating useful predictive models.
+ITE303c,4,CLO4,Able to apply bias and fairness analysis and skills in a real world or a fictional scenario
+JPD123,1,CLO1,"Ghi nhớ được gần 300 từ vựng, hơn 40 chữ Hán, gần 30 cấu trúc ngữ pháp cơ bản liên quan đến các chủ đề được học."
+JPD123,2,CLO2,"Vận dụng từ vựng, ngữ pháp, chữ Hán đã học để (1) giới thiệu với bạn bè và người xung quanh về nơi xuất thân của mình 1 cách đơn giản; (2) nói về dự định của bản thân hay những việc bản thân hay làm vào ngày nghỉ; (3) rủ bạn cùng đi đâu đó hoặc cùng làm việc gì đó; (4) truyền đạt đến người khác một cách đơn giản về tình hình của bản thân và nhờ vả hoặc đề xuất người khác giúp mình."
+JPD123,3,CLO3,Đọc hiểu được đoạn văn ngắn trình độ sơ cấp bằng tiếng Nhật.
+JPD123,4,CLO4,"Rèn luyện kỹ năng làm việc nhóm, phát triển bản thân thông qua các hoạt động nhóm trong lớp (role play..)"
+MAI391,1,CLO0,Analytic Geometry LO 0.1 Define a norm and an inner product on a vector space LO 0.2 Determine bilinear mapping and check if a square matrix is positive definite. LO 0.3 Find the length of a vector as well as the distance between two vectors in a vector space by using inner product. LO 0.4  Find the angle between two vectors and check if they are orthogonal. Check if a square matrix is orthogonal.  LO 0.5 Check if a set of vectors is an orthogonal or an orthonormal basis of a given vector space. Determine an orthogonal complement of a subspace. LO 0.6 Construct the projection onto a subspace.
+MAI391,2,CLO1,"Matrix Decomposition LO 1.1 Compute the determinant of a square matrix, decide when a square matrix is invertible by equivalent conditions. Find the characteristic polynomial, eigenvalues and eigenvectors of a matrix. Understand some theorems concerning eigenvalues. LO1.2 Diagonalize a matrix by eigendecomposition. Decompose a matrix by singular value decomposition. LO1.3 Compute matrix approximation."
+MAI391,3,CLO2,"Vector Calculus LO 2.1 Revisit differentiation of a univariate function. Find Taylor expansion of a smooth function at a given point. LO 2.2 Find partial derivatives using basic formulas and the chain rule, gradients of multivariate functions. LO 2.3 Find gradients, Jacobian matrices of Vector-Valued Functions. LO 2.4 Take gradients of matrices with respect to vectors. LO 2.5 Understand the idea of backpropagation in deep learning. LO 2.6 Find the higher-order partial derivatives, linearization and multivariate Taylor series of multivariate functions."
+MAI391,4,CLO3,"Probability and Distributions LO 3.1 	Catch the notions of discrete variable continuous variable; find the probability mass function, the probability density function, the cumulative distribution function and their properties. LO 3.2 	Calculate conditional probabilities; use multiplication rule, total probability rule and Bayes theorem to find probabilities. LO 3.3 	Compute the mean and variance of a random variable, compute the covariance and the correlation between two variables. LO 3.4 	Consider whether two variables are independent. LO 3.5 	Describe a Gauss distribution, marginals, conditionals, sums and products of Gauss distributions."
+MAI391,5,CLO4,Continuous Optimization	 LO 4.1 	Find a local minimum of a function using gradient descent. LO 4.2 	Use Lagrange multipliers to find the maximum/minimum value of a multivariate function with constraints. LO 4.3 	Understand convex optimization problems and solve linear programings.
+MAI391,6,CLO5,Linear Regression	 LO 5.1 	Use maximum likelihood and maximum a posteriori (MAP) estimation to find optimal model parameters. LO 5.2 	Using these parameter estimates to have a brief look at generalization errors and overfitting. LO 5.3 	Discuss Bayesian linear regression.
+MAI391,7,CLO6,"Dimensionality Reduction with PCA	 LO 6.1 	Compute the data covariance matrix of a data set, construct m-dimensional subspace with maximum variance. LO 6.2 	Find the basis of theprincipal subspace. LO 6.3 	Using Low-Rank Matrix to approximate PCA. LO 6.4 	Discuss PCA in high dimension and key steps of PCA."
+MAI391,8,CLO7,Classification with SVM	 LO 7.1 	Understand binary classification by seperating hyperplane. LO 7.2 	Catch mathematical ideas of support vector machine. LO 7.3 	Understand the advantage of dual support vector machine. LO 7.4 	Introduce non-linear classifiers by kernels. LO 7.5 	Consider two different approaches for finding the optimal solution for the SVM.
+MAI391,9,CLO8,Attitude and soft skills	 LO 8 Develop working in group skills and self-discipline
+MAS291,1,CLO1,"Discuss the roles of statistics in engineering LO1.1        Explain the types of reasoning of statistical inference; distinguish mechanistic models and empirical models, statistic and parameter, sample and population. LO1.2        Describe the different methods that engineers use to collect data."
+MAS291,2,CLO2,"Identify sample spaces and events, and use basic rules to calculate the probability of an event LO2.1	Describe the sample space and events of an experiment; distinguish continuous and discrete sample spaces; perform operations on events. LO2.2	Calculate the probability of an event in a discrete sample space; use addition and complementary rules to find probabilities. LO2.3	Calculate conditional probabilities; use multiplication rule, total probability rule and Bayes theorem to find probabilities.  LO2.4	Determine if two events are independent; use independence to find probabilities. LO2.5	Recognize a random variable; distinguish continuous and discrete random variables."
+MAS291,3,CLO3,"Describe the probability distribution and calculate the mean and variance of a discrete random variable LO3.1	Describe a discrete random variable; check if a function is a probability mass function and use it to calculate probability; find the cumulative distribution function of a discrete random variable. LO3.2	Compute the mean and variance of a discrete random variable.  LO3.3	Determine the probability, mean and variance of uniform, binomial, geometric and negative binomial, hypergeometric and Poisson distributions."
+MAS291,4,CLO4,Describe the probability distribution and calculate the mean and variance of a continuous random variable LO4.1	Describe a continuous random variable; check if a function is a probability density function and use it to calculate probability; find the cumulative distribution function of a continuous random variable. LO4.2	Compute the mean and variance of a continuous random variables LO4.3	Apply the formulas of continuous uniform distribution and exponential distribution to solve problems. LO4.4	Manipulate probabilities of a standard normal distribution using Excel or table of data; standardize a normal distribution. LO4.5	Use normal distribution to approximate binomial and Poisson distributions.
+MAS291,5,CLO5,"Describe data using numerical summaries and visual displays LO5.1        Find numeric summaries of data; describe data using stem-and-leaf diagrams, frequency distributions, histograms, time series plots.  LO5.2        Determine quartiles and construct the box plot for a data; identify outliers."
+MAS291,6,CLO6,Discuss sampling distributions and use the Central Limit Theorem to analyze sampling distribution of the means LO6.1	Discuss sampling distributions; find the point estimation of a parameter. LO6.2	Apply Central Limit Theorem to calculate probabilities regarding the sampling distribution of the means.
+MAS291,7,CLO7,Construct confidence intervals for a population parameter/difference of population parameters LO7.1	Construct a confidence interval for the population mean/difference of two population means and interpret its meaning; determine the size of the sample to improve the estimation. LO7.2	Construct a confidence interval for the population proportion/difference of two population pproportions and interpret its meaning; determine the size of the sample to improve the estimation.
+MAS291,8,CLO8,"Verify a claim about a population parameter/difference of population parameters using hypothesis testing LO8.1	Formulate the two hypotheses; identify critical values, test statistic and compute P-value for a test of hypotheses on population mean/difference of two population means LO8.2	Formulate the two hypotheses; identify critical values, test statistic and compute P-value for a test of hypotheses on population proportion/difference of two population proportions LO8.3	Identify type of errors in testing hypotheses."
+MAS291,9,CLO9,Construct a simple linear regression model LO9.1        Compute various sums of squares for a set of data pairs. LO9.2        Determine the equation of linear regression and the correlation coefficient; use linear regression to predict future values. LO9.3        Perform a hypothesis test in simple linear regression; test the significance of regression using t-test.
+AIL303m,1,CLO1,"Learners should be able to use common techniques to retrieve data from multiple data sources: SQL, NoSQL databases, APIs, Cloud"
+AIL303m,2,CLO10,"Implement a mini capstone ML project includes steps: data collection, data wrangling, exploratory data analysis, model development, model evaluation, and reporting"
+AIL303m,3,CLO2,Learners should be able to describe and use common feature selection and feature engineering techniques
+AIL303m,4,CLO3,Learners should be able to use a variety of techniques for detecting and dealing with outliers
+AIL303m,5,CLO4,Learners should be able to describe and use supervised models
+AIL303m,6,CLO5,Learners should be able to use a variety of error metrics to compare and select a supervised model that best suits your data
+AIL303m,7,CLO6,Learners should be able to use oversampling and undersampling as techniques to handle unbalanced classes in a data
+AIL303m,8,CLO7,Learners should be able to explain the kinds of problems suitable for Unsupervised Learning approaches
+AIL303m,9,CLO8,"Explain the curse of dimensionality, and how it makes clustering difficult with many features"
+AIL303m,10,CLO9,Learners should be able to describe and use common clustering and dimensionality-reduction algorithms
+CPV301,1,CLO1,"Understand the basics of computer vision, its related fields, and its applications"
+CPV301,2,CLO2,"Understand the concepts of image formation: image representation, lighting, image acquisition through the camera, camera calibration techniques."
+CPV301,3,CLO3,"Basic knowledge of image processing on points, lines, image filtering techniques and corresponding algorithm implementation"
+CPV301,4,CLO4,"Understand the techniques of feature extraction and matching, implement the techniques of edges, lines extraction"
+CPV301,5,CLO5,"Understand the basics of segmentation, techniques such as active contours, split and merge, mean shift and mode finding"
+CPV301,6,CLO6,Discuss feature-based alignments like 2D and 3D feature-based alignment
+CPV301,7,CLO7,Discuss the principles and the implementation of Image stitching
+CPV301,8,CLO8,Understand and implement the object detection techniques
+CPV301,9,CLO9,"Explain the principles of face recognition, object tracking"
+DAP391m,1,CLO1,Understand the basics of data analysis with Python to build and evaluate data models.
+DAP391m,2,CLO2,"Understand how to import data from multiple sources, clean and wrangle data, perform exploratory data analysis (EDA), and create meaningful data visualizations."
+DAP391m,3,CLO3,Know difference ways to effectively visualize both small and large-scale data
+DAP391m,4,CLO4,"Implement various types of basic and advanced graphs and charts like: Waffle Charts, Area Plots, Histograms, Bar Charts, Pie Charts, Scatter Plots, Word Clouds, Choropleth Maps, and many more"
+DAP391m,5,CLO5,"Implement an application that leverages multiple Watson AI services (Discovery, Speech to Text, Assistant, and Text to Speech)"
+DAP391m,6,CLO6,Implementing different techniques to develop applications and AI powered solutions.
+DAP391m,7,CLO7,"Implement the small mini capstone data science project includes steps: involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting"
+SSG104,1,CLO1,Understand concepts of team work & communication skills
+SSG104,2,CLO10,Organizing a business meeting
+SSG104,3,CLO11,Develop career skills
+SSG104,4,CLO12,Apply team work & communication skills
+SSG104,5,CLO2,Understand the Psychology of Groups
+SSG104,6,CLO3,Explain and apply thinking and Analysis in Critical & Creative Thinking
+SSG104,7,CLO4,"Apply business writing like email, letter, proposal, report…"
+SSG104,8,CLO5,Analyse ways to become effective and powerful leaders.
+SSG104,9,CLO6,Understand leadership theories and model of leadership effectiveness.
+SSG104,10,CLO7,Understand how conflicts appear in groups and how to manage them in cohesion.
+SSG104,11,CLO8,Apply successful verbal and nonverbal in teamwork
+SSG104,12,CLO9,Be able to present persuasive message professionally and effectively in learning and working environment
+SWE201c,1,CLO1,"Compare and contrast software development methodologies with respect to environmental, organizational, and product constraints."
+SWE201c,2,CLO2,Demonstrate the ability to participate effectively in agile practices/process for software development.
+SWE201c,3,CLO3,Apply lean techniques / methods to software development
+SWE201c,4,CLO4,Comfortably and effectively participate in various techniques and processes for building secure and high quality software.
+DSR301m,1,CLO1,Understand the basics of the R language
+DSR301m,2,CLO2,Understand how manipulate data with  R programming language and implement fundamental programming tasks
+DSR301m,3,CLO3,"Learn and apply foundational knowledge of the SQL &R languages, and how to access databases from Jupyter notebooks using SQL and R"
+DSR301m,4,CLO4,"Know how to wrangle data for data analysis,  develop models, improve models, evaluate and tune  the performance"
+DSR301m,5,CLO5,"Understand how to describe and build graphs using R packages.  Implement various types of basic charts to visualize  like bar charts, histograms, pie charts, scatter plots, line plots, and box plots"
+DSR301m,6,CLO6,"Implement a small data science project includes steps:  data wrangling, data analysis, data visualization, model development, model evaluation, and reporting"
+BDI302c,1,CLO1,"Explain basis concepts in big data, architectural components and programming models used for scalable big data analysis."
+BDI302c,2,CLO2,"Collect, store and organize data using big data solutions"
+BDI302c,3,CLO3,Design a big data information system for small company
+BDI302c,4,CLO4,Execute simple big data integration and processing on Hadoop and Spark platforms
+BDI302c,5,CLO5,"Use tools and algorithms to create machine learning models that learn from data, and to scale those models up to big data problems"
+BDI302c,6,CLO6,Model a problem into a graph database and perform analytical tasks over the graph in a scalable manner.
+AIH301m,1,CLO1,"Learners should be able to describe the structure of healthcare systems, AI, and machine learning."
+AIH301m,2,CLO2,The major challenges and the issues in efforts to improve healthcare delivery and system.
+AIH301m,3,CLO3,"How to apply a framework for medical data mining, makes good research questions, and construct a data mining workflow."
+AIH301m,4,CLO4,"Define important relationships between the fields of machine learning, biostatistics, and computer programming."
+AIH301m,5,CLO5,The machine learning models in dynamic medical practices and discontinuous timelines impact clinical machine learning applications.
+AIH301m,6,CLO6,"Principles and practical considerations for integrating AI into clinical workflows, improving the quality of healthcare applications."
+AIH301m,7,CLO7,Learners should be able to understand AI-emerging technologies in the fields of healthcare.
+AIH301m,8,CLO8,The ethical issues for the combination of healthcare system and AI.
+ASR301c,1,CLO1,"Employ artificial intelligence techniques to test hypothesis in Python, and apply a machine learning model combining Numpy, Pandas, and Scikit-Learn"
+ASR301c,2,CLO2,"Implement and evaluate machine learning models (neural networks, random forests, etc.) on scientific data in Python"
+ASR301c,3,CLO3,Implement simple neural network models and describe the differences between Neural Networks and Random Forests
+ASR301c,4,CLO4,Analyzing genome sequences to find similarities and identify target subsequences using predctive models
+TMG301,1,CLO1,"Students will develop a solid understanding of the fundamental concepts and principles of text mining, including techniques for extracting, transforming, and analyzing textual data."
+TMG301,2,CLO2,"Students can use machine learning/deep learning (neural networks, neural language models, recurrent neural networks, LSMT) for specific text-mining applications."
+TMG301,3,CLO3,"Students will explore the methods and algorithms used for text classification and clustering tasks. They will learn to apply techniques like Naive Bayes, Support Vector Machines, and k-means clustering."
+TMG301,4,CLO4,"Students will learn about different methods for representing text data, such as bag-of-words, term frequency-inverse document frequency (TF-IDF), and word embeddings. They will understand the strengths and limitations of each approach."
+TMG301,5,CLO5,"Students will be aware of the popular applications in text mining, such as machine translation, question answering, and chatbots to design text mining-related applications in real-world"
+SEG301,1,CLO1,"Understanding how search engines work: Students should be able to explain the underlying technology behind search engines, including the algorithms used to crawl, index and rank web pages."
+SEG301,2,CLO2,Search engine optimization: Students should be able to apply best practices for optimizing web pages to improve their visibility in search engine results pages (SERPs).
+SEG301,3,CLO3,Keyword research: Students should be able to conduct keyword research to identify the most relevant and profitable keywords by using popular retrieval models..
+SEG301,4,CLO4,"Analytics and tracking: Students should be able to use analytics tools to track website traffic, user behavior, and campaign performance."
+SEG301,5,CLO5,Solving problems: Students should be able to apply search engine techniques to solve the real-life problems
+DPL302m,1,CLO1,"Should build, train and apply fully connected deep neural networks, implement efficient neural networks, identify key parameters in a neural network's architecture, and apply deep learning to students' own applications."
+DPL302m,2,CLO2,"Could train and develop test sets, analyze bias/variance for building deep learning applications, apply optimization algorithms, and implement a neural network using TensorFlow."
+DPL302m,3,CLO3,"Understand complex ML settings, diagnose errors in a machine learning system, prioritize strategies for reducing errors, and apply end-to-end learning, transfer learning, and multi-task learning."
+DPL302m,4,CLO4,Build CNN models for visual detection and recognition tasks and use neural style transfer to generate art from various types of data.
+DPL302m,5,CLO5,"Could build and train recurrent neural networks (RNNs), work with NLP and word embeddings, use HuggingFace tokenizers, and transformer models to solve different NLP tasks."
+DPL302m,6,CLO6,"Implement a DL project includes steps: data collection, data wrangling, exploratory data analysis, model development, model evaluation, and reporting"
+DWP301c,1,CLO1,Understanding cloud computing from a business perspective as also for becoming a cloud practitioner
+DWP301c,2,CLO10,"Understanding of how serverless benefits developers, learn when to use serverless programming, serverless deployment models, and discover its top use cases and design patterns"
+DWP301c,3,CLO11,Able to apply new knowledge to a real-life challenge and use your expertise to develop a successful full stack solution.
+DWP301c,4,CLO2,"Understanding of HTML, CSS, JS and learn how a combination of both technologies can help developers create the structure and style of their websites"
+DWP301c,5,CLO3,Hands-on experience using Git and GitHub
+DWP301c,6,CLO4,Able to build rich Front-End applications with React and ES6 - connect React components using data and state - write rich React components with advanced features like Hooks and Redux
+DWP301c,7,CLO5,Able to develop applications using asynchronous callbacks and promises - create REST APIs and perform CRUD operations - implement authentication and session management
+DWP301c,8,CLO6,"Understand Python basics and the different data types and creating basic programs, working with data, and automating real-world tasks using Python"
+DWP301c,9,CLO7,Able to develop web applications and AI powered solutions
+DWP301c,10,CLO8,Understand fundamental database concepts and hands-on experience deploying your Django web app on the cloud
+DWP301c,11,CLO9,"Able to build cloud native applications using current containerization tools and technologies such as containers, Docker, container registries, Kubernetes, OpenShift, and Istio"
+NLP301c,1,CLO1,"Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies, and translate words."
+NLP301c,2,CLO2,Use locality sensitive hashing for approximate nearest neighbors.
+NLP301c,3,CLO3,"Use dynamic programming, hidden Markov models, and word embeddings to autocorrect misspelled words, autocomplete partial sentences, and identify part-of-speech tags for words."
+NLP301c,4,CLO4,"Use dense and recurrent neural networks, LSTMs, GRUs, and Siamese networks in TensorFlow and Trax to perform advanced sentiment analysis, text generation, named entity recognition, and to identify duplicate questions."
+NLP301c,5,CLO5,"Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering and to build chatbots."
+OJT202,1,CLO1,Professional knowledge and skills. Students can enhance and apply knowledge and skills that have been learned at university to real work in enterprises. Completing the tasks assigned by the enterprise according to the requirements of performance and progress.
+OJT202,2,CLO2,"Soft skills. Students develop problem-solving skills, practice critical thinking and use foreign languages at work. Be able to communicate and work in teams, have a suitable style for the business environment."
+OJT202,3,CLO3,"Attitude, responsibility, and self-control. Students understand the roles, functions, and duties of different jobs at the enterprise. Having a serious working attitude, respecting organizational culture, and complying with regulations at the workplace."
+DBM302m,1,CLO1,Understand what is data mining and what are key components of the data mining pipeline
+DBM302m,2,CLO2,Learn and apply one of the basic core of data mining: data visualization
+DBM302m,3,CLO3,"Understand and apply one subtield in data mining: patern discovery, practice with the data visualization of data mining"
+DBM302m,4,CLO4,Apply  another subtield in data mining: cluster analysis
+AIM301m,1,CLO1,Pre-process data and set up a pre-trained neural network.
+AIM301m,2,CLO2,"Evaluate models by accuracy, specificity, predictive value, confidence intervals, ROC curve, and F1 score."
+AIM301m,3,CLO3,Diagnose diseases from x-rays and 3D MRI brain images.
+AIM301m,4,CLO4,Walk through examples of prognostic tasks.
+AIM301m,5,CLO5,Predict patient survival rates more accurately using tree-based models.
+AIM301m,6,CLO6,"Navigate practical challenges in medicine, like missing data."
+AIM301m,7,CLO7,Estimate treatment effects on patients using data from randomized trials.
+AIM301m,8,CLO8,Explore methods to interpret diagnostic and prognostic models.
+AIM301m,9,CLO9,Automate the task of labeling medical datasets using natural language processing.
+DAT301m,1,CLO1,"Understand the basics of TensorFlow and application of TensorFlow framework in Machine Learning, Deep Learning."
+DAT301m,2,CLO2,Understand how to build a basic neural network in TensorFlow and train a neural network for a computer vision application.
+DAT301m,3,CLO3,"Understan the convolutional Neural Networks in TensorFlow, include the strategies to prevent overfitting, including augmentation and dropout"
+DAT301m,4,CLO4,Undesrstand the transfer learning and how learned features can be extracted from models
+DAT301m,5,CLO5,"Understand basic concepts of sentiment in text, word Embeddings, sequence model and literature"
+DAT301m,6,CLO6,Implementing  natural language processing systems using TensorFlow
+DAT301m,7,CLO7,"Understand the sequences, time series and prediction problems in TensorFlow"
+DAT301m,8,CLO8,"Understand how to apply RNNs, GRUs, and LSTMs as you train them using text repositories."
+ENW493c,1,CLO1,Explain the fundamental research methods and approaches and how they can be applied in academic or professional contexts.
+ENW493c,2,CLO2,"Compare and contrast qualitative and quantitative research methodologies, including sampling methods and data collection techniques, to assess their suitability for different research contexts."
+ENW493c,3,CLO3,"Develop a comprehensive research proposal that integrates historical perspectives, appropriate methodologies, ethical considerations, and strategies for publication and evaluation in Information and Communication Science and Technology."
+ENW493c,4,CLO4,"Develop sophisticated argument essays through critical analysis, ethical sourcing, and anti-plagiarism, forming well-founded opinions and thesis statements"
+ENW493c,5,CLO5,"Plan and conduct research on an academic topic, following these steps: topic selection, outlining, source gathering, note-taking, maintaining an academic tone, citing sources in MLA format, and avoiding plagiarism. Write a 7-8 page research paper demonstrating proper MLA formatting for source material."
+EXE101,1,CLO1,Demonstrate understanding of key aspects of startup at a basic level
+EXE101,2,CLO2,Demonstrate the ability to build a right team and express effective teamwork
+EXE101,3,CLO3,Able to conduct survey and do market research
+EXE101,4,CLO4,Able to build the right product and the reasonable business model
+EXE101,5,CLO5,Able to create a preliminary pitch deck and present it convincingly
+PMG201c,1,CLO1,Define project plan
+PMG201c,2,CLO2,- Define a project’s scope - Build a work breakdown schedule - Allocate project resources- Create a project budget
+PMG201c,3,CLO3,- Define key elements of communications management plan - Identify and manage risks
+PMG201c,4,CLO4,Practise to: - Define project plan - Define a project’s scope - Build a work breakdown schedule - Allocate project resources - Create a project budget - Define key elements of communications management plan - Identify and manage risks
+DSP391m,1,CLO1,Identify relevant data science techniques for addressing Capstone Project topics.
+DSP391m,2,CLO10,Enhance oral presentation skills through participation in Team Meetings and Final Presentations.
+DSP391m,3,CLO2,Formulate clear problem statements and objectives in project proposals.
+DSP391m,4,CLO3,Plan and execute data collection and cleaning procedures effectively.
+DSP391m,5,CLO4,Conduct exploratory data analysis (EDA) to uncover patterns and insights in data.
+DSP391m,6,CLO5,Develop and deploy machine learning models tailored to project requirements.
+DSP391m,7,CLO6,"Evaluate, refine, and optimize machine learning models for improved performance."
+DSP391m,8,CLO7,Interpret and visualize results effectively to communicate findings to stakeholders.
+DSP391m,9,CLO8,Summarize conclusions drawn from data analysis and provide actionable recommendations.
+DSP391m,10,CLO9,Compile comprehensive final project reports integrating insights and methodologies learned throughout the course.
+AIE301m,1,CLO1,Understand the fundamentals of trading.
+AIE301m,2,CLO2,Define quantitative trading and the main types of quantitative trading strategies.
+AIE301m,3,CLO3,"Basic steps in exchange arbitrage, statistical arbitrage, index arbitrage and the application of machine learning to financial use cases."
+AIE301m,4,CLO4,Design basic quantitative trading strategies.
+AIE301m,5,CLO5,Use Keras and Tensorflow to build machine learning models.
+AIE301m,6,CLO6,"Build a pair trading strategy prediction model, a momentum-based trading model, and back test them."
+AIE301m,7,CLO7,Understand the structure and techniques used in reinforcement learning (RL) strategies.
+AIE301m,8,CLO8,Understand the benefits of using RL vs. other learning methods.
+AIE301m,9,CLO9,"Describe the steps required to develop, test, and optimize an RL trading strategy."
+AID301c,1,CLO1,Learners should be able to describe the business use case and the process of ingesting data.
+AID301c,2,CLO2,"Learners should be able to use common techniques such as: EDA, visualization, hypothesis testing and statistical tools."
+AID301c,3,CLO3,Learners should be able to describe and use common feature selection and feature engineering techniques
+AID301c,4,CLO4,"Learners should be able to implement the model: machine learning and deep learning algorithms, evaluation and performance metrics."
+AID301c,5,CLO5,Learners should be able to deploy the model by interacting with Apache Spark then progressing to a tutorial with Docker.
+EXE201,1,CLO1,Build physical product/service
+EXE201,2,CLO2,Be able to map out the customer acquisition plan
+EXE201,3,CLO3,Launch product on different channels
+EXE201,4,CLO4,Able to analyze feedback from the channels
+MLN111,1,CLO1,"Nắm vững những nét khái quát nhất về triết học, triết học Mác – Lênin và vai trò của triết học Mác – Lênin trong đời sống xã hội Master the most general features of philosophy, Marxism – Leninism philosophy, and the role of Marxist-Leninist philosophy in social life."
+MLN111,2,CLO2,Nắm vững nội dung của chủ nghĩa duy vật biện chứng: vấn đề vật chất và ý thức; phép biện chứng duy vật; lý luận nhận thức của chủ nghĩa duy vật biện chứng Master knowledge of dialectical materialism: matter and consciousness; materialistic dialectics; cognition theory of dialectical materialism
+MLN111,3,CLO3,"Đánh giá được các nội dung của chủ nghĩa duy vật lịch sử: vấn đề hình thái kinh tế - xã hội; giai cấp và dân tộc; nhà nước và cách mạng xã hội chủ nghĩa; ý thức xã hội; triết học về con người Be able to evaluate matters of  historical materialism: the theory of socio-economic forms, class and peoples; state and revolution; social consciousness; philosophical theory of humans"
+MLN111,4,CLO4,Hình thành tư duy triết học trong quá trình nhận thức và đánh giá được một số vấn đề lý luận và thực tiễn Develop philosophical thinking in the process of perceiving and evaluating some theoretical and practical issues
+MLN111,5,CLO5,"Vận dụng được các quy luật của triết học Mác – Lênin vào phân tích, nhận định, đánh giá và giải quyết các vấn đề kinh tế - xã hội Apply the laws of Marxism – Leninism philosophy to analyze, identify, evaluate and solve socio-economic problems"
+MLN111,6,CLO6,Hình thành các phương pháp luận chung nhất làm cơ sở nhận thức cho các chuyên ngành đào tạo Form the most general methodology as cognitive basis for specialized training majors
+MLN111,7,CLO7,"Củng cố niềm tin của người học vào cuộc sống, các chủ trương, đường lối của Đảng, chính sách và pháp luật của Nhà nước Consolidate students' confidence in life, in guidelines and policies of the Party, and in policies and laws of the States"
+MLN111,8,CLO8,"Xây dựng kỹ năng lập luận, soạn thảo bài viết, thuyết trình, tư duy phản biện, xử lý các quan hệ xã hội và hoạt động nhóm Develop skills of argument, writing, presentations, critical thinking, handling social relations and group activities"
+MLN122,1,CLO1,"Nắm được lược sử hình thành, đối tượng, phương pháp và các chức năng cơ bản của kinh tế chính trị Mác – Lênin Understand history, objects, research methods and fundamental functions of Marxist-Leninist political economy"
+MLN122,2,CLO2,"Hiểu và phân tích được các quan điểm của chủ nghĩa Mác – Lênin về hàng hóa, tiền tệ, thị trường, các quy luật kinh tế chủ yếu của sản xuất hàng hóa; giá trị thặng dư trong nền kinh tế thị trường Understand and analyze the Marxist-Leninist views on commodities, currency, market, the main economic laws of commodity production; surplus-value in the market economy"
+MLN122,3,CLO3,"Hiểu được cạnh tranh và độc quyền trong nền kinh tế thị trường, cũng như những biểu hiện mới của độc quyền, độc quyền nhà nước trong điều kiện ngày nay; vai trò lịch sử của chủ nghĩa tư bản Understand competition and monopoly in the market economy, new manifestations of monopoly and state monopoly in current condition, historical significance of capitalism"
+MLN122,4,CLO4,"Hiểu đúng được bản chất kinh tế thị trường định hướng XHCN và các quan hệ lợi ích kinh tế ở Việt Nam cũng như một số vấn đề kinh tế cơ bản của kinh tế thị trường định hướng XHCN ở Việt Nam hiện nay Understand the nature of socialist-oriented market economy and economic interest relationship in Vietnam, some basic economic issues of the socialist-oriented market economy in Vietnam today"
+MLN122,5,CLO5,"Phân tích, đánh giá được quá trình công nghiệp hóa, hiện đại hóa và hội nhập kinh tế quốc tế của Việt Nam Analyze and evaluate Vietnam's process of industrialization, modernization and international economic integration"
+MLN122,6,CLO6,Xây dựng phẩm chất đạo đức cách mạng và lập trường chính trị vững vàng. Thấy được giá trị khoa học trong các quan điểm kinh tế của chủ nghĩa Mác – Lênin Build revolutionary moral qualities and stable political standpoint. Understand scientific value in economic theory of Marxism - Leninism.
+MLN122,7,CLO7,Hình thành các phương pháp luận chung nhất làm cơ sở nhận thức cho các chuyên ngành đào tạo Form the most general methodology as cognitive basis for specialized training majors
+MLN122,8,CLO8,"Củng cố niềm tin của người học vào cuộc sống, các chủ trương, đường lối của Đảng, chính sách và pháp luật của Nhà nước Consolidate students' confidence in life, in guidelines and policies of the Party, and in policies and laws of the States"
+MLN122,9,CLO9,"Xây dựng kỹ năng lập luận, soạn thảo bài viết, thuyết trình, tư duy phản biện, xử lý các quan hệ xã hội và hoạt động nhóm Develop skills of argument, writing, presentations, critical thinking, handling social relations and group activities"
+REL301m,1,CLO1,Understand the concepts of Reinforcement Learning
+REL301m,2,CLO2,Know how to implement dynamic programming as an efficient solution approach to an industrial control problem
+REL301m,3,CLO3,"Understand several algorithms for estimating value: Temporal-Difference learning, Monte Carlo"
+REL301m,4,CLO4,"Undersatnd and implement a model-based approach to RL: Temporal-Difference, Expected Sarsa, Q-learning"
+REL301m,5,CLO5,"Understand several approaches that affect approximate value functions: supervised learning, fixed basis,  neural network."
+REL301m,6,CLO6,Understand how function approximation is used to predict and control in Reinforcement Learning
+REL301m,7,CLO7,"Understand and implement an RL solution to a problem step by step: problem formulation, appropriate algorithm selection, implementation, and empirical study into the effectiveness of the solution."
+AIP491,1,CLO1,Identify and Analyze Contemporary AI Issues
+AIP491,2,CLO10,Adaptation to Technological Advancements
+AIP491,3,CLO2,Data Collection and Analysis
+AIP491,4,CLO3,AI Solution Development
+AIP491,5,CLO4,Project Management in AI Development
+AIP491,6,CLO5,Professional Research and Reporting
+AIP491,7,CLO6,Effective Communication and Presentation Skills
+AIP491,8,CLO7,Professionalism and Ethical Conduct in AI
+AIP491,9,CLO8,Innovation and Creative Problem Solving
+AIP491,10,CLO9,Critical Evaluation and Self-Reflection
+EXE401,1,CLO1,Plan and conduct advanced tasks both independently and collaboratively
+EXE401,2,CLO2,Apply appropriate professional methods and techniques to develop different components of the startup project
+EXE401,3,CLO3,Write a business plan based thesis fulfilling well-defined academic criteria
+EXE401,4,CLO4,Demonstrate skills in presenting and defending the startup project
+EXE401,5,CLO5,Exhibit professional working attitudes
+HCM202,1,CLO1,"Nắm được về khái niệm, đối tượng, phương pháp nghiên cứu và ý nghĩa của môn học tư tưởng Hồ Chí Minh Understand the concept, object, research methods and meaningful learning of the course Ho Chi Minh ideology"
+HCM202,2,CLO10,"Vận dụng và học tập, làm theo tư tưởng đạo đức phong cách Hồ Chí Minh, có ý thức phấn đấu trong học tập và rèn luyện Apply, study and follow Ho Chi Minh's thought, morality and style, strive in studying and training"
+HCM202,3,CLO2,Phân tích được bối cảnh lịch sử Việt Nam từ cuối thế kỷ XIX đến thế kỷ XXI và cơ sở hình thành tư tưởng Hồ Chí Minh Analyze the historical context of Vietnam from the end of the 19th century to the 21st century and the basis for the formation of Ho Chi Minh ideology
+HCM202,4,CLO3,"Nắm được về hệ thống quan điểm tư tưởng Hồ Chí Minh về các vấn đề độc lập dân tộc và chủ nghĩa xã hội, đại đoàn kết dân tộc và đoàn kết quốc tế, xây dựng Đảng và Nhà nước, đạo đức, văn hóa, con người Understanding Ho Chi Minh's system of ideological views on national independence and socialism, the great unity bloc and international solidarity, the construction of the Party and State, ethics, culture, people"
+HCM202,5,CLO4,"Hiểu được vai trò nền tảng lý luận của Chủ nghĩa Mác-Lênin, tư tưởng Hồ Chí Minh đối với đường lối của Đảng và Nhà nước Understand the role of Marxism-Leninism and Ho Chi Minh's ideology as the ideological foundation for Vietnamese Communist Party and State's guidelines"
+HCM202,6,CLO5,"Phân tích được sự kế thừa, phát triển các quan điểm của chủ nghĩa Mác-Lênin trong tư tưởng Hồ Chí Minh Analyze the inheritance and development of Marxist-Leninism Ho Chi Minh's ideology"
+HCM202,7,CLO6,Hình thành khả năng làm việc nhóm và tự tìm kiếm tài liệu liên quan đến môn học và trình bày được nội dung của các tài liệu này Develop the ability to work in groups and search for course-related documents and be able to present knowledge in those documents
+HCM202,8,CLO7,"Củng cố tinh thần yêu nước, có ý thức trách nhiệm công dân, ý thức kỷ luật và thái độ nghề nghiệp đúng đắn, ham tìm hiểu và học tập suốt đời Consolidate patriotism, have a sense of civic responsibility, sense of discipline and right professional attitude, be eager for learning and lifelong learning"
+HCM202,9,CLO8,"Hình thành thái độ, tác phong làm việc chuyên nghiệp, phương pháp khoa học, có khả năng cập nhật kiến thức mới một cách chủ động Develop professional attitude and working style, have scientific methods, be able to  proactively update new knowledge"
+HCM202,10,CLO9,"Xây dựng khả năng vận dụng những kiến thức đã học để giải quyết những vấn đề kinh tế, chính trị, văn hóa xã hội theo quan điểm của Đảng và nhà nước Build the ability to apply learned knowledge to solve economic, political, socio-cultural issues from the perspective of the Party and the State."
+MLN131,1,CLO1,"Nắm vững những nội dung về sự ra đời, các giai đoạn phát triển, đối tượng, phương pháp và ý nghĩa của việc nghiên cứu chủ nghĩa xã hội khoa học  Master knowledge about the advent, development stages, objects, methods and meaningful studying of scientific socialism"
+MLN131,2,CLO2,Nắm vững những nội dung của chủ nghĩa Mác – Lênin về sứ mệnh lịch sử của giai cấp công nhân Master Marxism-Leninism theory on the historical mission of the working class
+MLN131,3,CLO3,"Nắm vững những quan điểm của chủ nghĩa Mác – Lênin về chủ nghĩa xã hội, thời kỳ quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa ở Việt Nam và sự vận dụng sáng tạo của Đảng Cộng sản Việt Nam vào điều kiện cụ thể Việt Nam Master the Marxist-Leninist views on socialism, the transitional period towards socialism while ignoring the capitalist regime in Vietnam and the Communist Party of Vietnam's creative application to Vietnamese practices"
+MLN131,4,CLO4,"Nắm vững những quan điểm của chủ nghĩa Mác – Lênin về nền dân chủ xã hội chủ nghĩa và nhà nước xã hội chủ nghĩa, quan điểm của Đảng Cộng sản Việt Nam về việc xây dựng và hoàn thiện nền dân chủ và nhà nước xã hội chủ nghĩa ở Việt Nam hiện nay Master the Marxist-Leninist views on socialist democracy and the socialist state, the Communist Party of Vietnam's view on building and perfecting socialist democracy and state in Vietnam today"
+MLN131,5,CLO5,"Nắm vững cơ cấu xã hội - giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội Master social-class structure and alliances of class in the transitional period to socialism."
+MLN131,6,CLO6,"Nắm vững những quan điểm cơ bản của chủ nghĩa Mác – Lênin, đường lối, chính sách của Đảng và nhà nước Việt Nam về vấn đề dân tộc và tôn giáo Master fundamental viewpoints of Marxism-Leninism and the Vietnamese Party and State's  lines and policies on ethnicity, religion issues"
+MLN131,7,CLO7,Nắm vững  những quan điểm cơ bản của chủ nghĩa Mác – Lênin về vấn đề gia đình trong thời kỳ quá độ lên chủ nghĩa xã hội Master fundamental viewpoints of Marxism-Leninism on family problems in the transitional period to socialism
+MLN131,8,CLO8,"Củng cố niềm tin của người học vào cuộc sống, các chủ trương, đường lối của Đảng, chính sách và pháp luật của Nhà nước Consolidate students' confidence in life, in guidelines and policies of the Party, and in policies and laws of the States"
+MLN131,9,CLO9,"Xây dựng kỹ năng lập luận, soạn thảo bài viết, thuyết trình, tư duy phản biện, xử lý các quan hệ xã hội và hoạt động nhóm Develop skills of argument, writing, presentations, critical thinking, handling social relations and group activities"
+VNR202,1,CLO1,"Hiểu được về đối tượng, mục đích, nhiệm vụ, phương pháp nghiên cứu, học tập môn học Lịch sử Đảng Cộng sản Việt Nam Understand the objects, purposes, tasks, research and study methods of the History of CPV"
+VNR202,2,CLO2,"Phân tích sự ra đời của Đảng Cộng sản Việt Nam (1920 - 1930), sự lãnh đạo của Đảng đối với cách mạng Việt Nam trong thời kỳ đấu tranh giành chính quyền (1930 - 1945), trong hai cuộc kháng chiến chống thực dân Pháp và đế quốc Mỹ xâm lược (1945 - 1975) Analyze the establishment of the Communist Party of Vietnam (1920 - 1930),  the Party's leadership over the period of Rise to power (1930 - 1945) and two resistance wars against French colonialist and American imperialist invasions (1945 - 1975)"
+VNR202,3,CLO3,"Nắm được quá trình xây dựng và bảo vệ Tổ quốc, quá độ lên Chủ nghĩa xã hội, tiến hành công cuộc đổi mới toàn diện đất nước (1975 - 2018) của Đảng Cộng sản Việt Nam. Từ đó, khẳng định các thành công, nêu lên các hạn chế, tổng kết những kinh nghiệm về sự lãnh đạo trong thực tiễn cách mạng Understand the national construction and defense, the transition to socialism, the implementation of the comprehensive renovation of the country (1975 - 2018) of the Communist Party of Vietnam. Thereby, affirming the successes, listing the limitations and summarizing experiences on leadership in revolutionary practices."
+VNR202,4,CLO4,"Hình thành niềm tin, niềm tự hào vào sự lãnh đạo của Đảng, định hướng phấn đấu theo mục tiêu, lý tưởng của Đảng Build confidence and pride in the Party's leadership, striving towards the Party's goals and ideals"
+VNR202,5,CLO5,"Củng cố, nâng cao ý thức tự rèn luyện, tu dưỡng đạo đức cách mạng và nhận thức chính trị, tư tưởng Consolidate and raise the sense of self-training and self-improve revolutionary morality and political awareness"
+VNR202,6,CLO6,Nâng cao ý thức rõ hơn về trách nhiệm công dân trước những nhiệm vụ trọng đại của đất nước Raise higher sense of civic responsibility over important duties of the country
+VNR202,7,CLO7,"Xây dựng phương pháp tư duy khoa học về lịch sử, các kỹ năng lựa chọn tài liệu nghiên cứu và học tập môn học; các kỹ năng làm việc cá nhân, làm việc nhóm, kỹ năng thuyết trình và trình bày kết quả nghiên cứu trong lĩnh vực đời sống xã hội có liên quan chủ trương Đảng Develop scientific thinking methods on history, selecting research and learning materials skills, individual and group work skills, and presentation skills on research results of Party policy-related fields"
+VNR202,8,CLO8,Vận dụng nhận thức lịch sử và thực tiễn để phê phán quan niệm sai trái về lịch sử của Đảng Apply awareness of history and practices to criticize the wrong perception of the Party's history
+VNR202,9,CLO9,"Vận dụng quan điểm của Đảng vào cuộc sống và công tác, biết kết hợp với những kiến thức chuyên ngành để chủ động, tích cực giải quyết những thực tiễn đặt ra theo đường lối, chính sách, pháp luật của Đảng và Nhà nước Apply the Party's viewpoints to life and work, combine it with specialized knowledge to proactively solve problems in reality in accordance with the guidelines, policies and laws of the Party and State"

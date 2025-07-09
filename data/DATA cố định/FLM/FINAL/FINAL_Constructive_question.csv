@@ -1,0 +1,1158 @@
+﻿SubjectCode,Session No,Name,Details
+CSI106,13,CQ5.1,How to store the sign of number on computer
+CSI106,13,CQ5.2,"Compare and constrast storing text, image, sound and video on computer"
+CSI106,14,CQ5.3,What is the difference between logic operation at bit level and pattern level?
+CSI106,15,CQ5.4,What is the difference between an arithmetic operation and a shift operation?
+CSI106,16,CQ6.1,Compare and constrast characteristics LAN and WAN
+CSI106,17,CQ6.2,What is the role of TCP/IP protocol suite and their relationship?
+CSI106,18,CQ6.3,How to transfer data from one computer to another?
+CSI106,25,CQ9.1,"Define three constructs: sequence, decision, and repetition. Describe their use in algorithms"
+CSI106,26,CQ9.2,What is the UML diagram ? How is a UML diagram related to an algorithm?
+CSI106,26,CQ9.3,How can we write an example of an algorithm by UML diagram?
+CSI106,27,CQ9.4,What is the pseudocode ? How is pseudocode related to an algorithm?
+CSI106,27,CQ9.5,How can we write an example of an algorithm by pseudocode?
+CSI106,31,CQ11.1,"How can machine language, assembly language and a high-level language be distinguished?"
+CSI106,31,CQ11.2,How can compilation and interpretation be distinguished?
+CSI106,32,CQ11.3,How can four basic computer language paradigms be distinguished?
+CSI106,32,CQ11.4,What are the similarities and differences between a procedural paradigm with an object-oriented paradigm?
+CSI106,35,CQ12.1,What is the software lifecycle in software engineering?
+CSI106,35,CQ12.2,What is the development processes? What are the two most common types of development processes
+CSI106,36,CQ12.3,What is the purpose of the analysis phase? What are two trends in this phase?
+CSI106,36,CQ12.4,What is the purpose of the design phase? What are two trends in this phase?
+CSI106,37,CQ13.1,How can the implementaion phase be described? What are the qualitiy issues in this phase?
+CSI106,38,CQ13.2,What is the purpose of the testing phase? How can glass-box testing and black-box testing be distinguished?
+CSI106,39,CQ13.3,What is an Array as a data structure? How is it used to store a list of data items?
+CSI106,39,CQ13.4,What is a Record as a data structure ? How do you think about Record and Array
+CSI106,40,CQ14.1,"How can we write a program using pointers? What are the similarities and differences among arrays, records and linked lists?"
+CSI106,41,CQ14.2,What is the concept of an abstract data type (ADT)? What is a Stack?
+CSI106,41,CQ14.3,What is a Queue? What are the differences between Stack and Queue?
+CSI106,42,CQ14.4,What is a General Tree? What is a Binary Tree? What are the differences and similarities between General Tree and Binary Tree?
+CSI106,42,CQ14.5,What is a Binary Search Tree (BST)? What is a Graph? What are the differences and similarities between Tree and Graph?
+CSI106,43,CQ15.1,What is the difference between a text file and a binary file?
+CSI106,44,CQ15.2,How to retrieve information from the file?
+CSI106,45,CQ15.3,"How do we operate on a sequential file, an indexed file, or a hashed file?"
+CSI106,46,CQ16.1,What is a database?
+CSI106,47,CQ16.2,Why do we need to use architecture in database system?
+CSI106,48,CQ16.3,Identify an advantage that an object-oriented database can have over a relational database.
+CSI106,49,CQ17.1,What is the purpose of a database model?
+CSI106,50,CQ17.2,How does the relational model provide for data independence?
+CSI106,51,CQ17.3,How do you design a good database?
+CSI106,52,CQ18.1,What are security goals?
+CSI106,53,CQ18.2,How confidentiality can be achieved using symmetric-key and asymmetric-key cipher?
+CSI106,54,CQ18.3,What is the main ideas of aspect security?
+MAD101,1,CT_CQ1,What are the types of propositional logic?
+MAD101,1,CQ1_HCM,List as many logical operators as possible. Give examples that use operators you listed.
+MAD101,2,CT_CQ1,What does it mean for two propositions to be logically equivalent? Describe the different ways to show that two compound propositions are logically equivalent.
+MAD101,2,CQ1_HCM,How do we define the concept 'logical equivalence' in propositional logic? Let's give examples.
+MAD101,2,CQ2_HCM,Give two examples using De Morgan laws.
+MAD101,3,CT_CQ1,How to understand the universal and existential quantifications of a predicate P(x)? What are their negations?
+MAD101,3,CQ1_HCM,What is the main different between a predicate and a proposition? Illustrate your statement by examples.
+MAD101,4,CQ1_DN,What are two most important quantifiers? How is Demorgan's law in predicate logic understood?
+MAD101,4,CT_CQ1,What is the precedence of quantifiers?
+MAD101,4,CQ1_HCM,In what case is the value of the proposition ∀xP(x) false? Give counterexamples.
+MAD101,5,CQ1_DN,What are two most important quantifiers? How is Demorgan's law in predicate logic understood?
+MAD101,5,CT_CQ1,"What is the difference between the quantification ∃x∀yP(x, y) and ∀y∃xP(x, y), where P(x, y) is a predicate? Give an example of a predicate P(x, y) such that they have different truth values?"
+MAD101,5,CQ1_HCM,"Let P(x, y) be a predicate. Give an instance that makes the truth value of the propositions ∃x∀yP(x, y) and ∀y∃xP(x, y) true/false."
+MAD101,6,CQ1_DN,What are two most important quantifiers? How is Demorgan's law in predicate logic understood?
+MAD101,6,CT_CQ1,How to negate a statement involving nested quantifiers? Give examples.
+MAD101,6,CQ1_HCM,"What is the negation of ∃x∀y(P(x, y) --> Q(x,y))? Give examples in English statements."
+MAD101,6,CQ2_HCM,Give examples of translation between English statements and logical expressions.
+MAD101,7,CT_CQ1,"Describe what is meant by a valid argument in propositional logic and show that the argument “If the earth is flat, then you can sail off the edge of the earth,” “You cannot sail off the edge of the earth,” therefore, “The earth is not flat” is a valid argument"
+MAD101,7,CQ1_HCM,List some rules of inference. Use them to give your own valid arguments.
+MAD101,8,CT_CQ1,"Use rules of inference to show that if the premises “All zebras have stripes” and “Mark is a zebra” are true, then the conclusion “Mark has stripes” is true."
+MAD101,8,CQ1_HCM,"For each of these arguments, determine whether it is correct or incorrect, and explain why. Give your correction to obtain a valid one. a) Every computer science major takes discrete mathematics. Natasha is taking discrete mathematics. Therefore, Natasha is a computer science major. b) Everyone who eats granola every day is healthy. Linda is not healthy. Therefore, Linda does not eat granola every day."
+MAD101,9,CT_CQ1,Explain what it means for one set to be a subset of another set. How do you prove that one set is a subset of another set?
+MAD101,9,CQ1_HCM,"Explain the concepts: sets, infinite sets, subsets of a set, power set of a set. Give examples."
+MAD101,9,CQ2_HCM,List some set operators with examples. What do we mean by 'symmetric difference' in set theory?
+MAD101,10,CQ1_DN,How are two or more sets combined? What are the important properties of functions?
+MAD101,10,CT_CQ1,"What are the union, intersection, difference, and symmetric difference of the set of positive integers and the set of odd integers?"
+MAD101,10,CQ1_HCM,"Is it possible that A is an element of A, where A is a set? Give examples."
+MAD101,10,CQ2_HCM,How do we represent sets in computers? Give examples for illustration.
+MAD101,11,CQ1_DN,How are two or more sets combined? What are the important properties of functions?
+MAD101,11,CT_CQ1,Give some examples of functions from the set of positive integers to the set of positive integers being:   1) both one-to-one and onto   2) one-to-one but not onto  3) onto but not not one-to-one  4) neither one-to-one nor onto
+MAD101,11,CQ1_HCM,What are functions? one-to-one functions? How many one-to-one functions are from a set of three elements to itself?
+MAD101,12,CQ1_DN,How are two or more sets combined? What are the important properties of functions?
+MAD101,12,CT_CQ1,When does a function have an inverse?
+MAD101,12,CQ1_HCM,When is a function called bijection and what is its inverse?
+MAD101,13,CT_CQ1,"For each of the following lists of integers, provide a simple formula or rule that generates the terms of an integer sequence that begins with the given list. Assuming that your formula or rule is correct, determine the next three terms of the sequence.  (a) 3, 6, 11, 18, 27, 38, 51, 66, 83, 102, ...  (b) 15, 8, 1, −6, −13, −20, −27, ...  (c) 1, 10, 11, 100, 101, 110, 111, 1000, 1001, 1010, 1011, ...  (d) 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, ..."
+MAD101,13,CQ1_HCM,"Give your analysis to know what the 50th term is. 1, 2, 3, 3, 4, 5, 5, 5, 6, 7, 7, 7, 7, …"
+MAD101,13,CQ2_HCM,What is a geometric progression? Give an example.
+MAD101,14,CT_CQ1,How to evaluate the double sum?
+MAD101,14,CQ1_HCM,"What is the sum of the first 50 terms of the following sequence 1, 2, 3, 3, 4, 5, 5, 5, 6, 7, 7, 7, 7, …?"
+MAD101,14,CQ2_HCM,Can infinite sets be countable? Why or why not?
+MAD101,15,CT_CQ1,"Calculate the number of one-to-one functions from a set S to a set T, where S and T are finite sets of various sizes. Can you determine a formula for the number of such functions?"
+MAD101,16,CQ1_DN,How to locate an element in an ordered list? What is commonly used to describe the growth of a function?
+MAD101,17,CQ1_DN,How to locate an element in an ordered list? What is commonly used to describe the growth of a function?
+MAD101,17,CT_CQ1,What is the difference between an algorithm and a computer program?
+MAD101,17,CQ1_HCM,Give at least 3 different algorithms to compute 1+2+3+…+n for positive integer n.
+MAD101,17,CQ2_HCM,Give an algorithm that the number of basic comparisons does not depend on the size of input.
+MAD101,18,CQ1_DN,How to locate an element in an ordered list? What is commonly used to describe the growth of a function?
+MAD101,18,CT_CQ1,What is big-O notation used for?
+MAD101,18,CQ1_HCM,Give at least 3 different algorithms to compute 1+2+3+…+n for positive integer n. Compute the number of additions used in each algorithm.
+MAD101,19,CT_CQ1,How can the efficiency of an algorithm be analyzed?
+MAD101,19,CQ2_HCM,Show that log(n!) is O(nlogn).
+MAD101,20,CT_CQ1,Let n and d be positive integers. How many positive integers not exceeding n are divisible by d?
+MAD101,20,CQ1_HCM,Is it possible to use only paper and pencil to calculate 3^2023 mod 78? Give your solution if any.
+MAD101,21,CT_CQ1,Define what it means for a and b to be congruent modulo m?
+MAD101,21,CQ1_HCM,Explain how to encrypt the message 'HAPPY' using modular arithmetic with the encryption function f(p) = (p + 7) mod 26.
+MAD101,21,CQ2_HCM,Is the function f(p) = (13p + 7) mod 26 good for encoding? Why or why not?
+MAD101,22,CQ1_DN,How many ways are there to find the greatest common divisor of two numbers? What are the algorithms for adding and mutiplying integers using their base b expansions?
+MAD101,22,CT_CQ1,Describe a procedure for finding the prime factorization of an integer
+MAD101,22,CQ1_HCM,Why are primes important in cryptography?
+MAD101,23,CQ1_DN,How many ways are there to find the greatest common divisor of two numbers? What are the algorithms for adding and mutiplying integers using their base b expansions?
+MAD101,23,CT_CQ1,Describe some ways to find the greatest common divisor of two integers. When does each method work best?
+MAD101,23,CQ1_HCM,"Give examples to illustrate that if r = a mod b then gcd(a, b) = gcd(b, r)."
+MAD101,23,CQ2_HCM,Explain the Euclidean algorithm via examples.
+MAD101,24,CQ1_DN,How many ways are there to find the greatest common divisor of two numbers? What are the algorithms for adding and mutiplying integers using their base b expansions?
+MAD101,24,CT_CQ1,Describe a procedure for converting decimal (base 10) expansions of integers into a base n (n>1) expansions and vice versa.
+MAD101,24,CQ1_HCM,Give an example to explain how to find a binary format of a positive integer.
+MAD101,24,CQ2_HCM,Can an integer have base 3 expansion? Give an example.
+MAD101,25,CT_CQ1,Describe an algorithm for finding the difference of two binary expansions?
+MAD101,25,CQ1_HCM,"Explain ALGORITHM 3 Multiplication of Integers. (page 266, K. Rosen 7th Ed.)"
+MAD101,26,CT_CQ1,How can we find 3^2022 mod 99 using only paper and pencil?
+MAD101,26,CQ1_HCM,How can we compute 7^333 mod 555 using Fast Modular Exponentiation algorithm? How fast is this algorithm?
+MAD101,27,CT_CQ1,Can you use the principle of mathematical induction to find a formula for the sum of the first n terms of a sequence?
+MAD101,27,CQ1_HCM,Give an example of a recursive algorithm.
+MAD101,27,CQ2_HCM,Use mathematical induction to prove the correctness of  a recursive algorithm of computing n!
+MAD101,28,CT_CQ1,Which amounts of money can be formed using just two dollar bills and five-dollar bills?
+MAD101,28,CQ1_HCM,Use strong induction to prove that every amount of postage of 12 cents or more can be formed using just 4-cent and 5-cent stamps.
+MAD101,29,CT_CQ1,"Give a recursive definition of a^n, where a is a nonzero real number and n is a nonnegative integer?"
+MAD101,29,CQ1_HCM,"Give at least two recursive definitions for the sequence {a_n} with n>0: 0, 5, 0, 5, 0, 5, …"
+MAD101,30,CT_CQ1,Give a recursive definition of the set of positive integers that are multiples of 5.
+MAD101,30,CQ1_HCM,"List five elements of the set of all strings generated from {a, b}."
+MAD101,30,CQ2_HCM,"Use a recursive definition to define the set of all strings generated from {a, b}."
+MAD101,31,CQ1_DN,Can we solve a problem by reducing it to an instance of the same problem with smaller input? What are the basic rules of counting?
+MAD101,31,CT_CQ1,Describe a recursive algorithm for  1) computing n!  2) computing a^n  3) computing the greatest common divisor of two positive integers.  4) linear searching the value x in a subsequence of the sequence {a_n}.  5) binary searching the value x in an increasingly ordered subsequence of the sequence {a_n}.
+MAD101,31,CQ1_HCM,Write recursive versions of linear search algorithm.
+MAD101,31,CQ2_HCM,Write recursive versions of binary search algorithm.
+MAD101,32,CQ1_DN,Can we solve a problem by reducing it to an instance of the same problem with smaller input? What are the basic rules of counting?
+MAD101,32,CT_CQ1,Estimate the number of comparisons used to merge two ordered lists in the analysis of the merge sort.
+MAD101,32,CQ1_HCM,Write an interactive algorithm and a recursive algorithm to find the Fibonacci numbers. Which algorithm uses fewer comparisons?
+MAD101,33,CQ1_DN,Can we solve a problem by reducing it to an instance of the same problem with smaller input? What are the basic rules of counting?
+MAD101,33,CT_CQ1,What is the difference between: a) The sum rule and product rule? b) The permutation and combination?
+MAD101,33,CQ1_HCM,State the principle of inclusion-exclusion. Give an example where this principle applies.
+MAD101,33,CQ2_HCM,State the principle of inclusion-exclusion for three sets.
+MAD101,34,CQ1_DN,How recurrence relations can be used to solve counting problems? How to use these divide-and-conquer recurrence relations to estimate the complexity of these algorithms?
+MAD101,34,CT_CQ1,Explain how the principle of inclusion–exclusion can be used to count the number of onto functions from a set with m elements to a set with n elements.
+MAD101,34,CQ1_HCM,How many bit strings of length six do not have two consecutive 1s or three consecutive 0s?
+MAD101,35,CQ1_DN,How recurrence relations can be used to solve counting problems? How to use these divide-and-conquer recurrence relations to estimate the complexity of these algorithms?
+MAD101,35,CT_CQ1,Explain how the Fibonacci numbers are used to find a recurrence relation for the number of bit strings of length n not containing two consecutive 1s.
+MAD101,35,CQ1_HCM,State the product rule for counting. Give 3 examples.
+MAD101,35,CQ2_HCM,Give examples of counting problems which can be solved by using tree diagrams.
+MAD101,36,CQ1_DN,How recurrence relations can be used to solve counting problems? How to use these divide-and-conquer recurrence relations to estimate the complexity of these algorithms?
+MAD101,36,CT_CQ1,Explain how to find f(b^k) (where k is a positive integer) if f(n) satisfies the divide-and-conquer recurrence relation f(n) = af (n/b) + g(n) whenever b divides the positive  integer n
+MAD101,36,CQ1_HCM,Given f(n) = 2f(n/2) + n when n is an integer divisible by 2 and f(1) = 1. Can we compute the exact value of f(1024)? Why or why not? How do we estimate the growth of f(n)?
+MAD101,37,CT_CQ1,Derive divide-and-conquer recurrence relations for the number of comparisons used in: binary search; locating the maximum element in a sequence. Give big-O estimates for the number of comparisons needed by these algorithm.
+MAD101,39,CT_CQ1,Explain how to model different aspects of a computer network or airline routes.
+MAD101,39,CQ1_HCM,List some models of graphs in the real world.
+MAD101,39,CQ2_HCM,"Explain the concepts: degree, in/out-degree, adjacency and incident."
+MAD101,40,CQ1_DN,What are the number of vertices and edges of several classes of simple graphs often used in many applications? How to represent graphs?
+MAD101,40,CT_CQ1,What is the relationship between the sum of the degrees of the vertices in an undirected graph and the number of edges in this graph?
+MAD101,40,CQ1_HCM,"Describe some special simple graphs Kn, Cn, Wn"
+MAD101,40,CQ2_HCM,"Describe some special simple graphs Qn, Km;n."
+MAD101,41,CQ1_DN,What are the number of vertices and edges of several classes of simple graphs often used in many applications? How to represent graphs?
+MAD101,41,CT_CQ1,How to represent graphs in several different ways?
+MAD101,41,CQ1_HCM,"How to generate the adjacency matrix and incidence matrix from a given graph, and vice versa?"
+MAD101,41,CQ2_HCM,Highlights the difference between adjacency matrix and incidence matrix.
+MAD101,42,CQ1_DN,What are the number of vertices and edges of several classes of simple graphs often used in many applications? How to represent graphs?
+MAD101,42,CT_CQ1,How to determine whether two graphs are isomorphic?
+MAD101,42,CQ1_HCM,"Give an example of two non-isomorphic graphs that have the same number of nodes, edges and degree sequences."
+MAD101,43,CT_CQ1,When is there always a path between two vertices in the graph?
+MAD101,43,CQ1_HCM,"What is the length of the longest simple circuit in Kn, Wn?"
+MAD101,44,CT_CQ1,How can paths and circuits help to determine whether two graphs are isomorphic?
+MAD101,44,CQ1_HCM,What are cut vertices and cut edges?
+MAD101,44,CQ2_HCM,Explain the difference between strongly connected and weakly connected. Illustrate them by graphs.
+MAD101,45,CT_CQ1,Describe the famous Konigsberg bridge problem and explain how to rephrase it in terms of an Euler circuit.
+MAD101,45,CQ1_HCM,What are Euler Circuits/Paths? What is the indication that a given graph has an Euler Circuit/Path?
+MAD101,45,CQ2_HCM,Can L. Euler solve the Seven Bridges of Königsberg Problem?
+MAD101,46,CQ1_DN,How to find a shortest path between two vertices in a weighted graph using a greedy approach? Can we solve the traveling salesman problem with a backtracking technique?
+MAD101,46,CT_CQ1,Give some properties of a simple graph that imply that it has a Hamilton circuit.
+MAD101,46,CQ1_HCM,"In a weighted graph, assume that the weights of the edges are different. Is the shortest path between two vertices unique? Show your claim by using examples."
+MAD101,47,CQ1_DN,How to find a shortest path between two vertices in a weighted graph using a greedy approach? Can we solve the traveling salesman problem with a backtracking technique?
+MAD101,47,CT_CQ1,Describe Dijkstra’s algorithm for finding the shortest path in a weighted graph between two vertices.
+MAD101,47,CQ1_HCM,Use Djikstra's algorithm to find the shortest path and also its length from a source vertex to a sink vertex in a weighted graph. Describe each iteration of the algorithm in detail.
+MAD101,47,CQ2_HCM,Does Google Map use Djikstra's algorithm?
+MAD101,48,CQ1_DN,How to find a shortest path between two vertices in a weighted graph using a greedy approach? Can we solve the traveling salesman problem with a backtracking technique?
+MAD101,48,CT_CQ1,Draw a weighted graph with at least 8 vertices and 12 edges. Use Dijkstra’s algorithm to find the shortest  path between two vertices of your choice in the graph.
+MAD101,48,CQ1_HCM,Explain why the exhausted technique cannot be used to solve the TSP (Traveling Salesman Problem) when the number of nodes is large.
+MAD101,49,CT_CQ1,"Draw a rooted tree with at least 10 vertices, where the degree of each vertex does not exceed 3. Identify the root, the parent of each vertex, the children of each vertex, the internal vertices, the leaves, the level of each vetex, and the height of tree."
+MAD101,49,CQ1_HCM,Give some tree models that are commonly used in the real world.
+MAD101,49,CQ2_HCM,"Explain the concepts parent, child, leaf, internal nodes, descendants, and ancestors used in graph theory."
+MAD101,50,CT_CQ1,How many edges does a tree with n vertices have? How many vertices and leaves does a full m-ary tree have if it has i internal vertices? How many leaves can an m-ary tree of height h have?
+MAD101,50,CQ1_HCM,"A full binary tree has L leaves. How high can this tree be? If the number of nodes is given by n, then what are the maximum and minimum heights of a binary tree?"
+MAD101,51,CT_CQ1,"What is a binary search tree? Describe an algorithm for constructing a binary search tree, and form a binary search tree for the words: vireo, warbler, egret, grosbeak, nuthatch, and kingfisher."
+MAD101,51,CQ1_HCM,"Build a binary search tree for the words enology, phrenology, campanology, ornithology, ichthyology, limnology, alchemy, and astrology using alphabetical order. How many comparisons are needed to locate/find or insert/add the word “limnology” in the search tree?"
+MAD101,52,CQ1_DN,How to code a text using a prefix tree? What is the algorithm to convert from an expression from infix form to postfix one?
+MAD101,52,CT_CQ1,What is a prefix code? How can a prefix code be represented by a binary tree?
+MAD101,52,CQ1_HCM,Use the Huffman coding algorithm to encode a letter given the frequencies A: 0.1 B: 0.13 C: 0.22 D: 0.25 E: 0.30.
+MAD101,52,CQ2_HCM,What is the main benefit of Huffman coding algorithm?
+MAD101,53,CQ1_DN,How to code a text using a prefix tree? What is the algorithm to convert from an expression from infix form to postfix one?
+MAD101,53,CT_CQ1,"Describe preorder, inorder, and postorder tree traversal. Give some examples of preorder, postorder, and inorder  traversal of some binary trees of your choice with at least 10 vertices."
+MAD101,53,CQ1_HCM,"Build a binary search tree for the words enology, phrenology, campanology, ornithology, ichthyology, limnology, alchemy, and astrology using alphabetical order. Using pre-order traversal to give the order of the words afterward."
+MAD101,54,CQ1_DN,How to code a text using a prefix tree? What is the algorithm to convert from an expression from infix form to postfix one?
+MAD101,54,CT_CQ1,Give as many examples as possible for representing some expressions of your choice in prefix and postfix notations.
+MAD101,54,CQ1_HCM,Give two different infix expressions that have the same calculating result after applying in-order traversal to the binary expression trees.
+MAD101,54,CQ2_HCM,What are main benefits of prefix and postfix forms?
+MAD101,55,CQ1_DN,How many ways to build a spanning tree for a connected simple graph? Can we use greedy approachs to design algorithms for finding minimum spanning trees?
+MAD101,55,CT_CQ1,What is a spanning tree of a simple graph? Which simple graphs have spanning trees? Describe at least two different applications that require that a spanning tree of a simple graph be found.
+MAD101,55,CQ1_HCM,What are spanning trees?
+MAD101,55,CQ2_HCM,How many edges must be removed from a connected graph with n vertices and m edges to produce a spanning tree?
+MAD101,56,CQ1_DN,How many ways to build a spanning tree for a connected simple graph? Can we use greedy approachs to design algorithms for finding minimum spanning trees?
+MAD101,56,CT_CQ1,"Describe depth-first search and breadth-first search algorithms for finding a spanning tree in a simple graph, and illustrate how they work for some graphs of your choice with at least eight vertices and 15 edges."
+MAD101,56,CQ1_HCM,Consider the DFS (Depth First Search) and BFS (Breadth First Search) algorithms to construct a spanning tree with the same root for a connected graph. Which algorithm will produce a higher tree?
+MAD101,57,CQ1_DN,How many ways to build a spanning tree for a connected simple graph? Can we use greedy approachs to design algorithms for finding minimum spanning trees?
+MAD101,57,CT_CQ1,What is a minimum spanning tree of a connected weighted graph? Describe at least two different applications that require that a minimum spanning tree of a connected  weighted graph be found.
+MAD101,57,CQ1_HCM,What are minimum spanning trees?
+MAD101,57,CQ2_HCM,Give real-life examples of the problem of finding the minimum spanning tree.
+MAD101,58,CT_CQ1,"Describe Kruskal’s algorithm and Prim’s algorithm for finding minimum spanning trees and illustrate how Kruskal’s algorithm and Prim’s algorithm are used to find a minimum spanning tree, using a weighted graph with at least eight vertices and 15 edges."
+MAD101,58,CQ1_HCM,"Illustrate step by step how Kruskal’s algorithm and Prim’s algorithm are used to find a minimum spanning tree, using a weighted graph with at least 6 vertices and 9 edges."
+MAE101,1,CQ1_DN,Discuss four ways of representing a function. Illustrate your discussion with examples.
+MAE101,1,CT_CQ1,Basis functions and the transformations of functions
+MAE101,1,HCM_CQ1,"What is a function? Let's give an example. Then, find its domain and range."
+MAE101,2,CQ1_DN,Describe several ways in which a limit can fail to exist. Illustrate with sketches.
+MAE101,2,CT_CQ1,Explain the relationship between one-sided and two-sided limits.
+MAE101,2,HCM_CQ2,"Suppose that the graph of f is given. Describe how the graph of the function y=f(x+a) + b can be obtained from the graph of f(x). (where a, b>0)"
+MAE101,3,CQ1_DN,"What does it mean for f to be continuous at a, continuous on an interval? What can you say about the graph of such a function?"
+MAE101,3,CT_CQ1,Describe three kinds of discontinuities.
+MAE101,3,HCM_CQ3,What does it mean to say that a line is the vertical asymptote of the curve? Draw curves to illustrate the various possibilities.
+MAE101,3,HCM_CQ4,What is the graph of a function? How can you tell whether a given curve is the graph of a function?
+MAE101,4,CQ1_DN,Define the derivative f'(a) . Discuss two ways of interpreting this number.
+MAE101,4,CT_CQ1,Describe three conditions for when a function does not have a derivative. Explain the meaning of a higher-order derivative.
+MAE101,4,HCM_CQ5,Describe some cases where a function is not differentiable. Illustrate with sketches.
+MAE101,5,CQ1_DN,"Give several examples of how the derivative can be interpreted as a rate of change in physics, chemistry, biology, economics, or other sciences."
+MAE101,5,CT_CQ1,Predict the future population from the present value and the population growth rate.
+MAE101,5,HCM_CQ6,"If y=f(x) and x varies from a to b, write expressions for the average rate of change of y with respect to x over the interval [a,b]."
+MAE101,6,CQ1_DN,"Find the equation of the tangent line to the folium of Descartes with equation 2x^3 + 2y^3 − 9xy = 0 at the point (2, 1)."
+MAE101,6,CT_CQ1,Recognize the chain rule for a composition of three or more functions.
+MAE101,6,HCM_CQ7,What is an implicit function?
+MAE101,6,HCM_CQ8,Explain with examples how implicit differentiation works.
+MAE101,7,CT_CQ1,Use logarithmic differentiation to determine the derivative of a function.
+MAE101,7,HCM_CQ9,How are derivatives of exponential and logarithmic functions used in real life?
+MAE101,8,CQ1_DN,How to solve a related rates problem? Illustrate with examples.
+MAE101,8,CT_CQ1,Use the chain rule to find the rate of change of one quantity that depends on the rate of change of other quantities.
+MAE101,8,HCM_CQ10,What is an example of a related rate in reality?
+MAE101,9,CQ1_DN,How to use differentials to approximate the change in the value of the function that results from a small change in the value of the input?
+MAE101,9,CT_CQ1,Describe the linear approximation to a function at a point
+MAE101,9,HCM_CQ11,What is the linearization of an everywhere differential function f?
+MAE101,9,HCM_CQ12,"Suppose that f""(x) < 0 for x near a point. Is the linearization of f at the point an over-approximation or an under-approximation? Why?"
+MAE101,10,CQ1_DN1,Explain the difference between an absolute maximum and a local maximum. Illustrate with a sketch.
+MAE101,10,CQ2_DN1,State the Mean Value Theorem and give a geometric interpretation.
+MAE101,10,CT_CQ1,Define absolute extrema. Explain how to find the critical points of a function over a closed interval. Provide examples.
+MAE101,10,HCM_CQ13,"If f(x) is continuous on a closed interval, then it is enough to look at the points where f'(x) = 0 in order to find its absolute maxima and minima. Be prepared to justify your answer."
+MAE101,11,CT_CQ1,Use concavity and inflection points to explain how the sign of the second derivative affects the shape of a function’s graph.
+MAE101,11,HCM_CQ14,What is the vertical/horizontal asymptote of a curve? Illustrate the possibilities by drawing.
+MAE101,11,HCM_CQ15,How many horizontal asymptotes can a function have in maximum?
+MAE101,12,CT_CQ1,Set up and solve optimization problems in several applied fields
+MAE101,12,HCM_CQ16,How do you solve applied optimization problems? Let's give an example.
+MAE101,13,CQ1_DN,"(a) Given an initial approximation x_1 to a root of the equation f(x)=0, explain geometrically, with a diagram, how the second approximation x_2 in Newton’s method is obtained. (b) Write an expression for x_2, x_n"
+MAE101,13,CT_CQ1,Describe the steps of Newton’s method. Recognize when Newton’s method does not work. Provide examples.
+MAE101,13,HCM_CQ17,What is Newton's method? Give examples.
+MAE101,13,HCM_CQ18,Does Newton's method always work?
+MAE101,14,CQ1_DN,A metal storage tank with volume V is to be constructed in the shape of a right circular cylinder surmounted by a hemisphere. What dimensions will require the least amount of metal?
+MAE101,14,CT_CQ1,Use antidifferentiation to solve simple initial-value problems
+MAE101,14,HCM_CQ19,What is the antiderivative? Why do we need to find the antiderivative of an integrable function?
+MAE101,15,CQ1_DN,Use six rectangles to find estimates of each type for the area under the graph of f(x)= e^(x^2) from x=0 to x=1 . (a) L_6(sample points are left endpoints) (b) R_6(sample points are right endpoints)
+MAE101,15,CT_CQ1,Compute the left and right Riemann sums—L6 and R6. Provide examples.
+MAE101,15,HCM_CQ20,"How do you approximate the area under a curve? Let's take an example of the function f(x) = x^2 in the interval [1,2]."
+MAE101,16,CQ1_DN,Write the definition of the definite integral of a continuous function from x=a to x=b .
+MAE101,16,CT_CQ1,Use Riemann sums to the approximate area.
+MAE101,16,HCM_CQ21,What are definite integrals? Give examples.
+MAE101,16,HCM_CQ22,What is the relationship between integrals and anti-derivatives?
+MAE101,17,CQ1_DN,Use the Net Change Theorem to evaluate the net change in function . Illustrate with examples.
+MAE101,17,CT_CQ1,Explain the significance of the net change theorem.
+MAE101,17,HCM_CQ23,How can we use definite integrals to determine the net change of a quantity?
+MAE101,18,CQ1_DN,How do you use the Substitution Rule?
+MAE101,18,CT_CQ1,When we use the substitution rule and how it is used.
+MAE101,18,HCM_CQ24,What is the substitution method for calculating integrals?
+MAE101,18,HCM_CQ25,Give an example of computing integrals by using substitution rule.
+MAE101,19,CQ1_DN,Use Midpoint Rule and Trapezoidal Rule to approximate the value of an definite integral.
+MAE101,19,CQ2_DN1,Approximate the value of an definite integral by using the Simpson’s Rule.
+MAE101,19,CT_CQ1,When we use the integrate by parts rule and how it is used.
+MAE101,19,HCM_CQ26,How to prove the integral by parts formula?
+MAE101,20,CT_CQ1,Evaluate an integral over an infinite interval.
+MAE101,20,HCM_CQ27,What are improper integrals?
+MAE101,20,HCM_CQ28,What are the real-life applications of improper integrals?
+MAE101,21,HCM_CQ29,What are the types of improper integrals?
+MAE101,22,HCM_CQ30,What is numerical integration with an example? Why do we implement numerical integration?
+MAE101,23,CQ1_DN,How many solutions can a system of linear equations have?
+MAE101,23,CT_CQ1,"Show that a system consisting of exactly one linear equation can have no solution, one solution, or infinitely many solutions. Give examples"
+MAE101,23,HCM_CQ31,Give example of solving a system of linear equations in real life.
+MAE101,23,HCM_CQ32,How many solutions can a system of linear equations have?
+MAE101,24,CQ1_DN,What are elementary row operations? Illustrate with examples.
+MAE101,24,CT_CQ1,"By examining the possible positions of lines in the plane, show that two equations in two variables can have zero, one, or infinitely many solutions."
+MAE101,24,HCM_CQ33,What are elementary operations in linear algebra? Let's give an example.
+MAE101,24,HCM_CQ34,What are reduced row echelon matrices?
+MAE101,25,CQ1_DN,How do you solve a linear equation using the Gaussian elimination method?
+MAE101,25,CT_CQ1,"Using a series of elementary row operations to carry a matrix to row–echelon form, find the rank of a matrix."
+MAE101,25,HCM_CQ35,How does Gaussian elimination work?
+MAE101,26,CT_CQ1,Condition for a homogeneous system to have a nontrivial solution
+MAE101,26,HCM_CQ36,What are homogeneous systems?
+MAE101,27,CQ1_DN,"How to find the result of Matrix Addition, Scalar Multiplication, Transposition."
+MAE101,27,CT_CQ1,Practicing some matrix operations
+MAE101,27,HCM_CQ37,"How do we define addition, scalar multiplication, and transpose operations of matrices?"
+MAE101,27,HCM_CQ38,State at least 2 properties of matrix addition.
+MAE101,28,CT_CQ1,What is the condition to multiply the matrix by the vector?
+MAE101,28,HCM_CQ39,Can we do the multiplication of any two matrices together?
+MAE101,28,HCM_CQ40,State at least 2 properties of matrix multiplication.
+MAE101,29,CQ1_DN,How to use matrix -vector multiplication as Matrix Transformation in R^2.
+MAE101,29,CT_CQ1,What is matrix transformation? For example.
+MAE101,29,HCM_CQ41,What is the 'matrix transformation'?
+MAE101,29,HCM_CQ42,What is the matrix of reflection on the axis Ox in the Oxy-plane?
+MAE101,30,CQ1_DN,How to multiply two matrices? Illustrate with examples.
+MAE101,30,CT_CQ1,How to multiply two matrices? For example. Is it possible to multiply any two matrices together?
+MAE101,31,CT_CQ1,Find matrix inverse. Using matrix transformations to reveal the geometrical meaning of matrix multiplication and inverse.
+MAE101,31,HCM_CQ43,When is a square matrix invertible?
+MAE101,31,HCM_CQ44,"Suppose A is an invertible matrix, how to find the inverse of A?"
+MAE101,32,CT_CQ1,"State the properties of inverse matrices, providing examples."
+MAE101,32,HCM_CQ45,What are the properties for the inverse existence of a matrix?
+MAE101,33,CT_CQ1,"what are linear transformations? State the properties of linear transformations, with examples."
+MAE101,34,CT_CQ1,How to find The Cofactor Expansion
+MAE101,34,HCM_CQ46,"How to find the (i,j) -cofactor of a matrix?"
+MAE101,34,HCM_CQ47,"What are (i,j)-cofactors used for?"
+MAE101,35,CT_CQ1,How to calculate the determinant and its properties.
+MAE101,35,HCM_CQ48,What is the determinant of a square matrix?
+MAE101,36,CT_CQ1,State the relationship formulas between the determinant of a matrix and the inverse matrix.
+MAE101,36,HCM_CQ49,Can you find determinant of non square matrices?
+MAE101,36,HCM_CQ50,Give an example of computing the determinant of a matrix by using elementary operations.
+MAE101,37,CQ1_DN,How to solve a linear system using Cramer's rule.
+MAE101,37,CT_CQ1,"How can you use Cramer’s Rule to tell if a system of linear equations has one, zero, or infinitely many solutions?"
+MAE101,37,HCM_CQ51,State the Cramer's Rule.
+MAE101,38,CQ1_DN,"How to find the characteristic equation, the eigenvalues, and bases for the eigenspaces of the matrix."
+MAE101,38,CT_CQ1,"Find the characteristic polynomial, eigenvalues and eigenvectors of matrix A. Provide examples."
+MAE101,38,HCM_CQ52,What is the characteristic polynomial of a matrix?
+MAE101,38,HCM_CQ53,What do we call the root of the characteristic polynomial of a matrix?
+MAE101,39,CT_CQ1,"When is a matrix diagonalizable, give an example."
+MAE101,40,HCM_CQ54,How to find eigenvalues of a 2x2 matrix? When is it diagonalizable for sure?
+MAE101,40,HCM_CQ55,When do we guarantee a matrix is diagonalizable?
+MAE101,41,HCM_CQ56,What are the applications of diagonalization of a matrix?
+MAE101,42,CT_CQ1,What is the vector space R^n? for example
+MAE101,42,HCM_CQ57,What is the vector space R^n?
+MAE101,43,CT_CQ1,Find the equations of the line. For example.
+MAE101,43,HCM_CQ58,How to determine the equation of a line in R^3?
+MAE101,43,HCM_CQ59,Give the vector version of the equation of a line in R^3.
+MAE101,44,CT_CQ1,"Calculate the distance from the point P to the line in each case and find the point Q on the line closest to P. P(3, 2, -1) line: x = 2 +t, y = 1-t, z = 3 - 2t."
+MAE101,44,HCM_CQ60,Let U and V be vectors in R^n and V ≠ 0. What is the projection of U onto V?
+MAE101,45,CT_CQ1,Find equation planes.
+MAE101,45,HCM_CQ61,How to define a plane in R^3?
+MAE101,45,HCM_CQ62,Give the vector version of the equation of a plane in R^3.
+MAE101,46,CT_CQ1,"Show that if the diagonals of a parallelogram are perpendicular, it is necessarily a rhombus."
+MAE101,46,HCM_CQ63,What is the major difference between cross product and dot product?
+MAE101,47,CT_CQ1,Find the area of the triangle.
+MAE101,47,HCM_CQ64,Why do we use cross products?
+MAE101,48,CT_CQ1,"Find the matrix of the operator (reflection, projection, rotation) in R^2/ R^3."
+MAE101,48,HCM_CQ65,Give an example of a linear transformation from R^3 to R^2.
+MAE101,48,HCM_CQ66,Give an example of a linear transformation from R^3 to R^2 and indicate the matrix of this transformation.
+MAE101,49,CT_CQ1,Find the matrix of the rotation in R^3 about the x axis through the angle θ (from the positive y axis to the positive z axis).
+MAE101,49,HCM_CQ67,How is the determinant related to volume?
+MAE101,50,CT_CQ1,What are the applications of transformation in computer graphics? For example.
+MAE101,50,HCM_CQ68,What are the applications of transformation in computer graphics?
+MAE101,50,HCM_CQ69,What is the projection matrix of an orthogonal projection along a line?
+MAE101,51,CT_CQ1,When is U a subspace in R^3. For example.
+MAE101,51,HCM_CQ70,How to determine whether a subset is a subspace of R^n?
+MAE101,51,HCM_CQ71,Is R^n a subspace of itself?
+MAE101,52,CT_CQ1,How to find a spanning set of a subspace?
+MAE101,52,HCM_CQ72,How to find a finite spanning set of a subspace?
+MAE101,53,CQ1_DN,How do you tell if a vector is linearly independent or dependent?
+MAE101,53,CT_CQ1,How to find a basis of R^4.
+MAE101,53,HCM_CQ73,What is linear dependence/ linear independence of a set of vectors?
+MAE101,54,CQ1_DN,How do you find the basis and dimension of a subspace?
+MAE101,54,CT_CQ1,Calculate the dimension of R^4.
+MAE101,54,HCM_CQ74,What is the dimension of R^n?
+MAE101,54,HCM_CQ75,How to define the dimension of a subspace of R^n?
+MAE101,55,CT_CQ1,"Find the length of the vector, provide example."
+MAE101,55,HCM_CQ76,How is the distance between two vectors related to dot product?
+MAE101,56,CQ1_DN,What are orthogonal and orthonormal sets?
+MAE101,56,CT_CQ1,Find the condition for the sets is orthogonal
+MAE101,56,HCM_CQ77,What are orthogonal and orthonormal sets?
+MAE101,56,HCM_CQ78,What is the main benefit of working with orthonormal sets?
+MAE101,57,CQ1_DN,how to find the rank of a matrix?
+MAE101,57,CT_CQ1,Show that the rank does not change when an elementary row or column operation is performed on a matrix.
+MAE101,57,HCM_CQ79,How to determine the rank of a matrix in the determinant method?
+MAE101,58,CT_CQ1,Find the relationship between rank of matrix and nullity
+MAE101,58,HCM_CQ80,What is the rank and nullity of a linear transformation?
+MAE101,58,HCM_CQ81,State some relationship between the rank and the nullity of a linear transformation.
+MAE101,59,HCM_CQ82,What are positive definite matrices? Give an example.
+MAE101,59,HCM_CQ83,"If A, B are positive definite matrices, is so A + B?"
+MAE101,60,HCM_CQ84,List some applications of calculus and linear algebra in real life.
+CEA201,1,CQ1.1,What is computer architecture? What is computer organization? Example?
+CEA201,1,CQ1.2,What is the distinction between computer organization and computer architecture?
+CEA201,2,CQ1.3,Explain about Structure of computer. Explain about Functions of computer.
+CEA201,2,CQ1.4,What is the distinction between computer structure and computer function?
+CEA201,3,CQ1.5,Present an overview of the evolution of computer through generations.
+CEA201,4,CQ2.1,List and briefly define some of the techniques used in contemporary processors to increase speed.
+CEA201,4,CQ2.2,Explain the concept of performance balance.
+CEA201,5,CQ2.3,"Distinguish among multicore, MIC, and GPGPU organizations."
+CEA201,6,CQ2.4,Explain about System Clock.
+CEA201,6,CQ2.5,Summarize some of the issues in computer performance assessment.
+CEA201,7,CQ3.1,Explain about major components of computer in a Top-lever view.
+CEA201,8,CQ3.2,What general categories of functions are specified by computer instructions?
+CEA201,8,CQ3.3,List and briefly define the possible states that define an instruction execution?
+CEA201,8,CQ3.4,List and briefly define two approaches to dealing with multiple interrupts?
+CEA201,9,CQ3.5,"What types of transfers must a computer’s interconnection structure (e.g., bus) support?"
+CEA201,10,CQ4.1,What is the benefit of using a multiple-bus architecture compared to a single-bus architecture?
+CEA201,11,CQ4.2,"What are the differences among sequential access, direct access, and random access?"
+CEA201,11,CQ4.3,"What is the general relationship among access time, memory cost, and capacity?"
+CEA201,12,CQ4.4,What is the cache memory?
+CEA201,12,CQ4.5,How does the principle of locality relate to the use of multiple memory levels?
+CEA201,13,CQ5.1,Explain about key elements of cache design.
+CEA201,13,CQ5.2,"Distinguish among direct mapping, associative mapping, and set-associative mapping."
+CEA201,14,CQ5.3,Explain the reasons for using multiple levels of cache. Explain the performance implications of multiple levels of memory.
+CEA201,15,CQ5.4,"What are two interpretations of the term random-access memory. What is the difference between DRAM and SRAM in terms of application. What is the difference between DRAM and SRAM in terms of characteristics such as speed, size, and cost. Explain why one type of RAM is considered to be analog and the other digital?"
+CEA201,15,CQ5.5,"What are some applications for ROM?  What are the differences among EPROM, EEPROM, and flash memory?"
+CEA201,16,CQ6.1,Explain about error incident in a semiconductor memory system and error Correction.
+CEA201,16,CQ6.2,How is the syndrome for the Hamming code interpreted.
+CEA201,17,CQ6.3,How does SDRAM differ from ordinary DRAM?
+CEA201,18,CQ6.4,What is the DDR DRAM?
+CEA201,19,CQ7.1,What are the advantages of using a glass substrate for a magnetic disk? How are data written onto a magnetic disk? How are data read from a magnetic disk?
+CEA201,19,CQ7.2,"Define the terms seek time, rotational delay, access time, and transfer time in disk performance parameters?"
+CEA201,20,CQ7.3,What common characteristics are shared by all RAID levels?
+CEA201,20,CQ7.4,Briefly define the seven RAID levels.
+CEA201,21,CQ7.5,"How is redundancy achieved in a RAID system. In the context of RAID, what is the distinction between parallel access and independent access?"
+CEA201,22,CQ8.1,Compare and contrast hard disk drives and solid disk drives.
+CEA201,23,CQ8.2,"List three broad classifications of external, or peripheral, devices."
+CEA201,23,CQ8.3,What is the International Reference Alphabet (IRA)? Give an example. What are the major functions of an I/O module?
+CEA201,24,CQ8.4,List and briefly define three techniques for performing I/O?
+CEA201,24,CQ8.5,What is the difference between memory-mapped I/O and isolated I/O?
+CEA201,25,CQ9.1,What is the difference between programmed I/O and interrupt-driven I/O and discuss their relative merits.
+CEA201,25,CQ9.2,"When a device interrupt occurs, how does the processor determine which device issued the interrupt. When a DMA module takes control of a bus, and while it retains control of the bus, what does the processor do?"
+CEA201,26,CQ9.3,Present the evolution of the I/O Function.
+CEA201,26,CQ9.4,Explain about characteristics of I/O Channels.
+CEA201,27,CQ9.5,"Summarize, at a top level, the key functions of an operating system (OS)"
+CEA201,28,CQ10.1,Discuss the evolution of operating systems for early simple batch systems to modern complex systems.
+CEA201,29,CQ10.2,What is the difference between a process and a program?
+CEA201,29,CQ10.3,List and briefly define the major types of OS scheduling.
+CEA201,30,CQ10.4,Present some solutions in memory management. Assess the relative advantages of paging and segmentation.
+CEA201,30,CQ10.5,What is the virtual memory? What is the purpose of a translation lookaside buffer?
+CEA201,31,CQ11.1,What are digital circuits? What are the basic electronic components?
+CEA201,32,CQ11.2,How can minimize a combinational circuits? Explain two methods and give examples.
+CEA201,33,CQ11.3,What is a machine instruction? What are the typical elements of a machine instruction?
+CEA201,34,CQ12.1,List and briefly explain five important instruction set design issues.
+CEA201,35,CQ12.2,Why are transfer of control instructions needed? List and briefly explain two common ways of generating the condition to be tested in a conditional branch instruction.
+CEA201,36,CQ12.3,What is meant by the term nesting of procedures? List three possible places for storing the return address for a procedure return.
+CEA201,37,CQ13.1,Describe the various types of addressing modes common in instruction sets. Present an overview of x86 and ARM addressing modes.
+CEA201,38,CQ13.2,Summarize the issues and trade-offs involved in designing an instruction format. Present an overview of x86 and ARM instruction formats.
+CEA201,39,CQ13.3,Distinguish between machine language and computer language. Explain and give some examples to illustrate the differences between them.
+CEA201,40,CQ14.1,List some reasons why it is worthwhile to study assembly language programming.
+CEA201,41,CQ14.2,What is an assembly language? List some advantages/disadvantages of assembly language compared to high-level languages.
+CEA201,42,CQ14.3,What are the typical elements of an assembly language statement?
+CEA201,43,CQ15.1,List and briefly define four different kinds of assembly language statements.
+CEA201,44,CQ15.2,What is the difference between a one-pass assembler and a two-pass assembler?
+CEA201,45,CQ15.3,How is a program compiled?
+CEA201,46,CQ16.1,Develop some basic console applications.
+CEA201,47,CQ16.2,What general roles are performed by processor registers? What categories of data are commonly supported by user-visible registers?
+CEA201,48,CQ16.3,What is the function of condition codes? What is a program status word?
+CEA201,49,CQ17.1,"What is a program status word? Why is a two-stage instruction pipeline unlikely to cut the instruction cycle time in half, compared with the use of no pipeline?"
+CEA201,50,CQ17.2,List and briefly explain various ways in which an instruction pipeline can deal with conditional branch instructions. How are history bits used for branch prediction?
+CEA201,51,CQ17.3,What are some typical distinguishing characteristics of RISC organization? Briefly explain the two basic approaches used to minimize register-memory operations on RISC machines.
+CEA201,52,CQ18.1,"If a circular register buffer is used to handle local variables for nested procedures, describe two approaches for handling global variables. What are some typical characteristics of a RISC instruction set architecture? What is a delayed branch?"
+CEA201,53,CQ18.2,What is the essential characteristic of the superscalar approach to processor design? What is the difference between the superscalar and super pipelined approaches?
+CEA201,54,CQ18.3,What is instruction-level parallelism? What is the distinction between instruction-level parallelism and machine parallelism?
+CEA201,55,CQ19.1,List and briefly define three types of computer system organization.  What are the chief characteristics of an SMP (symmetric multiprocessor)? What are some of the potential advantages of an SMP compared with a uniprocessor? What are some of the key OS design issues for an SMP?
+CEA201,56,CQ19.2,What is the difference between software and hardware cache coherent schemes? What is the meaning of each of the four states in the MESI protocol?
+CEA201,57,CQ19.3,"What are differences among simple instruction pipelining, superscalar, and simultaneous multithreading."
+CEA201,58,CQ20.1,Give several reasons for the choice by designers to move to a multicore organization rather than increase parallelism within a single processor.
+CEA201,59,CQ20.2,Why is there a trend toward giving an increasing fraction of chip area to cache memory?
+CEA201,60,CQ20.3,"At a top level, what are the main design variables in a multicore organization? List some advantages of a shared L2 cache among cores compared to separate dedicated L2 caches for each core."
+CSD203,2,CQ1,Please list the advantages of Linked List over Array?
+CSD203,2,CQ2,Please list the advantages of Array over Linked List?
+CSD203,2,CQ3,"What are difference between Single, Circularly and Doubly Linked List"
+CSD203,2,CQ1,What are difference between Stacks and Queue?
+CSD203,4,CQ2,List the applications of Stack and Queue to specific problems
+CSD203,4,CQ3,"What are difference between Queue, Double-Ended Queue and Priority Queue"
+CSD203,4,CQ1,What are advantages of Binary Search over Linear Search?
+CSD203,6,CQ2,What are pro and cons of recursion and tail-recursion?
+CSD203,6,CQ3,Lis the application of recursion and tail-recursion to specific problems
+CSD203,6,CQ1,What is Tree?
+CSD203,8,CQ2,What are difference between Binary Tree and Binary Search Tree?
+CSD203,8,CQ3,List the application of BT to specific problems
+CSD203,8,CQ1,How to search value on a BST?
+CSD203,10,CQ2,How to insert value into BST?
+CSD203,10,CQ3,How to delete exist node of BST?
+CSD203,10,CQ1,How to balancing BST?
+CSD203,12,CQ2,What is AVL?
+CSD203,12,CQ3,What is Heaps?
+CSD203,14,CQ1,QWhat is Graphs?
+CSD203,16,CQ2,How to descript the graph on Python?
+CSD203,16,CQ3,What are difference between BFS and DFS?
+CSD203,16,CQ1,How to find the shortest path from node S to node E?
+CSD203,18,CQ2,What is Dijkstra?
+CSD203,18,CQ3,How to find all shortest path from node S to node E?
+CSD203,18,CQ1,How to find minimum spanning trees?
+CSD203,20,CQ2,What is difference between Prim and Kruskal
+CSD203,20,CQ3,What is Euler's tour and Euler's cycle?
+CSD203,20,CQ1,"Compare performace between selection, bubble and inser sort?"
+CSD203,22,CQ2,What is Quick sort?
+CSD203,22,CQ3,Explain about finding pivot item and partitioning of an array in Quick sort algorithm.
+CSD203,22,CQ1,"Compare performace between merge, heap and quick sort?"
+CSD203,24,CQ2,What is Bucket sort?
+CSD203,24,CQ3,What is radix-sort?
+CSD203,24,CQ1,What is Hash and hash table?
+CSD203,26,CQ2,What is collision and how to solve the problem?
+CSD203,26,CQ3,How to apply hash in Java programming language?
+CSD203,26,CQ1,What is KMP?
+CSD203,28,CQ2,What is Huffman coding?
+CSD203,28,CQ3,Compare between LZW and run-length encoding
+DBI202,1,CQ1.1,Why do we need database?  How many stages of upgrade or development has the database gone through? Why did that happen? What is Database System?
+DBI202,2,CQ1.2,What is a Database System and the role of Database Systems? What is a Database Management System? What and how can programmers do with the database?
+DBI202,3,CQ1.3,"What is Data Model? What belong to a Data Model?How can we describe and give some examples of the Relations, Attributes, Tuples, Domains?"
+DBI202,4,CQ2.1,"What are Relation instances, Schema, DB schema. How can we use SQL to define relation schemas?"
+DBI202,5,CQ2.2,What is an Algebra? What is Relational Algebra? Why do we need Algebraic Query Language?
+DBI202,6,CQ2.3,What are usecases of Relational Algebra Operations?
+DBI202,7,CQ3.1,What are constraints on Relations?
+DBI202,8,CQ3.2,How can we express constrains by relational algebra?
+DBI202,9,CQ3.3,How can we use relational algebra to define constrains in some database?
+DBI202,13,CQ5.1,What are Functional Dependencies? Why you need rules about Functional Dependencies? What is usecase of each rule?
+DBI202,14,CQ5.2,"What are keys, super-keys, closure-sets, closing sets of FD’s and how to determine them?"
+DBI202,15,CQ5.3,What are Anomalies? Can we solve Anomalies? How to solve?
+DBI202,16,CQ6.1,Why should we decompose a relation?
+DBI202,17,CQ6.2,"What is a simple way to normalize schema to 1NF, 2NF, 3NF, BCNF? Please, give some examples."
+DBI202,18,CQ6.3,"What are the good, bad and ugly of decomposition?"
+DBI202,22,CQ8.1,What is Database model? How can we describe the Database Design Process?
+DBI202,23,CQ8.2,How many Level Database Model? What are they?
+DBI202,24,CQ8.3,Why do we use Conceptual Design (or Logical Design)?
+DBI202,25,CQ9.1,"What are Entity, Entity Set, Entity Instances, Attributes and others in ERD?"
+DBI202,26,CQ9.2,What is a relationship and how to realize it? How can we draw an ERD?
+DBI202,27,CQ9.3,Are there any principles or constraints in designing ERDs?
+DBI202,34,CQ12.1,How can we use simple queries in some examples?
+DBI202,35,CQ12.2,"How can we query data involving more than one relation? Please, give some examples."
+DBI202,36,CQ12.3,What are subqueries? Can you apply them im some examples?
+DBI202,37,CQ13.1,"How can we use grouping and aggregate functions? Please, give some examples."
+DBI202,38,CQ13.2,What is HAVING clause? When should we use grouping and aggregate functions with HAVING clauses? Why?
+DBI202,39,CQ13.3,"What are DDL, DML? How can we describe INSERT, UPDATE, DELETE queries? Please, give some examples."
+DBI202,46,CQ16.1,How can we use SQL to create/modify constraints of a relation?
+DBI202,47,CQ16.2,What is a trigger? Why do we use triggers?
+DBI202,48,CQ16.3,How many components in a trigger? How to create a trigger?
+JPD113,1,CQ1.1,"Tiếng Nhật có bao nhiêu kiểu chữ viết, chức năng của mỗi kiểu chữ ?"
+JPD113,2,CQ1.2,Các chữ Hiragana sau： Hàng A:  あ、い、う、え、お Hàng K: か、き、く、け、こ được tạo thành từ các hình ảnh nào?
+JPD113,3,CQ1.3,36 chữ Hiragana còn lại được tạo thành từ các hình ảnh nào?
+JPD113,5,CQ2.1,Âm đục/ bán âm đục là những âm như thế nào? Cho ví dụ minh họa
+JPD113,6,CQ2.2,Âm ghép là những âm như thế nào? Cho ví dụ minh họa
+JPD113,7,CQ2.3,Giới thiệu một số câu chào hỏi cơ bản theo từng buổi trong tiếng Nhật?
+JPD113,8,CQ3.1,Âm dài là những âm như thế nào? Cho ví dụ minh họa
+JPD113,9,CQ3.2,Âm ngắt là những âm như thế nào? Cho ví dụ minh họa
+JPD113,10,CQ3.3,"Các cách thể hiện sự xin lỗi, cảm ơn trong tiếng Nhật ?"
+JPD113,21,CQ7.1,"Nội dung câu CQ7.1 Khi gặp mặt một ai đó lần đầu tiên, chúng ta sẽ chào hỏi như thế nào? Và chúng ta sẽ giới thiệu những thông tin gì về bản thân?"
+JPD113,21,CQ7.2,"Nội dung câu CQ7.2 Hãy nêu những cách hỏi về tên, quốc tịch, nghề nghiệp bằng tiếng Nhật."
+JPD113,22,CQ7.3,"Nội dung câu CQ7.3 So sánh mẫu câu khẳng định, phủ định, câu hỏi để nói những thông tin (tên, quốc tịch, nghề nghiệp) trong tiếng Nhật và tiếng Việt?"
+JPD113,23,CQ7.4,"Nội dung câu CQ7.4 Trong hội thoại, khi người trả lời đồng ý hoặc không đồng ý với người nói sẽ có những cách diễn đạt khác nhau. Hãy chỉ ra cách diễn đạt đó như thế nào."
+JPD113,24,CQ8.1,"Nội dung câu CQ8.1 Cách nói sinh nhật trong tiếng Nhật như thế nào? Nêu cụ thể cách nói sinh nhật mình, cách hỏi sinh nhật người khác và cho ví dụ."
+JPD113,25,CQ8.2,Nội dung câu CQ8.2 Cách nói tuổi trong tiếng Nhật như thế nào?　Có những lưu ý gì khi đếm tuổi?
+JPD113,26,CQ8.3,"Nội dung câu CQ8.3 Cách nói ngày, tháng trong tiếng Nhật như thế nào?"
+JPD113,26,CQ8.4,Nội dung câu CQ8.4 Những lưu ý khi nói ngày tháng trong tiếng Nhật là gì? Có những quy tắc gì đặc biệt khi nói ngày tháng không?
+JPD113,27,CQ9.1,"Nội dung câu CQ9.1 Khi muốn nói từ 2 sở thích trở lên, và muốn nói: Tôi cũng có sở thích như vậy"" thì chúng ta sẽ nói như thế nào?"""
+JPD113,27,CQ9.2,"Nội dung câu CQ9.2 Khi nói về sở thích, chúng ta thường dùng những từ như thế nào? Tạo flash card hay dùng ảnh minh họa"
+JPD113,28,CQ9.3,Nội dung câu CQ9.3 Cách nói sở thích của mình và hỏi sở thích của người khác như thế nào?
+JPD113,29,CQ9.4,"Nội dung câu CQ9.4 Khi giới thiệu với một người lần đầu tiên gặp mặt về bản thân mình, bạn sẽ giới thiệu các thông tin gì? Nêu bài giới thiệu bằng tiếng Nhật."
+JPD113,34,CQ12.1,"Nội dung câu CQ12.1 Khi vào trung tâm mua sắm, thường sử dụng những từ vựng gì?"
+JPD113,35,CQ12.2,Nội dung câu CQ12.2 Khi muốn nói tầng trong tiếng Nhật thì nói như thế nào?( những tầng nào có cách đọc đặc biệt?)
+JPD113,35,CQ12.3,Nội dung câu CQ12.3 Cách hỏi tầng trong tiếng Nhật như thế nào?
+JPD113,36,CQ12.4,Nội dung câu CQ12.4 Khi muốn hỏi vị trí của nơi muốn mua đồ/ vị trí của vật... thì hỏi như thế nào?
+JPD113,37,CQ13.1,Nội dung câu CQ13.1 Khi muốn trả lời vị trí của nơi / vị trí của vật một cách lịch sự... thì trả lời như thế nào?
+JPD113,37,CQ13.2,Nội dung câu CQ13.2 Khi muốn hỏi tên của công ty của đối phương thì hỏi như thế nào?
+JPD113,38,CQ13.3,Nội dung câu CQ13.3 Khi muốn hỏi giá sản phẩm thì hỏi như thế nào?
+JPD113,39,CQ13.4,"Nội dung câu CQ13.4 Cách nói số hàng trăm, hàng nghìn, hàng vạn trong tiếng Nhật như thế nào?"
+JPD113,39,CQ13.5,Nội dung câu CQ13.5 Sự khác nhau giữa これ・それ・あれ và  この・その・あの là gì?
+JPD113,40,CQ14.1,"Nội dung câu CQ14.1 Sau khi hỏi giá sản phẩm, khi quyết định mua sắm sẽ nói như thế nào?"
+JPD113,41,CQ14.2,Nội dung câu CQ14.2 Những từ vựng sử dụng trong nhà hàng liên quan đến ăn uống là gì?
+JPD113,42,CQ14.3,Nội dung câu CQ14.3 Cách hỏi và trả lời món ăn (đồ uống) được làm từ gì như thế nào?
+JPD113,43,CQ15.1,Nội dung câu CQ15.1 Cách hỏi 1 từ vựng nào đó sang ngôn ngữ khác là gì?
+JPD113,43,CQ15.2,Nội dung câu CQ15.2 Cách hỏi xuất xứ của một món đồ là gì?
+JPD113,44,CQ15.3,Nội dung câu CQ15.3 Muốn hỏi đồ vật này là của ai thì hỏi như thế nào?
+JPD113,45,CQ15.4,Nội dung câu CQ15.4 Số đếm trong Hán tự được viết như thế nào?
+JPD113,45,CQ15.5,"Nội dung câu CQ15.5 Cách đọc âm ON, âm KUN và ý nghĩa các chữ Hán trong bài 2 là gì?"
+JPD123,1,CQ1.1,"Khi giới thiệu về thành phố hay đất nước mình, em sẽ giới thiệu những gì?  (câu trả lời bằng tiếng Việt hoặc tiếng Nhật)"
+JPD123,2,CQ1.2,"A:Khi muốn biết thông tin về thành phố của một người bạn (tên thành phố, vị trí, thời gian di chuyển từ một thành phố lớn nào đó đến thành phố của B), em sẽ hỏi bạn đó như thế nào bằng tiếng Nhật?   B: Khi có người bạn muốn biết thông tin về thành phố của mình (tên, vị trí, thời gian di chuyển từ một thành phố lớn nào đó đến thành phố của bạn), em sẽ trả lời thế nào bằng tiếng Nhật?"
+JPD123,3,CQ1.3,"Khi phải viết bài giới thiệu về vị trí  thành phố của mình, em sẽ viết những gì?"
+JPD123,4,CQ2.1,"A: Trong tiếng Nhật có mấy cách hỏi về đặc điểm của một nơi nào đó (đất nước/thành phố/trường học,etc)?  B: Trong tiếng Nhật, khi nói về sự đối lập hay bổ sung thông tin, người ta  dùng ngữ pháp gì?"
+JPD123,5,CQ2.2,"Khi viết bài giới thiệu đặc điểm chung của thành phố mình bằng tiếng Nhật mà phải sử dụng các từ nối そして、が, em phải nói như thế nào?"
+JPD123,6,CQ2.3,Các chữ Hán trong bài 4 có cách đọc Hán Việt là gì? Ý nghĩa ra sao? Các hình ảnh liên tưởng để có thể nhớ được các chữ Hán đó?
+JPD123,7,CQ3.1,"A: Muốn biết về các địa danh ở  thành phố của B và đặc điểm của các địa danh đó, phải hỏi thế nào bằng tiếng Nhật?  B: Phải dùng cấu trúc gì để trả lời cho câu hỏi của A?"
+JPD123,8,CQ3.2,"A: Muốn hỏi về đặc điểm thời tiết và các món ăn nổi tiếng của thành phố của B, phải dùng cấu trúc gì trong tiếng Nhật?  B: Phải dùng cấu trúc gì để trả lời cho câu hỏi của A? *Câu hỏi của tiết 8,9,10"
+JPD123,11,CQ3.3,"Khi phải viết bài giới thiệu bằng tiếng Nhật về thành phố của mình với các thông tin như tên, vị trí, đặc điểm, địa danh, món ăn, thời tiết, bạn viết gì?"
+JPD123,19,CQ6.1,"Nội dung câu hỏi CQ 6.1　 Trong kì nghỉ tới, em sẽ làm gì? Cách diễn tả hành động mà em sẽ thực hiện trong tiếng Nhật?"
+JPD123,19,CQ6.2,Nội dung câu hỏi CQ 6.2　  どこか khác gì どこへ・どこで？何か khác gì 何が・何を？Nêu ví dụ minh họa.
+JPD123,20,CQ6.3,"Nội dung câu hỏi CQ 6.3　 Khi nói về các hành động đã diễn ra hoặc đã không xảy ra trong quá khứ, các bạn nói như thế nào?"
+JPD123,20,CQ7.4,"Nội dung câu hỏi CQ6.4 Cuối tuần vừa qua, bạn đã làm gì? Tham gia vào các hoạt động gì? Kể lại cho các bạn biết ( bằng tiếng Nhật)"
+JPD123,22,CQ7.1,"Nội dung câu CQ 7.1 Tính từ đuôi na, đuôi I chia thời hiện tại, hiện tại phủ định; quá khứ, quá khứ phủ định ra sao?"
+JPD123,23,CQ7.2,Nội dung câu CQ 7.2 Tính từ trong tiếng Nhật có mấy loại? Đặc điểm của từng loại? Lấy ví dụ. Hãy chỉ ra cách kết hợp trạng từ với tính từ trong tiếng Nhật.
+JPD123,24,CQ7.3,"Nội dung câu CQ 7.3 A: Trong tiếng Nhật, khi muốn hỏi B về một trải nghiệm tuần vừa qua, em sẽ bắt đầu câu chuyện như thế nào? Cần hỏi tiếp gì để có thể tiếp tục câu chuyện?  B:Phải dùng cấu trúc gì để trả lời các câu hỏi cảu A bằng tiếng Nhật?"
+JPD123,24,CQ7.4,"Nội dung câu CQ 7.4 Muốn sử dụng mẫu hội thoại ""Tại sao…?"" - ""Vì lý do…."" thì chúng ta sử dụng mẫu câu như thế nào?"
+JPD123,25,CQ8.1,Nội dung câu CQ 8.1 Em thích hay ghét cái gì?  Cách nói đó trong tiếng Nhật ra sao?
+JPD123,26,CQ8.2,Nội dung câu CQ 8.2 Hiện tại em đang muốn có cái gì ? Cách nói này trong tiếng Nhật ra sao? Cần chú ý gì với mẫu câu này?
+JPD123,26,CQ8.3,Nội dung câu CQ 8.3 Thể たい được thành lập như thế nào? Cần chú ý gì khi sử dụng mẫu câu này? Lập một  đoạn hội thoại 2 người có dùng ngữ pháp たい.
+JPD123,27,CQ8.4,"Nội dung câu CQ 8.4 'Bạn sẽ đi Nhật chứ? Đi Nhật để làm gì?' ….Cách diễn tả ý nghĩa: ""đi đâu để làm gì"" trong tiếng Nhật ra sao?"
+JPD123,31,CQ11.1,"Nội dung câu CQ11.1 Khi muốn mời gọi, rủ rê người khác cùng mình làm  gì đó, sử dụng cấu trúc ngữ pháp gì trong Tiếng Nhật?"
+JPD123,31,CQ11.2,"Nội dung câu CQ11 .2 Khi muốn mời gọi, rủ rê hay đáp lại những lời mời gọi, rủ rê của ai đó sử dụng cấu trúc ngữ pháp gì trong tiếng Nhật? Sự khác nhau giữa cấu trúc Vませんかvà Vましょうlà gì?"
+JPD123,32,CQ11.3,"Nội dung câu CQ11.3 Khi được ai đó rủ rê, nếu đồng ý tham gia sẽ trả lời như thế nào? Nếu không đồng ý tham gia sẽ trả lời như thế nào?"
+JPD123,32,CQ11.4,"Nội dung câu CQ11.4 Khi được ai đó mời mọc, nhưng mình đã có hẹn hoặc đã có việc riêng khác... nói như thế nào để thể hiện lý do?"
+JPD123,33,CQ11.5,"Nội dung câu CQ11.5 Khi muốn diễn tả một sự kiện (lớn) được tổ chức hoặc xảy ra ở nơi nào đó, sử dụng cấu trúc ngữ pháp gì?"
+JPD123,34,CQ12.1,"Nội dung câu CQ12.1 Khi muốn diễn đạt mình có bao nhiêu tờ vé xem phim, hoặc đã mua bao nhiêu con tem...  sử dụng cấu trúc ngữ pháp gì để diễn đạt?"
+JPD123,34,CQ12.2,Nội dung câu CQ12.2 Có những loại so sánh gì?  Những từ vựng nào có thể sử dụng cho các câu so sánh?
+JPD123,35,CQ12.3,"Nội dung câu CQ12.3 Khi muốn yêu cầu người nghe lựa chọn 1 đối tượng nào đó có nội dung được biểu thị qua tính từ ở mức độ cao nhất, sử dụng cấu trúc ngữ pháp gì?Cách trả lời cho loại câu hỏi này như thế nào?"
+JPD123,36,CQ12.4,Nội dung câu CQ12.4 Sử dụng cấu trúc ngữ pháp gì để hỏi lựa chọn giữa 2 phương án A và B? Cách để trả lời khi chọn 1 trong 2 phương án là gì?
+JPD123,37,CQ13.1,"Nội dung câu CQ13.1 Những từ vựng nào liên quan đến món ăn, phương tiện giao thông? Những tính từ nào có thể sử dụng để diễn đạt so sánh giữa 2 đối tượng với nhau?"
+JPD123,37,CQ13.2,"Nội dung câu CQ13.2 Khi muốn nói: ""Món ăn Thái Lan cay hơn món ăn của Nhật Bản"" thì sẽ sử dụng cấu trúc ngữ pháp nào?"
+JPD123,38,CQ13.3,Nội dung câu CQ13.3 So sánh sự khác nhau giữa các biện pháp so sánh.  1: N1で　N２が　いちばんAです 2: Ｎ１と　Ｎ２と　どちらが　Ａですか 3: Ｎ１は　Ｎ２より　Aです
+JPD123,39,CQ13.4,Nội dung câu CQ13.4 Khi muốn hỏi bạn bè rằng: Bạn đã ăn cơm chưa hay đã thực hiện xong hành động nào đó chưa? Sẽ sử dụng cấu trúc ngữ pháp nào để hỏi?
+JPD123,39,CQ13.5,Nội dung câu CQ13.5 Khi được hỏi: Bạn đã ....chưa? Sẽ trả lời như thế nào nếu mình đã thực hiện hành động đó? Trả lời như thế nào nếu chưa thực hiện hành động đó?
+JPD123,40,CQ14.1,"Nội dung câu CQ14.1 Khi muốn thông báo một nội dung mới mà mình  nghĩ rằng người nghe chưa biết. Ví dụ: Việt Nam  đẹp lắm đấy"""
+JPD123,41,CQ14.2,"Nội dung câu CQ14.2 Khi bạn rủ đi chơi hay đi xem phim mà chưa chốt đi đâu? Xem phim gì?. Trong trường hợp này, muốn  đưa ra một phương án (gợi ý) của mình thì mình sẽ biểu đạt như thế nào?"
+JPD123,42,CQ14.3,"Nội dung câu CQ14.3 Cách đọc của những chữ hán tự này sang âm ON, KUN như thế nào? Từ ghép của những chữ Hán tự  này đọc như thế nào? Ý nghĩa của từ ghép là gì?"
+JPD123,44,CQ15.1,Nội dung câu CQ15.1 Khi muốn nói vị trí của 1 vật ta có thể dùng những cấu trúc câu như thế nào?
+JPD123,44,CQ15.2,Nội dung câu CQ15.2 Những từ chỉ vị trí cụ thể được liệt kê trong bài 7 là gì?
+JPD123,45,CQ15.3,Nội dung câu CQ15.3 Sự khác nhau giữa 2 từ chỉ vị trí là となり vàよこ là gì?
+JPD123,45,CQ15.4,"Nội dung câu CQ15.4 Cách tạo nên 1 danh từ chỉ vị trí trong đó  có bao gồm từ chỉ vị trí cụ thể như trong, ngoài…là gì?"
+JPD123,45,CQ15.5,Nội dung câu CQ15.5 Khi muốn đặt câu hỏi về vị trí của 1 vật ta dùng các câu như thế nào?
+JPD123,46,CQ16.1,Nội dung câu CQ16.1 Khi muốn nói vị trí của 1 người hoặc con vật ta có thể dùng những cấu trúc câu như thế nào?
+JPD123,46,CQ16.2,Nội dung câu CQ16.2 Khi muốn đặt câu hỏi về vị trí của người hoặc con vật ta dùng các câu như thế nào?
+JPD123,47,CQ16.3,Nội dung câu CQ16.3 Khi ta muốn mô tả vị trí mình đang đứng  thì ta thường nói những thông tin như thế  nào?
+JPD123,48,CQ16.4,"Nội dung câu CQ16.4 Muốn trình bày thông tin ở đâu đó có ai,  cái gì trong tiếng Nhật thì nói như thế nào?"
+JPD123,48,CQ16.5,"Nội dung câu CQ16.5 Khi muốn hỏi đặt câu hỏi cho loại câu ở  đâu có cái gì, có ai thì nói như thế nào?"
+JPD123,49,CQ17.1,Nội dung câu CQ17.1 Động từ thể Te trong tiếng Nhật được chia từ động từ thể Masu như thế nào?
+JPD123,50,CQ17.2,"Nội dung câu CQ17.2 Khi muốn yêu cầu, ra lệnh, nhờ vả ai đó làm gì cho mình thì nói như thế nào?"
+JPD123,51,CQ17.3,"Nội dung câu CQ17.3 Trợ từ để chỉ phương tiện, cách thức làm gì đó là gì? Trợ từ này có cách dùng khác là  gì? Hãy phân biệt các cách dùng này."
+JPD123,51,CQ17.4,Nội dung câu CQ17.4 Khi muốn nói cách thức làm việc gì đó thì sẽ chia động từ như thế nào? Lấy ví dụ minh họa với từ vựng đã học.
+JPD123,51,CQ17.5,Nội dung câu CQ17.5 Cách sử dụng của từ để hỏi どの là gì? Dùng trong tình huống như thế nào?
+JPD123,52,CQ18.1,Nội dung câu CQ18.1 Cách sử dụng của từ để hỏi どれ  là gì? Dùng trong tình huống như thế nào?
+JPD123,53,CQ18.2,Nội dung câu CQ18.2 Khi muốn nói mình hoặc ai đó đang làm gì thì sử dụng cấu trúc gì? Lấy ví dụ minh họa với các từ vựng đã học.
+JPD123,54,CQ18.3,Nội dung câu CQ18.3 Khi muốn đề nghị làm việc gì đó cho người khác thì nói như thế nào trong tiếng Nhật?
+JPD123,54,CQ18.4,Nội dung câu CQ18.4 Khi muốn nhấn mạnh rằng chính mình hoặc ai đó đã hoặc sẽ làm việc gì đó thì nói như thế nào?
+JPD123,54,CQ18.5,Nội dung câu CQ18.5 Khi muốn thông báo cái gì đó vẫn còn hoặc đã hết rồi thì dùng cấu trúc nào?  Phân biệt với cách dùng khác của các cấu trúc này.
+JPD123,56,CQ19.1,"Nội dung câu CQ19.1 3 chữ Hán đầu tiên của bài 7 có cách đọc  âm On, Kun như thế nào? Các từ ghép đọc là gì? Ý nghĩa của các từ ghép đó?"
+JPD123,56,CQ19.2,"Nội dung câu CQ19.2 4 chữ Hán cuối của bài 7 có cách đọc âm  Ôn, Kun như thế nào? Các từ ghép đọc là  gì? Ý nghĩa của các từ ghép đó?"
+JPD123,57,CQ19.3,Nội dung câu CQ19.3 Câu hỏi trong bài đọc hiểu T134 có câu trả lời là gì?
+MAI391,1,HCM_CQ1,Give at least 3 norms in Rn.
+MAI391,1,HCM_CQ2,How a norm can be defined using an inner product?
+MAI391,2,HCM_CQ3,"Explain why the distance between (1, 0, 0) and (2, 0, 0) can differ from 1?"
+MAI391,2,HCM_CQ4,Explain how distances and angles can be used to examine the similarity of two vectors.
+MAI391,3,HCM_CQ5,Why orthonormal sets are important in computing?
+MAI391,4,HCM_CQ6,"Find the projection matrix of the orthogonal projection along the vector b = (b1, b2, b3)."
+MAI391,4,HCM_CQ7,"What is the projection matrix of an orthogonal projection onto a vector space spanned by the the set of vectors B = {b1, b2, ..., bm}?"
+MAI391,5,HCM_CQ8,Give explaination with example how elementary operations can be used to compute determinants.
+MAI391,6,HCM_CQ9,Show that eigenvectors from different eigenspace of a symmetric matrix are orthogonal.
+MAI391,6,HCM_CQ10,Give examples to illustrate the Gram-Schmidt process.
+MAI391,7,HCM_CQ11,If A is diagonalizable and with positive eigenvalues; is it possible that there exists some matrix B such that A = B^2?
+MAI391,7,HCM_CQ12,What are benefits of matrix diagonalization?
+MAI391,8,HCM_CQ13,Explain why SVD can be performed for every matrix.
+MAI391,9,HCM_CQ14,Compare SVD and eigendecomposition. Give examples.
+MAI391,10,HCM_CQ15,"Given an SVD of a 2x3 matrix A, compute the best rank-1 approximation of A."
+MAI391,10,HCM_CQ16,State the formula for calculating the relative error of approximation a matrix using the spectral norm.
+MAI391,11,HCM_CQ17,State the chain rule for univariate functions. Give examples.
+MAI391,11,HCM_CQ18,What is the main benefit of the chain rule?
+MAI391,12,HCM_CQ19,Given an mxn matrix A and f(x) = Ax. What is the size of the gradient of f with respect to x?
+MAI391,13,HCM_CQ20,Given an mxn matrix A and f(A) = Ax. What is the size of the gradient of f with respect to A?
+MAI391,14,HCM_CQ21,State the matrix version of the chain rule for vector-valued functions.
+MAI391,16,HCM_CQ22,What is the backpropagation algorithm?
+MAI391,16,HCM_CQ23,Why is backpropagation important for neural networks?
+MAI391,17,HCM_CQ24,What is the Hessian of a function? Give examples.
+MAI391,17,HCM_CQ25,Compare the size of gradient and Hessian.
+MAI391,18,HCM_CQ26,"How can we use polynomials to approximate the value of a multivariate function f(x,y)? Give an example."
+MAI391,24,HCM_CQ27,"In the 2012 presidential election, exit polls from the critical state of Ohio provided the following results: Total Obama Romney No college degree (60%): 52% 45% College graduate (40%): 47% 51% Give some conclusions you can draw."
+MAI391,25,HCM_CQ28,Give example of a joint probability distribution for two discrete random variables.
+MAI391,25,HCM_CQ29,Give example of a joint distribution for two continuous random variables.
+MAI391,26,HCM_CQ30,"Are E(X | Y), E(Y | X), E(XY) the same? Explain and give examples."
+MAI391,27,HCM_CQ31,Assume X is normally distributed with a mean of mu and a standard deviation of sigma. Give some conclusions you can draw.
+MAI391,29,HCM_CQ32,Explain how gradient descent works.
+MAI391,29,HCM_CQ33,What are versions of gradient descent?
+MAI391,30,HCM_CQ34,What are Lagrange multipliers? Give examples.
+MAI391,31,HCM_CQ35,What are constrained optimization problems?
+MAI391,31,HCM_CQ36,How are Lagrange multipliers used to solve optimization problem? Give examples.
+MAI391,32,HCM_CQ37,What are convex sets?
+MAI391,32,HCM_CQ38,Why are convex optimization important?
+MAI391,33,HCM_CQ39,List some ways you can construct a convex set from two convex sets.
+MAI391,34,HCM_CQ40,What are convex functions?
+MAI391,34,HCM_CQ41,List some ways you can obtain a convex function from two convex functions.
+MAI391,37,HCM_CQ42,State the problem of simple linear regression.
+MAI391,37,HCM_CQ43,State the multiple linear regression problem in matrix version.
+MAI391,38,HCM_CQ44,What are the assumptions of linear regression?
+MAI391,38,HCM_CQ45,What does it mean by 'unbiases estimator'?
+MAI391,39,HCM_CQ46,Find an estimate for linear regression problem using OLS.
+MAI391,39,HCM_CQ47,State the Gauss-Markov theorem.
+MAI391,40,HCM_CQ48,Give a simple example of ML method. Find an estimate of coefficients using ML.
+MAI391,41,HCM_CQ49,What is Bayesian linear regression used for?
+MAI391,43,HCM_CQ50,State the goal of PCA.
+MAI391,43,HCM_CQ51,"Explain the concepts: data covariance matrix, principal components, eigenvalues, eigenvectors."
+MAI391,44,HCM_CQ52,Why 'maximum variance' instead of 'minimum'?
+MAI391,45,HCM_CQ53,How can we choose the first PC?
+MAI391,45,HCM_CQ54,How can we choose the second PC?
+MAI391,46,HCM_CQ55,How can we choose the next PC after we have chosen m-1 PCs?
+MAI391,48,HCM_CQ56,What is the relationship between PCA and SVD?
+MAI391,48,HCM_CQ57,How can we apply PCA to the so-called eigenfaces?
+MAI391,49,HCM_CQ58,Why is large dimensionality a concern in PCA?
+MAI391,50,HCM_CQ59,What are key steps to perform PCA in practice?
+MAI391,50,HCM_CQ60,Which step in PCA is the most important?
+MAI391,51,HCM_CQ61,What are hyperplane? Give examples.
+MAI391,52,HCM_CQ62,State the goal of SVM.
+MAI391,52,HCM_CQ63,"Explain the concepts: hyperplane, margin."
+MAI391,53,HCM_CQ64,Is finding SVM a convex optimization problem?
+MAI391,54,HCM_CQ65,What are hard margin SVMs?
+MAI391,54,HCM_CQ66,What are soft margin SVMs?
+MAI391,55,HCM_CQ67,Why dual?
+MAI391,56,HCM_CQ68,What are support vectors?
+MAI391,56,HCM_CQ69,How can we find all support vectors?
+MAI391,57,HCM_CQ70,What are kernel SVMs?
+MAI391,57,HCM_CQ71,Why are kernel tricks important?
+MAI391,58,HCM_CQ72,Why are numerical solutions important?
+MAS291,1,CQ1_DN,Statistics is the science of data. What are the basic data collection methods?
+MAS291,1,CQ1_HCM,What are parameters of the population and statistics of a sample?
+MAS291,1,CQ2_HCM,List some commonly used parameters and statistics.
+MAS291,2,CQ1_DN,An event is a subset of the sample space of a random experiment. Can we describe new events from combinations of existing events?
+MAS291,2,CQ1_HCM,What are the differences between empirical and mechanistic models?
+MAS291,3,CQ1_DN,Counting the numbers of outcomes in the sample space and various events are used to analyze the random experiments. What are important techniques?
+MAS291,3,CQ1_HCM,Give two different definitions of the concept of events.
+MAS291,4,CQ1_DN,"For discrete sample spaces S consisting of (equally likely) outcomes, the probability of an event E (a subset of S) equals the sum of the probabilities of the outcomes in E. Can we determine the probability of a joint event from the probabilities of the individual events that comprise it?"
+MAS291,4,CQ1_HCM,"What are independent events and mutually exclusive events? How do they affect the formula for computing the probabilities of the union event, the intersection event?"
+MAS291,5,CQ1_DN,Sometimes probabilities need to be reevaluated as additional information becomes available. Can you give the definition of conditional probabilities and some examples?
+MAS291,5,CQ1_HCM,How to check whether two events are independent?
+MAS291,6,CQ1_DN,"Sometimes the probability of an event is given under each of several conditions. With enough of these conditional probabilities, how to recover the probability of the event?"
+MAS291,6,CQ1_HCM,What conditions must be fulfilled to be able to use the total probability rule?
+MAS291,6,CQ2_HCM,Give an example that uses the rule of total probability.
+MAS291,7,CQ1_DN,"Conditional probabilities commonly provide the probability of an event given a condition. But after a random experiment generates an outcome, can we find out the probability that a condition was present given an outcome?"
+MAS291,7,CQ1_HCM,Why is Bayes Theorem important for probability?
+MAS291,8,CQ1_DN,The concept of independence is an important relationship between events. Can you give the definition of independence and some examples?
+MAS291,8,CQ1_HCM,What is a random variable? Give some examples.
+MAS291,9,CQ1_DN,The probability distribution of a discrete random variable X is a description of the probabilities associated with the possible values of X. How many popular ways to describe a probability distribution?
+MAS291,9,CQ1_HCM,Compare the difference between discrete and continuous variables.
+MAS291,9,CQ2_HCM,Give some examples of discrete and continuous variables.
+MAS291,10,CQ1_HCM,What is a probability mass function?
+MAS291,10,CQ2_HCM,What is the difference between a probability mass function and a cumulative mass function?
+MAS291,11,CQ1_HCM,"How do you find the probability mass function if the cumulative distribution function is given, and vice versa? Give an example to illustrate your claim."
+MAS291,12,CQ1_DN,What is the simplest discrete random variable? Can we numerically summarize its probability distribution?
+MAS291,12,CQ1_HCM,"Give a table of data showing a car rental company's revenue over the year, what do the expected value and variance represent?"
+MAS291,13,CQ1_DN,How to calculate the probability of k successes in a random experiment consists of n Bernoulli trials?
+MAS291,13,CQ1_HCM,Give an example of a binomial random variable that you have seen in high school.
+MAS291,14,CQ1_DN,Is negative binomial distribution a generalization of a geometric distribution? Why do we call this distribution a negative binomial distribution?
+MAS291,14,CQ1_HCM,"How to distinguish the differences among a binomial, geometric and negative binomial random variable?"
+MAS291,14,CQ2_HCM,"Give examples of biomial, geometric, and hypergeometric distributions."
+MAS291,15,CQ1_DN,"In randomly sampling from a batch of items classified as successes or failures, an item may or may not be replaced before the next one is selected. Does it exist or not a general formula for computing probabilities when samples are selected without replacement?"
+MAS291,15,CQ1_HCM,When is a random variable called a hypergeometric variable? Show an example.
+MAS291,16,CQ1_DN,"A widely-used distribution emerges as the number of trials in a binomial experiment (with parameters n, p) increases to infinity while the mean of the distribution remains constant (n increases and p decreases accordingly). What is this?"
+MAS291,16,CQ1_HCM,What properties are required to use the Poisson distribution?
+MAS291,16,CQ2_HCM,Give two real life examples for which Poisson distributions are used as models.
+MAS291,17,CQ1_HCM,What are the properties required to use the binomial distribution?
+MAS291,18,CQ1_HCM,What is the meaning of the expected value of a variable?
+MAS291,18,CQ2_HCM,Explain how to compute expected value of a random variable by examples.
+MAS291,19,CQ1_DN,"Because the number of possible values of a continuous random variable X is uncountably infinite, X has a distinctly different distribution from the discrete random variables studied previously. How to describe the probability distribution of X?"
+MAS291,19,CQ1_HCM,What makes a function a density function?
+MAS291,20,CQ1_HCM,What is the cumulative distribution function of a continuous random variable and its properties?
+MAS291,21,CQ1_DN,The simplest continuous distribution is analogous to its discrete counterpart. Give some information about it?
+MAS291,21,CQ1_HCM,How do you find the mean of a continuous random variable?
+MAS291,21,CQ2_HCM,How do you find the variance of a continuous random variable?
+MAS291,22,CQ1_DN,"Probabilities of intervals can be found by using the cumulative distribution function, the basic rules of probability and the symmetry of the normal distribution. Can you illustrate the method by some examples?"
+MAS291,22,CQ1_HCM,What are the characteristics of a continuous uniform distribution?
+MAS291,23,CQ1_DN,We know how to calculate probabilities for standard normal random variables. Can we apply the method to find the probabilities associated with an arbitrary normal random variable?
+MAS291,23,CQ1_HCM,What are the main properties of normal distribution?
+MAS291,23,CQ2_HCM,What is the rule called '68-95-99 rule'?
+MAS291,24,CQ1_DN,"For cases in which the number of trials is large, it is difficult to calculate probabilities by using the binomial distribution. How do statisticians deal with this problem?"
+MAS291,24,CQ1_HCM,How could you find the area between two values under the normal curve?
+MAS291,25,CQ1_DN,"It is known that, there are intimate connections between three distributions of binomial, hypergeometric and Poisson. What are they? Is it possible to use them to approximate hypergeometric and binomial probabilities?"
+MAS291,25,CQ1_HCM,What is the difference between a normal distribution and a binomial distribution?
+MAS291,26,CQ1_DN,The Poisson distribution defines a random variable to be the number of events occurring in a fixed interval of time if these events occur with a known constant mean rate and independently of time since the last event. Can we describe the probability distribution of the time between those events?
+MAS291,26,CQ1_HCM,What is the exponential distribution?
+MAS291,26,CQ2_HCM,Where is the exponential distribution used in the real world?
+MAS291,27,CQ1_DN,An important aspect of dealing with data is organizing and summarizing the data. How should we numerically summarize the information in these data?
+MAS291,27,CQ1_HCM,List some ways to measure central tendency. What are the formulas?
+MAS291,28,CQ1_DN,The graphical techniques are very useful in constructing and interpreting visual data displays. What are most popular techniques?
+MAS291,28,CQ1_HCM,How do you construct a table of frequency distribution and the corresponding histogram? Give an illustrative example.
+MAS291,29,CQ1_HCM,"Is a Box plot used for outlier detection? How do you find them, if possible?"
+MAS291,30,CQ1_HCM,Give an example of time series.
+MAS291,30,CQ2_HCM,What are the applications of time series analysis in practice?
+MAS291,31,CQ1_DN,One of the most useful theorems in statistics called the central limit theorem. What is this?
+MAS291,31,CQ1_HCM,What is an unbiased and biased estimator? Give an example.
+MAS291,32,CQ1_DN,How to use the central limit theorem to determine the point estimate for the proportion?
+MAS291,32,CQ1_HCM,What is the difference between a population distribution and a sampling distribution?
+MAS291,33,CQ1_HCM,"Why does the standard error of the sample mean decrease as the sample size, n, increases?"
+MAS291,33,CQ2_HCM,What is the formula for calculating the standard error of the sample mean when the sample size is n?
+MAS291,34,CQ1_HCM,In what conditions is the sampling distribution of the sample mean approximately normal?
+MAS291,35,CQ1_DN,"There is nothing inherent in the sample mean that provides any information about how close it is to the unknown true mean. Can we produce the interval that contains the true mean of a normal distribution, variance known?"
+MAS291,35,CQ1_HCM,Why don't we use 100% confidence in correctly estimating the population parameters?
+MAS291,36,CQ1_HCM,What is the difference between a confidence interval and a confidence level?
+MAS291,36,CQ2_HCM,Analyze the influence of increasing the confidence level to the width of the corresponding confidence interval.
+MAS291,37,CQ1_DN,"Check the affirmation that ""The general appearance of the t distribution is similar to the standard normal distribution."""
+MAS291,37,CQ1_HCM,What is the t-distribution?
+MAS291,37,CQ2_HCM,When should you use the t-distribution to design a confidence interval estimate for the mean?
+MAS291,38,CQ1_DN,How to construct confidence intervals on the mean of a normal distribution when the sample is small and its variance is unknown?
+MAS291,38,CQ1_HCM,How would you interpret a 95% confidence interval for the mean?
+MAS291,39,CQ1_HCM,"When determining the required sample size for a given confidence level and the error, how does the sample size change as we increase/decrease the population proportion?"
+MAS291,40,CQ1_HCM,"For a fixed sample size, increasing the confidence level will widen (or make it less precise) the confidence interval. Show your opinion about this statement."
+MAS291,41,CQ1_HCM,What does P-value mean?
+MAS291,42,CQ1_DN,What is the difference between two approaches used in hypothesis testing: critical value and p-value?
+MAS291,42,CQ1_HCM,What is the difference between a Type I error and a Type II error?
+MAS291,42,CQ2_HCM,How do we calculate a type II error?
+MAS291,43,CQ1_HCM,What is the difference between a one-tailed test and a two-tailed test?
+MAS291,44,CQ1_HCM,What is the test statistic on the mean of a normal distribution with known variance?
+MAS291,44,CQ2_HCM,What is formula for finding the test statistic on the mean of a normal distribution with known variance?
+MAS291,45,CQ1_HCM,When do you use the t-test for testing a hypothesis?
+MAS291,46,CQ1_HCM,How can you use the p-value approach to the Z-test of the hypothesis for the proportion?
+MAS291,47,CQ1_HCM,Which test can be used for the difference between the two means? Why?
+MAS291,47,CQ2_HCM,Give an example of testing the difference between the two means.
+MAS291,48,CQ1_HCM,Under what conditions should you use the pooled-variance to test the differences in the means of two independent populations?
+MAS291,49,CQ1_HCM,What are the assumptions for the two samples' proportion test?
+MAS291,50,CQ1_HCM,"In two independent populations, what are the similarities and differences between the hypothesis test and the confidence interval estimate for the difference between two proportions?"
+MAS291,51,CQ1_HCM,What is the problem setting of simple linear regression?
+MAS291,51,CQ2_HCM,Find some applications of regression in the real world.
+MAS291,52,CQ1_HCM,What is a dependent and independent variable? Explain them with examples.
+MAS291,53,CQ1_HCM,What is the interpretation of the Y intercept and the slope in the simple linear regression equation?
+MAS291,54,CQ1_HCM,What are the required assumptions of regression analysis?
+MAS291,54,CQ2_HCM,Explain the meaning of the word 'linear' in the concept 'linear regression'.
+MAS291,55,CQ1_DN,How to determine whether there is a significant linear relationship between two variables in the population?
+MAS291,55,CQ1_HCM,What is the difference between the sample correlation coefficient and coefficient of determination?
+MAS291,55,CQ2_HCM,Explain the meaning of R^2?
+MAS291,56,CQ1_HCM,Which test statistic is used to test the relationship between two variables?
+MAS291,57,CQ1_HCM,"Using the Wage dataset (education on wages) from 57 to 60. Classify the following variable: nearc4, educ, age, black, wage, IQ, married, exper, lwage, and expersq."
+MAS291,58,CQ1_HCM,What are the coefficients slope and intercept?
+MAS291,58,CQ2_HCM,"Run regression equation of educ on wage, interpret the slope and the intercept from the output."
+MAS291,59,CQ1_HCM,Suppose that you examine two models: educ on wage and educ on lwage. Which model is better? Why?
+MAS291,60,CQ1_HCM,You are interested in studying factors affecting wages. Which models should you recommend?
+SSG104,1,CQ1.1,"Why should we study ""Communication and In-Group Working Skills"" subject ?"
+SSG104,3,CQ1.2,"In your opinion, what is the most important team characteristic? Why ?"
+SSG104,3,CQ1.3,Group Vs Team: What’s the difference?
+SSG104,4,CQ2.1,Prisoner's Dilemma: Is Cooperation Always the Right Answer?
+SSG104,4,CQ2.2,"Which is stronger, Individual Differences in Cooperation or Situational Influences of Cooperation?"
+SSG104,5,CQ2.3,What is the psychological significance of groups?
+SSG104,5,CQ2.4,How do groups form and develop? What kinds of stages do they go through?
+SSG104,6,CQ2.5,"Have you ever been part of a group that made a poor decision and, if so, were any of the symptoms of groupthink present in your group?"
+SSG104,6,CQ2.6,Group debate: Does an individual or a group make better decisions?
+SSG104,7,CQ3.1,What are the meaning of social comparison theory? How can social comparison affect a person?
+SSG104,7,CQ3.2,What is the effects of social comparison? Can you give the example in a real life situation illustrating each type of social comparison and analyze the possible effects of social comparison in this situation?
+SSG104,8,CQ3.3,What are situational factors that can affect social comparison?
+SSG104,8,CQ3.4,"What is an example of social comparison? (in their daily lives, folk and proverbs, song lyrics, literature, movies…)."
+SSG104,9,CQ3.5,"Among all concepts about groups that you learn via this session, which one do you think you can apply to your university studies?"
+SSG104,9,CQ3.6,"How do you feel about the teamwork in your project team so far? What do you like, what do you not like? Share a lesson learned you find most outstanding from the beginning of the this subject"
+SSG104,9,CQ3.7,List all the things you've contributed for your team from the begining of this subject . And what do you need to improve in teamwork?
+SSG104,10,CQ4.1,What are the diferences between thought and thinking?
+SSG104,10,CQ4.2,What is a partiular learning objective that you want to achieve within this year?
+SSG104,10,CQ4.3,How did you apply different levels of Bloom's Taxonomy to your learning in college? Share at least one example for each level.
+SSG104,11,CQ4.4,Watch a video of a brainstorming session: https://youtu.be/VvdJzeO9yN8 Which rules of brainstorming could be drawn from this observation?
+SSG104,11,CQ4.5,"Project application: Which creative solutions or marketing strategies can you suggest to your group's ""Social initiative"" Project? How did you stimulate them?"
+SSG104,12,CQ4.6,"How could you tell a creative story based on spontaneous pictures? Work in groups to produce 10-15 photos around your campus, and arrange them to create a story for presentation."
+SSG104,13,CQ5.1,What are the components of a project proposal? Strategies to write an effective proposal?
+SSG104,14,CQ5.2,What is the most challenging part to compose in a busisness  proposal? Why?
+SSG104,15,CQ5.3,Have you ever been impressed by a business proposal? Which point do you like best? Why?
+SSG104,16,CQ6.1,How can you define the concept of critical thinking? Explain by giving example(s)
+SSG104,16,CQ6.2,What strategies may help you solve problems using critical thinking skills? How can you develop yourself as a critical thinker?
+SSG104,17,CQ6.3,How do you use logic in critical thinking? Analyse a case-study in newspapers or social media to emphasize
+SSG104,17,CQ6.4,"The following people are on the waiting list for heart surgery. There is only one heart that has recently been donated, and this surgery is the only chance for all of them. To whom would you choose to give the heart? Explain your decision.  Case 1: A 69-year-old renowned professor at Havard university who won a Nobel prize for his outstanding contribution to medicine.  Case 2: A 32-year-old woman living in a slum, mother of 7 children whose father(s) is(are) unknown, unemployed, and alcoholic.  Case 3: A 20-year-old girl, is HIV positive. She dropped out of high school but just managed to get back to study and got into a university this year."
+SSG104,18,CQ6.5,How can you make a draft of the Executive Summary (for your project proposal) ?
+SSG104,19,CQ7.1,What are your critical feedback for the project proposal of other teams?
+SSG104,20,CQ7.2,"Considering the project proposal's presentations of other teams, what do you like, what's not? What should they improve?"
+SSG104,21,CQ7.3,"If you were in that presentation, what would you do differently?"
+SSG104,22,CQ8.1,Where does the power come from? Are there different kinds of power? Take group pictures that simulate all different kinds of power you know. Share and explain about each picture.
+SSG104,22,CQ8.2,Can a group function without power? What causes some people to be vulnerable to power attempts?
+SSG104,22,CQ8.3,"What have you done (or will you do) to ""develop"" the following forms of power? -Expert power -Referent power"
+SSG104,23,CQ8.4,What is the nature of leadership and the leadership process? Describe your favourite leader/influencer. What elements that make him or her a good leader?
+SSG104,24,CQ8.5,"Case Study: DESERT ISLE https://docs.google.com/document/d/1y2652TsXCKCRhP3x97w7f_nNSqHjLeLE2NCgBSUUIlM/edit  Discussion Questions:  - If you need to choose one person to become a leader guiding these group of people to survive on the island and find way(s) home, who would it be? - Were there certain individuals who were immediately eliminated from consideration? Why?  - Did your selected leader possess all of the traits you would have liked to see in a leader in this situation? What are those traits?  - What additional traits would make that individual a better leader?  - Did that person have any traits you would not have liked to see in this situation? Why did you select the person anyway?  - Did age, culture, or gender influence the group’s decisions?"
+SSG104,25,CQ9.1,How to work in a diverse team effectively? Use the Divergent Cuttural Dimensions to analyze the culture of a given country (Vietnam/US/Korea…)
+SSG104,26,CQ9.2,"In this video, why does conflict happen? How did it develop? If you were one of the sisters, what would you do to help resolve the conflict? Link: https://www.youtube.com/watch?v=W6buF8URGLU"
+SSG104,27,CQ9.3,What modes of conflict resolution do you find yourself usually using when faced with a conflict in your SSG104 group? Why? What did you do to prevent or reduce conflict in your group?
+SSG104,28,CQ10.1,"How can you identify the difference between occasional negative emotions and more serious mental health issues, such as anxiety disoder or depression?"
+SSG104,28,CQ10.2,How can a person realize they have stress? How does stress affect your mind and body?
+SSG104,28,CQ10.3,Is stress always harmful? What solutions can be used to overcome stress?
+SSG104,29,CQ10.4,What part of this session impressed you the most? Why?
+SSG104,30,CQ10.5,What part of the session was the hardest for you? What do you need prepare to practice this content in life in the best way?
+SSG104,31,CQ11.1,In which ways does nonverbal communication express? How many types of nonverbal communication can you identify?
+SSG104,31,CQ11.2,"How would you rate your non-verbal competencies in communication? (Do you feel confident or not, what are your strengths/weaknesses, what can you do to improve?)"
+SSG104,32,CQ11.3,What are tips to perfect your nonverbal communication? What are Do's and Don'ts of listening in communication?
+SSG104,33,CQ11.4,"What is persuasion? Find an example that demonstrates persuasiveness in communication (text, video, etc.)"
+SSG104,33,CQ11.5,What factors make a highly persuasive presentation?
+SSG104,34,CQ12.1,What should be included in an elevator speech? Create an elevator speech and share it with your classmates (topic given by lecturer).
+SSG104,35,CQ12.2,"What is your feedback for the persuasive presentation of other group? What did they do well? What should they improve? What do you like, what's not?"
+SSG104,36,CQ12.3,"What is your feedback for the persuasive presentation of other group? What did they do well? What should they improve? What do you like, what's not?"
+SSG104,37,CQ13.1,How to conduct an effective meeting?
+SSG104,37,CQ13.2,"What are disruptive behaviors that could happen in group meetings? If you are the chairperson, how would you accommodate and coordinate such disruptive behaviors?"
+SSG104,39,CQ13.3,What should be considered in process of revision?
+SSG104,40,CQ14.1,How to write an effective email? Find an example of an e-mail that you wish you had never sent or received. Rewrite it to eliminate the characteristics that you find problematic. Share it with your classmates.
+SSG104,40,CQ14.2,What are the differences between memos and letters? In which situations they should be used?
+SSG104,41,CQ14.3,How does an effective memo look like? Give an example.
+SSG104,41,CQ14.4,What are the fifteen parts of a standard business letter? Create a draft letter introducing a product or service to a new client. Post and share with classmates.
+SSG104,42,CQ14.5,What are the main parts of a report? What are the different types of reports?
+SSG104,43,CQ15.1,How do you plan for your report writing? Make an outline for your report and write the abstract/summary/introduction.
+SSG104,45,CQ15.3,How many stages are there in a person's career development? Which stage of career development do you feel you are in currently?
+SSG104,45,CQ15.4,"Have you ever experienced any kind of work (part-time, full-time, internship, volunteer,...)? What did you gain from such experiences? In case you have not experienced any kind of work, which kind of job would you like to take while you are in college? Why?"
+SSG104,45,CQ15.5,"In your opinion, how do you prepare yourself for a career while you are in college?"
+SSG104,45,CQ15.6,How could you evaluate where you are and where you want to be in your career/careers? Describe 4 cyclical steps of Career Roadmap identified from DePaul University.
+SSG104,45,CQ15.7,What PDCA  (plan–do–check–act) strategy for carrying out change is? How to apply it to evaluate where you are in the career-development process?
+SSG104,46,CQ16.1,What is your ideal job? What makes you a great fit for this ideal job?  Identify the top three reasons why you are a great fit for that job.
+SSG104,46,CQ16.2,Find a successful résumés in your major. What could you learn and appy from that sample?
+SSG104,46,CQ16.3,What are the elements of a successful résumé? What should we avoid when creating a résumé?
+SSG104,47,CQ16.4,What are the purpose and contents of a cover letter? What should a cover letter achieve?
+SSG104,48,CQ16.5,What are some résumé writing and cover letter resources that students can refer to? Give description for each resource.
+SSG104,49,CQ17.1,What are the common job interview types? Which appropriate interview techniques can you apply for each?
+SSG104,49,CQ17.2,Find 3 favorite companies that are recruiting your ideal job. What are the common points of recruitment process from these companies? How is importance of the job interview in this process?
+SSG104,49,CQ17.3,How many steps of job interview process can you identify?
+SSG104,50,CQ17.4,How many types of job interview questions can you identify? How to answer them?
+SSG104,50,CQ17.5,"In your opinion, how could you prepare yourself effectively for a job interview?"
+SSG104,50,CQ17.6,"In your opinion, how to be successful in job interview? Find some tips for succeeding in job interview from your senior in your field, prefered alumni of FPTU and share it with your classmates."
+SSG104,51,CQ17.7,"What is your feedback for the job interview of other group? What did they do well? What should they improve? What do you like, what's not?"
+EXE101,1,HCM1.1,What are your first few thoughts on entrepreneurship?
+EXE101,1,HCM1.2,Why is entrepreneurship important for our economy?
+EXE101,1,HCM1.3,"From your experience, your network, your known startup, why did the founder start his/her company?"
+EXE101,1,HCM1.4,What makes a successful entrepreneur?
+EXE101,2,HCM2.1,Should I work first or just start a company?
+EXE101,2,HCM2.2,Why did you choose your team members? Any criteria? How do you structure team and divide the work within your team?
+EXE101,2,HCM2.3,Which factors will decide the success of a startup? Please list out 3 factors
+EXE101,2,HCM2.4,Why does your idea need to be 10x?
+EXE101,3,HCM3.1,What are the similarities between a startup and an SME?
+EXE101,3,HCM3.2,What are the key differences between a startup and an SME?
+EXE101,3,HCM3.3,Why customer interviews questions is different from a research paper interview questions?
+EXE101,3,HCM3.4,Do you prefer a small market or a big market? Why?
+EXE101,4,HCM4.1,What is a product-market fit?
+EXE101,4,HCM4.2,Why should you go for a mini-launch rather than a big launch?
+EXE101,4,HCM4.3,How will you compete with other startups?
+EXE101,4,HCM4.4,How will you compete with large companies?
+EXE101,5,HCM5.1,What are your defend strategies after launched?
+EXE101,5,HCM5.2,What is a business model?
+EXE101,5,HCM5.3,What are sources of revenue?
+EXE101,5,HCM5.4,What are the key cost drivers?
+EXE101,6,HCM6.1,How long should a round of funding last?
+EXE101,6,HCM6.2,When is a good time to raise money?
+EXE101,6,HCM6.3,Why lean startup?
+EXE101,6,HCM6.4,How should you start the pitch?
+EXE101,7,HCM7.1,Why are losing money startups valued highly?
+EXE101,7,HCM7.2,Should startups pay dividends?
+EXE101,7,HCM7.3,What is the difference between a model and a real thing?
+EXE101,7,HCM7.4,When is the best time and worst time to raise money?
+MLN111,1,CQ1.1,Anh (chị) hãy cho biết Triết học và triết lý có liên quan đến nhau như thế nào? Liệu có thể thực hiện triết lý mà không cần triết học? Anh (chị) hiểu như thế nào về nhận định trên? Triết học ảnh hưởng như thế nào đến cuộc sống của chúng ta?
+MLN111,1,CQ1.2,Triết học không treo lơ lững ở ngoài thế giới
+MLN111,2,CQ1.3,Vì sao nói: Triết học là hạt nhân của thế giới quan?
+MLN111,2,CQ1.4,"Người ta tin rằng triết học bắt nguồn từ nhu cầu tìm hiểu về thế giới và về bản thân con người. Tuy nhiên, nguồn gốc cụ thể của triết học là gì? Vì sao triết học lại xuất hiện và phát triển trong lịch sử nhân loại?"
+MLN111,3,CQ1.5,Tại sao Lênin coi quan điểm vật chất là quan trọng đối với triết học Mác - Lênin? Quan điểm vật chất của Lênin khác với các quan điểm khác trong triết học như thế nào?
+MLN111,3,CQ1.6,"Phép biện chứng của C. Mác có còn áp dụng được trong thời đại hiện nay không? Nếu có, nó có thể giúp ta hiểu và giải quyết những vấn đề gì trong thế giới đương đại?"
+MLN111,4,CQ2.1,"Những tác động của triết học Phương Tây, như triết học cổ điển Hy Lạp và triết học thời kỳ Khai sáng, đã ảnh hưởng như thế nào đến sự ra đời của triết học Mác?"
+MLN111,4,CQ2.2,"Những bất cập và phiền muộn trong xã hội thế kỷ 19, như sự bất công, bất bình đẳng và khổ hạnh của giai cấp lao động, đã ảnh hưởng như thế nào đến sự ra đời của triết học Mác?"
+MLN111,5,CQ2.3,"Vật chất có liên quan đến khái niệm về sự biến đổi, thay đổi hay sự chuyển hoá không? Nếu có, thì những quá trình này đóng góp gì vào vai trò của vật chất?"
+MLN111,5,CQ2.4,"Theo định nghĩa trên, vật chất tồn tại độc lập với cảm giác của con người. Vậy vật chất có thể có một thế giới tồn tại hoàn toàn độc lập với con người không?"
+MLN111,6,CQ2.5,"Chủ nghĩa duy vật biện chứng cho rằng không gian và thời gian là những hình thức tồn tại của vật chất. Vậy, liệu chúng có tồn tại độc lập với vật chất không?"
+MLN111,6,CQ2.6,Tại sao Lênin được coi là một trong những nhân vật quan trọng trong lịch sử triết học Mác - Lênin?
+MLN111,7,CQ3.1,Một người theo chủ nghĩa duy tâm và một người theo chủ nghĩa duy vật gặp nhau và tranh luận về phạm trù vật chất. Họ sẽ có những quan điểm khác nhau như thế nào?
+MLN111,7,CQ3.2,"Ý thức có phải là thứ duy nhất tạo nên bản chất của con người không? Hay nó chỉ là một khía cạnh của bản chất của con người? Nếu ý thức không là thứ duy nhất tạo nên bản chất của con người, thì những yếu tố khác nào còn đóng góp vào bản chất của con người?"
+MLN111,8,CQ3.3,"Triết học Mác-Lênin cho rằng vật chất là cơ sở của sự phát triển và tồn tại của thế giới. Tuy nhiên, ý thức cũng đóng vai trò quan trọng trong quá trình này. Làm thế nào để giải thích được sự tương tác giữa vật chất và ý thức trong triết học Mác-Lênin?"
+MLN111,8,CQ3.4,"Nếu ý thức là sản phẩm của bộ óc người, thì liệu các quá trình tư duy và nhận thức có thể được giải thích bằng các quá trình sinh học và hóa học trong bộ não không?"
+MLN111,16,CQ 4.1,Từ những dữ liệu có trong câu tục ngữ sau: Chuồn chuồn bay thấp thì mưa
+MLN111,16,CQ 4.2,"Anh (chị) đã từng nghe đến: quá trình đồng hóa và dị hóa trong cơ thể người"" hay ""quá trình hô hấp và quang hợp ở thực vật"" ở môn sinh học. Theo đó"
+MLN111,17,CQ 4.3,"Theo anh (chị), có phải trong thế giới động vật thì tất cả động vật đều hấp thụ khí O2 và nhả khí CO2 để phát triển, trưởng thành không? Sự phát triển của các loài động vật có phải là do một thần linh, thượng đế quyết định hay do chính bản thân của các loại động vật vận động và phát triển? Từ ví dụ trên, bạn hãy cho biết mối liên hệ phổ biến là gì? Có bao nhiêu quan điểm về mối liên hệ phổ biến?"
+MLN111,17,CQ 4.4,"- Bài hát Nhật ký của mẹ"" do  nhạc sĩ Nguyễn Văn Chung sáng tác. Nội dung bài hát miêu tả về tình cảm của cha mẹ dành cho đứa con của mình"
+MLN111,17,CQ 4.5,"- Hiện nay một ứng dụng AI đang làm sốt"" trên mạng"
+MLN111,17,CQ 4.6,"Căn cứ vào nội dung 2 nguyên lý về mối liên hệ phổ biến và nguyên lý về sự phát triển, anh (chị) hãy phân tích câu nói sau của Ănnghen: “Phép biện chứng là môn khoa học về những quy luật phổ biến của sự vận động và phát triển của tự nhiên, của xã hội loài người và của tư duy”. Tại sao nói sự vận động và phát triển diễn ra trong tự nhiên, xã hội và tư duy? Cho ví dụ minh họa để chứng minh vấn đề trên."
+MLN111,18,CQ 5.1,"Ví dụ: Anh Nguyễn Văn A và Chị Nguyễn Thị B là thành viên của một lớp Triết học, Anh A đến từ Hà Nội và Chị B đến từ TP. Hồ Chí Minh. Căn cứ vào mối quan hệ biện chứng giữa cái chung và cái riêng, các bạn hãy cho biết đặc điểm nào là cái chung, đặc điểm nào là cái riêng, và cái đơn nhất được biểu hiện ra sao? Từ đó hãy đưa ra khái niệm về cái chung, cái riêng, cái đơn nhất."
+MLN111,18,CQ 5.2,"Bạn Nguyễn Văn A có slot học sớm lúc 7 giờ 00 phút. Vì mãi mê chơi game nên bạn A đã ngủ muộn và quên để ý đến đặt đồng hồ báo thức. Thế nên hôm sau bạn A đến lớp MLN111 muộn 30 phút và bị giảng viên đánh vắng học buổi đó. Số buổi vắng của bạn A đã vượt quá quy định của môn học, vì vậy bạn A không đủ điều kiện thi, và buộc phải học lại môn MLN111 ở học kỳ tiếp theo. Với ví dụ như trên, anh (chị) hãy chỉ ra đâu là nguyên nhân, đâu là kết quả. Và lý giải rằng cùng một nguyên nhân có thể gây ra nhiều kết quả khác nhau là như thế nào?"
+MLN111,18,CQ 5.3,"Tác phẩm Tuyên ngôn của Đảng Cộng sản được viết bởi C.Mác và Ph.Ăngghen, ngoài phần lợi tựa thi tác phẩm này được trình bày trong 04 chương đề cập đến Tư sản và vô sản; Những người vô sản và những người cộng sản; Văn học xã hội chủ nghĩa và cộng sản chủ nghĩa; Thái độ của những người cộng sản đối với các đảng đối lập. Với cách thức trình bày bên ngoài: kiểu chữ, cỡ chữ, bìa tác phẩm, trình bày bên trong: các nội dung của 4 chương. Lấy tác phẩm Tuyên ngôn của Đảng Cộng sản, anh (chị) hãy cho biết đâu là nội dung, đâu là hình thức? Từ đó đưa ra định nghĩa về nội dung, hình thức? Và anh (chị) hãy cho biết tại sao chúng ta cần nghiên cứu cặp phạm trù nội dung và hình thức?"
+MLN111,18,CQ 5.4,Tục ngữ có câu: Cơn đằng Đông vừa trông vừa chạy
+MLN111,20,CQ 5.5,"Trong hoạt động kinh tế thì sản xuất và tiêu dùng sẽ phát triển theo những chiều hướng trái ngược nhau. Sản xuất là việc tạo ra của cải vật chất, sản phẩm để có thể đáp ứng được nhu cầu của người tiêu dùng. Còn tiêu dùng là mục đích cuối cùng của hoạt động sản xuất, tất cả những sản phẩm được sản xuất ra đều cần có người tiêu dùng. Anh (chị) hãy chỉ ra các mặt đối lập, mâu thuẫn và các mặt thống nhất - đấu tranh của vấn đề trong ví dụ trên? Bên cạnh đó, theo anh (chị) việc nghiên cứu mối quan hệ giữa hoạt động sản xuất và tiêu dùng nhằm mục đích gì?"
+MLN111,20,CQ 5.6,"Ví dụ: Để trở thành một sinh viên đại học, anh (chị) phải trải qua các quá trình ở các cấp học: Cấp 1, cấp 2, và cấp 3. Để lên được cấp 2, các bạn phải trải qua kỳ thi đánh giá năng lực đầu vào lớp 6; tương tự vậy các em học sinh lớp 9 phải trải qua kỳ thi đánh giá năng lực để vào lớp 10... Từ ví dụ trên, các bạn hãy chỉ ra đâu là: chất, lượng, độ, điểm nút, bước nhảy. Và làm thế nào để nhận biết các yếu tố đó? Chúng ta nghiên cứu các yếu tố đó nhằm mục đích gì?"
+MLN111,21,CQ 6.1,"Quan sát trong tự nhiên các bạn sẽ thấy Vòng đời của một con tằm: Trứng - Tằm - Nhộng - Ngài - Trứng. Đây được xem là quy luật phủ định của phủ định trong vòng đời của một con tằm. Với ví dụ như thế và căn cứ vào nội dung giáo trình, anh (chị) hãy cho biết thế nào là phủ định của phủ định? Vòng đời của một con tằm là phủ định kế thừa hay phủ định biện chứng? Làm thế nào để phân biệt phủ định kế thừa hay phủ định biện chứng?"
+MLN111,21,CQ 6.2,"C.Mác đã viết: “Khuyết điểm chủ yếu của toàn bộ chủ nghĩa duy vật từ trước đến nay - kể cả chủ nghĩa duy vật của Phoi-ơ-bắc - là sự vật, hiện thực, cái cảm giác được, chỉ được nhận thức dưới hình thức khách thể hay hình thức trực quan, chứ không được nhận thức là hoạt động cảm giác của con người, là thực tiễn, không được nhận thức về mặt chủ quan”. Căn cứ vào câu nói trên của C.Mác các bạn hãy chỉ ra: - Thế nào là nhận thức? - Có những quan điểm nào về lý luận nhận thức? - Các nguyên tắc xây dựng lý luận nhận thức của chủ nghĩa duy vật biện chứng được biểu hiện ra sao? - C.Mác đã chỉ ra những khuyết điểm nào?"
+MLN111,21,CQ 6.3,"Ví dụ về khi nghiên cứu về cấu trúc tinh thể, công thức hóa học và các thuộc tính của muối ăn. Chúng ta thấy rằng, khi muối ăn tác động vào các cơ quan cảm giác, mắt, giúp chúng ta biết muối màu trắng, dạng tinh thể, mũi cho biết muối không có mùi, lưỡi cho chúng ta biết muối có vị mặn. Căn cứ vào ví dụ trên, anh (chị) hãy cho biết thế nào là nhận thức, và để nhận thức được các thuộc tính của muối thì cần phải trải qua các giai đoạn nào?"
+MLN111,22,CQ 6.4,"Hiện nay, trong hoạt động sản xuất nông nghiệp. Người nông dân đã biết sử dùng máy gặt đặp liên hợp để thu hoạch lúa trên đồng thay cho việc dùng tay cắt lúa. Đây được xem là hoạt động thực tiễn của con người khi áp dụng khoa học kỹ thuật vào sản xuất nông nghiệp. Căn cứ vào lý luận về thực tiễn trong giáo trình, cùng với ví dụ trên, anh (chị) hãy cho biết thực tiễn là gì? Và đâu là thực tiễn trong hoạt động sản xuất vật chất? Đâu là hoạt động trong thực nghiệm khoa học?"
+MLN111,22,CQ 6.5,"Tục ngữ có câu: cá không ăn muối cá ươn con cãi cha mẹ trăm đường con hư"". Căn cứ vào câu tục ngữ này và kiến thức về chân lý"
+MLN111,23,CQ 6.6,"Theo anh (chị), tại sao con người cần phải tiến hành những hoạt động thực tiễn? Và chân lý có vai trò như thế nào đối với hoạt động thực tiễn của con người?"
+MLN111,31,CQ7.1,"Dat Bike là một công ty chuyên xe máy điện được sáng lập bởi Kỹ sư  - Nguyễn Bá Cảnh Sơn và đem lại những lợi ích nhất định trong phương cách di chuyển đi lại của người dân, và ngày càng khẳng định được thương hiệu sau chương trình gọi vốn Shark Tank Vietnam"". Vậy theo anh (chị) quá trình xây dựng đầu tư phát triển trên có phải là sản xuất xã hội hay không? Đưa ra dẫn chứng cụ thể để làm rõ vấn đề."""
+MLN111,31,CQ7.2,ChatGPT là một mô hình ngôn ngữ lớn được đào tạo bởi OpenAI và được thiết kế để trả lời các câu hỏi và thực hiện các tác vụ trong nhiều lĩnh vực khác nhau. Vậy theo anh (chị) các yếu tố công nghệ như ChatGPT có làm thay đổi khả năng nâng cao lực lượng sản xuất hiện đại hay không? Đưa ra dẫn chứng cụ thể để làm rõ vấn đề.
+MLN111,32,CQ7.3,"Trong tác phẩm Robinson Crusoe Lạc Trên Hoang Đảo của nhà văn Daniel Defoe. Robinson đã sinh sống trên hoang đảo thực hiện việc chăn nuôi, trồng trọt, chế biến thực phẩm, đóng thuyền. Theo anh (chị) Robinson có sở hữu về tư liệu sản xuất hay không?"
+MLN111,32,CQ7.4,"Theo anh (chị) tại sao lại nói ở nước ta trong thời kỳ từ Đại hội IV (năm 1976) đến trước Đại hội VI (năm 1986) của Đảng, chúng ta đã mắc phải bệnh chủ quan duy ý chí, nóng vội và bệnh bảo thủ trì trệ do vi phạm các quy luật khách quan, đặc biệt là quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất?"
+MLN111,33,CQ7.5,Có nhận định cho rằng Kinh tế phát triển thì chứng tỏ chính trị có sự tiến bộ nhất định; ngược lại
+MLN111,33,CQ7.6,Theo lịch sử xã hội loài người là tiến trình nối tiếp nhau từ thấp đến cao của các hình thái kinh tế - xã hội: Cộng sản nguyên thuỷ -  Chiếm hữu nô lệ -  Phong kiến - Tư bản chủ nghĩa – Xã hội chủ nghĩa. Việc Việt Nam bỏ qua hình thái kinh tế - xã hội Tư bản chủ nghĩa có phải chúng ta đã quá vội vàng và hấp tấp hay không? Và anh (chị) hãy phân tích cụ thể vấn đề có liên quan.
+MLN111,34,CQ8.1,Trong bài hát “Lối nhỏ” của Đen Vâu có đoạn:  “Em vào đời bằng đại lộ còn anh vào đời bằng lối nhỏ  Anh nhớ mình đã từng thổ lộ anh nhớ rằng em đã chối bỏ Anh nhớ chuyến xe buổi tối đó trên xe chỉ có một người ngồi  Anh thấy thật buồn nhưng nhẹ nhõm anh nhớ mình đã mỉm cười rồi  … Em vào đời từ cao tầng còn anh vào đời từ mái lá Thế nên những điều anh mong cầu không bao giờ là thái quá  Những thứ anh làm thường đơn giản nên không hay được đánh giá cao  Vài người thường ăn hải sản rồi lại chê bai mùi cá ao” …  Vậy theo anh (chị) có phải sự tư hữu đã tạo ra khoảng cách xã hội giữa người này với người khác hay không? Đây có phải là nguyên nhân làm cho con người quan trọng vị thế của mình trong xã hội hay không? Có phải chính từ sự xuất thân (sơ hữu về từ hữu) là điều kiện bắt nguồn sự ra đời của giai cấp xã hội?
+MLN111,34,CQ8.2,"Theo anh (chị) giới tăng lữ, tu hành có phải là giai cấp không tại sao? Theo anh (chị) họ có vai trò gì trong xã hội hiện nay là gì?"
+MLN111,35,CQ8.3,"Trong thời kỳ kháng chiến và bảo vệ tổ quốc, Đảng ta đứng trên lập trường của giai cấp công nhân và đã tập hợp các nguồn sức mạnh và liên mình giai cấp một cách hiệu quả. Vậy theo anh (chị) ngày nay khi đất nước đã hoà bình thì việc liên minh giai cấp có còn ý nghĩa nữa hay không? Đưa ra dẫn chứng cụ thể để làm rõ vấn đề."
+MLN111,35,CQ8.4,"Dân tộc Việt Nam chịu sự đô hộ 1000 năm Bắc thuộc và đã đấu tranh chiến đấu, anh dũng từ đời này qua đời khác. Vậy theo anh (chị) tại sao dân tộc Việt Nam không bao giờ khuất phục và không bị biến thành một huyện hoặc một tỉnh của các triều đại Phương Bắc?"
+MLN111,36,CQ8.5,"Theo anh (chị) đặt lợi ích quốc gia, lợi ích dân tộc lên trên hết có làm ảnh hưởng đến sự phát triển chung của nhân loại?"
+MLN111,36,CQ8.6,"Anh (chị) hiểu thế nào là chủ nghĩa dân tộc cực đoạn, chủ nghĩa dân tộc cực đoạn có trực tiếp dẫn đến phân biệt chủng tộc hay không? Là người Việt Nam chúng ta cần làm gì để phát huy giá trị dân tộc Việt Nam trên thế giới?"
+MLN111,37,CQ9.1,"Anh (chị) hiểu thế nào là Tam quyền phân lập, Việt Nam có đang đi theo thuyết này hay không? Tại sao?"
+MLN111,37,CQ9.2,Anh (chị) hiểu thế nào là Nhà nước kiến tạo? Hiện nay Việt Nam có nhất thiết phải là nhà nước kiến tạo hay không? Những rào cản nào cần được giải quyết trong quá trình phát triển nhà nước kiến tạo?
+MLN111,38,CQ9.3,"Theo anh (chị) trong thời đại ngày nay có khả năng bùng nổ những cuộc cách mạng xã hội điển hình như cách mạng tư sản ở Châu Âu XVII - XVIII, cách mạng tháng 10 Nga năm 1917 hay không ? Hãy dẫn chứng cụ thể vào điều kiện thế giới ngày nay."
+MLN111,38,CQ9.4,Anh (chị) hiểu thế nào là cải cách hành chính nhà nước? Theo các em Việt Nam có đang thực hiện cải cách hành chính nhà nước hay không? Hãy dẫn chứng cụ thể về cải cách hành chính nhà nước được thực hiện như thế nào?
+MLN111,38,CQ9.5,Tại sao nói Cách mạng Tháng Tám năm 1945 là một cuộc cách mạng xã hội? Anh (chị) hãy làm rõ nhận định này?
+MLN111,38,CQ9.6,"Theo anh (chị) trong thời đại ngày nay có khả năng bùng nổ những cuộc cách mạng xã hội điển hình như cách mạng tư sản ở Châu Âu XVII - XVIII, cách mạng tháng 10 Nga năm 1917 hay không ? Hãy dẫn chứng cụ thể vào điều kiện thế giới ngày nay."
+MLN111,46,CQ10.1,"Hãy chỉ ra những sự khác biệt giữa Generation Z và Generation Y (về mặt ý thức hệ, quan điểm, tư tưởng, lối sống…)? Từ đó, lý giải nguyên nhân dẫn đến sự khác biệt đó?"
+MLN111,46,CQ10.2,"Từ mỗi quan hệ biện chứng giữa tồn tại xã hội và ý thức xã hội, hãy phân tích nguồn gốc tinh thần yêu nước của người Việt?"
+MLN111,47,CQ10.3,"Giải thích nguồn gốc tâm lý sính ngoại của người Việt, từ đó, chỉ ra hệ lụy và cách khắc phục trong thời kỳ hội nhập kinh tế quốc tế của Việt Nam"
+MLN111,47,CQ10.4,"Vì sao, ở Việt Nam khi phát triển kinh tế thị trường, người ta ngày càng nhiều người quên hoặc bỏ qua các yếu tố đạo đức kinh doanh? từ đó, phân tích sự tác động của kinh tế thị trường đến đạo đức kinh doanh"
+MLN111,48,CQ10.5,Phong tục tết và thói quen tiêu dùng của người dân 2 miền Bắc Nam là khác nhau. Người miền Nam mua hoa mai
+MLN111,48,CQ10.6,"Vì sao xã hội ngày càng phát triển, lại càng có nhiều hiện tượng mê tín dị đoan, buôn thần bán thánh xuất hiện?"
+MLN111,49,CQ11.1,"Platon cho rằng: Mỗi người sinh ra đều có một bản tính khác nhau và đều nhằm làm một nghề nhất định. Ngay từ lúc mới sinh ra, một số người đã có năng lực làm chủ và đứng đầu, trái lại một số lại khác lại là những kẻ cày ruộng và làm những nghề thủ công khác nhau. Quan điểm trên đúng hay sai? Bằng kiến thức đã học về con người hãy luận giải?"
+MLN111,49,CQ11.2,Nhân chi sơ tính bản thiện hay nhân chi sơ tính bản ác?
+MLN111,50,CQ11.3,Làm việc để sống hay sống để làm việc?
+MLN111,50,CQ12.1,"Các bạn hiểu như thế nào về câu nói sự phát triển tự do của mỗi cá nhân là điều kiện cho sự phát triển tự do của tất cả mọi người"". Từ đó"
+MLN111,51,CQ12.3,Phân biệt cái tôi cá nhân và cái tôi xã hội? Làm sao để có thể kết hợp hài hòa giữa cái tôi cá nhân (lợi ích cá nhân) với cái tôi xã hội (lợi ích xã hội)?
+MLN111,52,CQ12.4,Các bạn hiểu thế nào là vì lợi ích mười năm trồng cây
+MLN111,52,CQ12.5,Vận dụng quan điểm của triết học Mác - Lênin về con người vào sự nghiệp giáo dục con người ở Việt Nam hiện nay
+MLN122,1,CQ1.1,"Từ lịch sử phát triển của kinh tế chính trị, anh chị hãy chứng minh sự phát triển của khoa học kinh tế chính trị phản ánh sự phát triển của các nền kinh tế xã hội, cũng như sự phát triển của tư tưởng kinh tế của nhân loại?"
+MLN122,2,CQ1.2,Hãy chỉ ra mối quan hệ giữa quy luật kinh tế và chính sách kinh tế? Kinh tế chính trị Mác lênin thuộc lĩnh vực nào kể trên? Vì sao?
+MLN122,3,CQ1.3,"Hãy chỉ ra sự khác biệt giữa kinh tế - chính trị và các môn khoa học kinh tế cụ thể khác (kinh tế vi mô, kinh tế vĩ mô…)"
+MLN122,4,CQ2.1,"Dựa vào hai thuộc tính của hàng hóa, Các bạn hãy giải thích tại sao: Khi đi mua điện thoại, máy tính vấn đề đầu tiên bạn cần quan tâm đó là gì? Từ đó bạn hãy chỉ ra những thuộc tính cơ bản của hàng hóa và chúng có mối quan hệ với nhau như thế nào?"
+MLN122,4,CQ2.2,"Hai công ty A và B chuyên sản xuất quần áo may sẵn, và họ luôn cạnh tranh với nhau về giá cả, mẫu mã...Nếu bạn là giám đốc công ty A thì bạn làm gì để cạnh tranh với công ty B. Từ đây các bạn hãy chỉ ra các yếu tố ảnh hưởng đến lượng giá trị của hàng hóa. Và đâu là yếu tố quan trọng để cạnh tranh với công ty B."
+MLN122,5,CQ2.3,"Để mua được một chiếc điện thoại iPhone 15 Pro Max, bạn phải bán hơn 5.5 tấn lúa (tính tại thời điểm tháng 11/2023). Theo bạn tại sao có tỷ lệ chênh lệch như vậy? Và điện thoại hay lúa có thực hiện được các chức năng cơ bản sau đây hay không? Vì sao? Là thước đo giá trị, Là phương tiện lưu thông, Là phương tiện cất trữ, là phương tiện thanh toán, là đơn vị tiền tệ thế giới."
+MLN122,5,CQ2.4,"Giả sử bạn là một nhà sản xuất quần áo, bạn muốn bán quần áo của mình trên thị trường. Bạn có thể bán quần áo bằng cách trao đổi quần áo cho tiền tệ, hoặc bằng cách trao đổi quần áo cho một số dịch vụ khác có giá trị tương đương với quần áo của bạn. Theo bạn, cách nào có lợi hơn, và tại sao? Hãy dựa vào lý luận của C. Mác về dịch vụ và các quan hệ trao đổi trong trường hợp một số yếu tố khác hàng hóa thông thường ở điều kiện hiện nay để giải thích câu trả lời của bạn."
+MLN122,5,CQ2.5,"Giả sử bạn có 100 triệu đồng, bạn muốn mua một chiếc xe máy. Bạn có thể mua xe máy bằng cách trao đổi 100 triệu đồng cho người bán xe máy, hoặc bằng cách trao đổi một số hàng hóa khác có giá trị tương đương với 100 triệu đồng cho người bán xe máy. Theo bạn, cách nào tiện lợi hơn, và tại sao? Hãy dựa vào lý luận của C. Mác về tiền tệ để giải thích câu trả lời của bạn."
+MLN122,7,CQ3.1,"Các bạn đã từng nghe đến các cụm từ như: Thị trường tài chính"""
+MLN122,7,CQ3.2,"Hãy so sánh và đối chiếu quy luật cung cầu và quy luật giá trị trong nền kinh tế thị trường. Hãy cho biết vai trò của hai quy luật này trong việc điều tiết sản xuất, lưu thông và phân bổ các nguồn lực xã hội."
+MLN122,7,CQ3.3,"Là một người tiêu dùng thông minh, bạn hãy lựa chọn một loại hàng hóa hoặc dịch vụ mà bạn quan tâm nhất và phân tích quá trình sản xuất, tiêu dùng và phân phối của nó trên thị trường. Từ những ví dụ cụ thể đó, bạn hãy đưa ra những nhận xét vai trò của người sản xuất, người tiêu dùng, các chủ thể trung gian và nhà nước trong quá trình trong xã hội hiện nay."
+MLN122,8,CQ3.4,"Khái niệm giá trị thặng dư"" trong lý luận kinh tế đề cập đến điều gì? Theo bạn"
+MLN122,8,CQ3.5,"Trong bối cảnh kinh doanh và công nghiệp hiện đại, giá trị thặng dư có quan trọng như trước đây? Liệu có những biện pháp nào để giảm bớt bất bình đẳng và phân phối công bằng giá trị thặng dư trong xã hội?"
+MLN122,10,CQ4.1,"Tích lũy tư bản có tạo ra cơ hội kinh doanh và việc làm mới, hay nó chỉ tạo ra sự tăng cường cho những người giàu có?"
+MLN122,10,CQ4.2,"Trong nền kinh tế thị trường, giá trị thặng dư có thể được chuyển đổi thành các dạng tài sản khác nhau, chẳng hạn như cổ phiếu, trái phiếu, bất động sản, và tiền mặt. Liệu sự phân phối của các loại tài sản này có công bằng?"
+MLN122,11,CQ4.3,"Trong nền kinh tế thị trường, giá trị thặng dư có thể được sử dụng để đầu tư và tạo ra lợi nhuận tiếp theo. Điều này có thể dẫn đến sự tăng trưởng kinh tế và phát triển. Tuy nhiên, liệu sự tăng trưởng này có bền vững và có lợi cho tất cả các tầng lớp xã hội hay chỉ tập trung vào một số người giàu có?"
+MLN122,13,CQ5.1,Độc quyền là gì? Tại sao các doanh nghiệp tham gia cạnh tranh luôn có mục đích hướng tới độc quyền? Hãy phân tích  một ví dụ cụ thể.
+MLN122,13,CQ5.2,"Theo các bạn, ở Việt Nam chúng ta có ủng hộ độc quyền hay không? Cụ thể là Việt Nam đã có những chính sách như thế nào?"
+MLN122,14,CQ5.3,"Theo các bạn, độc quyền trong thời đại hiện nay có triệt tiêu động lực cạnh tranh của các chủ thể kinh tế không?"
+MLN122,15,CQ5.4,"Tại sao vào tháng 8/2022, Hàn Quốc ân xá cho nhiều phạm nhân, đặc biệt là các nhà tài phiệt, trong đó có thái tử"" Samsung với lí do mong muốn họ đóng góp vượt qua khủng hoảng kinh tế quốc gia?"""
+MLN122,15,CQ5.5,"Ở Việt Nam EVN, Viettel, PVN, ... có phải là độc quyền nhà nước trong chủ nghĩa tư bản không?"
+MLN122,17,CQ6.1,"Trong điều kiện kinh tế toàn cầu ngày nay, liệu chủ nghĩa tư bản có còn phù hợp và có thể đáp ứng được các thách thức hiện đại như biến đổi khí hậu, bất bình đẳng xã hội và cải thiện cuộc sống của tất cả mọi người?"
+MLN122,17,CQ6.2,Có những ví dụ cụ thể về các quốc gia hoặc công ty sử dụng độc quyền và độc quyền nhà nước để đạt được lợi ích kinh tế và quyền lực? Lợi ích của việc này có được phân phối công bằng và mang lại lợi ích cho toàn bộ xã hội?
+MLN122,18,CQ6.3,"Khái niệm ""kinh tế thị trường định hướng xã hội chủ nghĩa"" có ý nghĩa gì đối với Việt Nam? Làm thế nào để hiểu và áp dụng đúng cách mô hình này trong bối cảnh Việt Nam?"
+MLN122,18,CQ6.4,Sự phát triển kinh tế và xã hội ở Việt Nam trong bối cảnh kinh tế thị trường định hướng xã hội chủ nghĩa có mang lại sự công bằng và phân phối lợi ích đúng mức? Làm thế nào để giải quyết các vấn đề bất bình đẳng xã hội và tăng cường sự phát triển bền vững?
+MLN122,18,CQ6.5,Mô hình Kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam tạo điểm khác biệt so với các mô hình kinh tế khác như thế nào?
+MLN122,19,CQ7.1,"Bạn hãy lựa chọn một quốc gia có nền kinh tế thị trường định hướng xã hội chủ nghĩa khác với Việt Nam (ví dụ: Trung Quốc, Cuba, Lào…)  và nền kinh tế thị trường của Mỹ (kinh tế thị trường) và so sánh những điểm giống và khác nhau giữa chúng. Đồng thời nêu lên những ưu điểm và nhược điểm của từng mô hình và đánh giá mức độ phù hợp của chúng với bối cảnh lịch sử, văn hóa, địa lý và quốc tế của từng quốc gia. Từ những kết quả đạt được, bạn hãy nêu lên tính tất yêu khách quan của việc phát triển kinh tế thị trường định hướng xã hội ở nước ta."
+MLN122,19,CQ7.2,Kinh tế thị trường theo định hướng xã hội ở Việt Nam so với kinh tế thị trường ở Mỹ có những đặc trưng gì khác biệt?
+MLN122,20,CQ7.3,Tại sao phải hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam?
+MLN122,20,CQ7.4,"Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam cần tập trung vào các nội dung nào? Trong đó, nội dung nào được xem là quan trọng nhất? Vì sao?"
+MLN122,24,CQ8.1,"Hãy lựa chọn một vấn đề kinh tế - xã hội đang gây tranh cãi trong xã hội Việt Nam hiện nay (ví dụ: thuế bảo vệ môi trường, đầu tư công, bảo hiểm y tế…) và phân tích các lợi ích kinh tế và quan hệ lợi ích kinh tế của các chủ thể liên quan đến vấn đề đó (ví dụ: nhà nước, doanh nghiệp, người lao động, người tiêu dùng…). Từ đó hãy chỉ ra những lợi ích nhóm và nhóm lợi ích nào có thể hình thành trong quá trình giải quyết vấn đề đó và những ảnh hưởng của chúng đến sự phát triển bền vững của xã hội."
+MLN122,24,CQ8.2,"Các bạn hãy lựa chọn một lĩnh vực kinh tế - xã hội mà bạn quan tâm (ví dụ: giáo dục, y tế, bảo vệ môi trường…) và phân tích vai trò của nhà nước trong việc điều tiết, hỗ trợ và giám sát các chủ thể kinh tế hoạt động trong lĩnh vực đó. Từ đó hãy chỉ ra những cơ chế, chính sách và biện pháp mà nhà nước đã và đang áp dụng để bảo đảm hài hòa các quan hệ lợi ích giữa các chủ thể kinh tế, giữa lợi ích cá nhân và lợi ích xã hội."
+MLN122,24,CQ8.3,Phân tích mối quan hệ giữa cách mạng công nghiệp và quá trình công nghiệp hóa
+MLN122,25,CQ9.1,Bài học rút ra từ mô hình công nghiệp hóa của Nhật Bản và Hàn Quốc cho Việt Nam hiện nay là gì?
+MLN122,26,CQ9.2,Thời cơ và thách thức nào cho Việt Nam trong cuộc cách mạng công nghiệp 4.0 hiện nay?
+MLN122,27,CQ9.3,"Tại sao chúng ta nên trở thành công dân toàn cầu""? Ở FPTU"
+MLN122,27,CQ9.4,"Hiện nay các quốc gia trên thế giới đẩy mạnh quảng bá hình ảnh văn hóa của mình để mở đường hội nhập tốt, ví dụ như ngành giải trí của Hàn Quốc. Các bạn có nghĩ rằng đây là một kiểu xâm lăng văn hóa"" mới trong thời đại toàn cầu hóa không?"""
+MLN122,28,CQ10.1,"Tháng 9/2023, chủ tịch FPT Trương Gia Bình đã cam kết đầu tư 100 triệu USD vào Mỹ đổi lại Mỹ sẽ hỗ trợ phát triển hệ sinh thái bán dẫn ở Việt Nam. Theo các bạn, Việt Nam có thể giống như Hàn Quốc, Đài Loan, ... được sự hậu thuẫn của Mỹ để trở thành quốc gia đi đầu về bán dẫn không? Và điều đó có khiến ta lệ thuộc hơn vào nước ngoài?"
+MLN122,28,CQ10.2,"Trong bối cảnh hội nhập kinh tế quốc tế ngày càng sâu rộng, các quốc gia ngày càng phụ thuộc lẫn nhau, tạo nên khái niệm biên giới mềm"""
+MLN122,29,CQ10.3,"Hãy tìm hiểu về các đối tác chiến lược toàn diện của Việt Nam hiện nay và phân tích tại sao Việt Nam có thể thiết lập được các đối tác đó, điều đó có ý nghĩa gì?"
+HCM202,2,CQ1.1,Vì sao nói: “Tư tưởng Hồ Chí Minh là tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc ta mãi mãi soi đường cho sự nghiệp cách mạng của nhân dân ta giành thắng lợi”?
+HCM202,3,CQ1.2,"Bằng cách nào để sinh viên có thể thực hành đạo đức cách mạng, chống chủ nghĩa cá nhân, chống “giặc nội xâm” để lập thân, lập nghiệp, sống có ích cho xã hội, yêu và làm những điều thiện, ghét và tránh cái xấu, cái ác; nâng cao lòng tự hào về đất nước Việt Nam, về chế độ chính trị xã hội chủ nghĩa, về Hồ Chí Minh, về Đảng Cộng sảnViệt Nam?"
+HCM202,3,CQ1.3,Hãy chứng minh tư tưởng Hồ Chí Minh mang tầm vóc thời đại?
+HCM202,4,CQ2.1,Những nguyên nhân chủ quan và khách quan nào dẫn tới việc nhà Nguyễn để nước ta trở thành thuộc địa của Pháp?
+HCM202,4,CQ2.2,"“Năm 1923, nhà thơ, nhà báo nổi tiếng người Xô Viết O.Mandenxtam gặp Nguyễn Ái Quốc lúc này 33 tuổi ở Moskva, O.Mandenxtam đã đánh giá Nguyễn Ái Quốc là một người phương Đông lịch sự, là biểu hiện cho một nền văn hóa của tương lai: “Từ Nguyễn Ái Quốc tỏa ra một thứ văn hóa, không phải văn hóa châu Âu, mà có lẽ là một nền văn hóa của tương lai. Từ trong giọng nói đầm ấm, thanh cao của Người, chúng ta như nghe thấy ngày mai, như thấy viễn cảnh trời yên biển lặng của tình hữu ái bao la toàn thế giới mênh mang như nước đại dương”. Theo bạn, vì sao nhà báo người Xô Viết lại có nhận xét như vậy về Nguyễn Ái Quốc?"
+HCM202,5,CQ2.3,"Sự sáng tạo của Nguyễn Ái Quốc trong hành trình tìm đường cứu nước đầu thế kỷ XX so với những bậc tiền bối đi trước như Phan Bội Châu, Phan Chu Trinh là gì?"
+HCM202,5,CQ2.4,Anh hùng tạo thời thế hay thời thế tạo anh hùng đúng với cuộc đời và sự nghiệp của Hồ Chí Minh?
+HCM202,6,CQ2.5,"Anh chị hãy phản bác luận điệu của các các thế lực thù địch cho rằng tư tưởng Hồ Chí Minh đã lỗi thời, lạc hậu và không còn phù hợp với sự phát triển của Việt Nam và thời đại mới?"
+HCM202,7,CQ3.1,"Theo Anh/Chị quan điểm nào trong tư tưởng Hồ Chí Minh về độc lập dân tộc là:“lẽ sống, là học thuyết của Hồ Chí Minh, là nguồn sức mạnh làm nên chiến thắng của nhân dân Việt Nam, đồng thời cũng là nguồn động viên đối với các dân tộc bị áp bức trên thế giới ”? Hãy minh chứng?"
+HCM202,8,CQ3.2,Hãy chứng minh tính sáng tạo trong tư tưởng Hồ Chí Minh về cách mạng giải phóng dân tộc?
+HCM202,8,CQ3.3,Tại sao trong quá trình ra đi tìm đường cứu nước Hồ Chí Minh đã từ chối con đường cách mạng tư sản để đi theo con đường cách mạng vô sản? Ý nghĩa của sự lựa chọn này đối với cách mạng Việt Nam?
+HCM202,8,CQ3.4,"Hồ Chí Minh quan niệm:‘có dân là có tất cả, trên đời này không gì quý bằng dân, được lòng dân thì được tất cả, mất lòng dân thì mất tất cả”. Anh/Chị hiểu như thế nào về luận điểm trên?"
+HCM202,9,CQ3.5,"Hồ Chí Minh khẳng định: “Muốn xây dựng chủ nghĩa xã hội, trước hết cần có những con người xã hội chủ nghĩa”. Anh/Chị vận dụng quan điểm trên như thế nào để trở thành con người xã hội chủ nghĩa?"
+HCM202,10,CQ4.1,Sức hấp dẫn của chủ nghĩa xã hội là gì? Hãy minh chứng?
+HCM202,10,CQ4.2,"Theo chủ tịch Hồ Chí Minh, thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam sẽ bỏ qua chủ nghĩa Tư bản. Như vậy có đốt cháy giai đoạn hay không? Vì sao?"
+HCM202,11,CQ4.3,Theo Hồ Chí Minh thì “Độc lập dân tộc gắn liền với chủ nghĩa xã hội”. Vì sao?
+HCM202,12,CQ4.4,"Theo chủ tịch Hồ Chí Minh, Chủ nghĩa xã hội là xu thế tất yếu của thời đại và phù hợp với lợi ích của nhân dân Việt Nam. Tuy nhiên, hiện nay có rất ít nước định hướng đi theo Chủ nghĩa xã hội. Quan điểm của anh/Chị quan điểm trên như thế nào về vấn đề trên?"
+HCM202,12,CQ4.5,"Độc lập dân tộc gắn liền với Chủ nghĩa xã hội – Sự lựa chọn phù hợp xu thế phát triển của thời đại, khát vọng thiêng liêng của dân tộc Việt Nam? Anh/chị hiểu như thế nào?"
+HCM202,13,CQ5.1,"Vì sao Hồ Chí Minh coi trọng yếu tố ""Phong trào yêu nước"" cho sự ra đời của Đảng Cộng Sản Việt Nam?"
+HCM202,13,CQ5.2,Bằng những sự kiện lịch sử hãy chứng minh: Sự lãnh đạo của Đảng là yếu tố hàng đầu đưa cách mạng Việt Nam đi từ thắng lợi này đến thắng lợi khác?
+HCM202,14,CQ5.3,"Hồ Chí Minh khẳng định: Đảng sẵn sàng vui vẻ làm trâu ngựa, làm tôi tớ trung thành của Nhân dân [Hồ Chí Minh toàn tập, tập 10, trang 184,185]. Anh/chị nhận định như thế nào khi một số cán bộ đảng viên thoái hóa, biến chất hiện nay?"
+HCM202,14,CQ5.4,"Hãy nêu những cách để rèn luyện được đức tính giản dị, khiêm tốn trong cuộc sống? Liên hệ bản thân?"
+HCM202,15,CQ5.5,Bảy xin hiến pháp ban hành; Trăm điều phải có thần linh pháp quyền. Anh/chị hiểu thế nào về nhận định này của Hồ Chí Minh?
+HCM202,16,CQ6.1,Theo Hồ Chí Minh để xây dựng nhà nước trong sạch vững mạnh thì đội ngũ cán bộ đảng viên cần phải có những yêu cầu gì? Cho ví dụ?
+HCM202,16,CQ6.2,"Chủ tịch Hồ Chí Minh đặc biệt coi trọng bệnh đặc quyền, đặc lợi, tham ô, lãng phí, quan liêu tiêu cực trong bộ máy Nhà nước như thế nào? Lấy dẫn chứng thực tế để làm rõ?"
+HCM202,17,CQ6.3,"Trong bối cảnh hiện nay, những vấn đề gì trong công tác xây dựng Đảng đòi hỏi chúng ta cần đặc biệt quan tâm?"
+HCM202,18,CQ6.4,Tiếp thu tư tưởng Hồ Chí Minh về Nhà nước. Hiện nay việc xây dựng Nhà nước ngang tầm nhiệm vụ trong giai đoạn cách mạng mới cần bảo đảm những nội dung nào? Cho ví dụ làm rõ?
+HCM202,18,CQ6.5,Anh/chị nêu sự kế thừa và phát triển tư tưởng Hồ Chí Minh về xây dựng Nhà nước vì dân trong Văn kiện Đại hội Đảng toàn quốc lần thứ XIII của Đảng thể hiện như thế nào?
+HCM202,19,CQ7.1,"Theo các bạn, vì sao Hồ Chí Minh luôn coi đoàn kết là sức mạnh"
+HCM202,19,CQ7.2,"Theo các bạn, khi xác định chủ thể của khối đại đoàn kết dân tộc, vì sao Hồ Chí Minh không lựa chọn chỉ đoàn kết trong giai cấp công nhân mà xác định là toàn thể nhân dân Việt Nam? Điều này có đi ngược lại với lý luận quan điểm Vô sản toàn thế giới"
+HCM202,20,CQ7.3,"Vì sao Hồ Chí Minh lại luôn luôn quan tâm, xây dựng mặt trận dân tộc thống nhất? ý nghĩa của việc này là gì?"
+HCM202,20,CQ7.4,Mối quan hệ giữa đoàn kết và dân chủ trong tư tưởng Hồ Chí Minh là gì? Các bạn có thể vận dụng về mối quan hệ này để thực hiện các hoạt động teamwork của mình như thế nào?
+HCM202,20,CQ7.5,"Hồ Chí Minh có chỉ ra “Dân vận khéo thì việc gì cũng thành công”, theo các bạn vì sao chúng ta phải thực hiện tốt công tác dân vận? Điều này đã được thể hiện ở đâu, như thế nào trong tư tưởng Hồ Chí Minh"
+HCM202,22,CQ8.1,Phân tích những quan điểm cơ bản của Hồ Chí Minh về sự cần thiết phải xây dựng đoàn kết quốc tế. Ý nghĩa của việc kết hợp sức mạnh dân tộc với sức mạnh thời đại trong thực tiễn cách mạng Việt Nam hiện nay?
+HCM202,22,CQ8.2,Làm rõ các nguyên tắc đoàn kết quốc tế trong tư tưởng Hồ Chí Minh. Bằng những dẫn chứng từ thực tiễn chống đại dịch Covid-19 hãy làm sáng tỏ sức mạnh của đoàn kết quốc tế.
+HCM202,23,CQ8.3,Vận dụng tư tưởng Hồ Chí Minh về đại đoàn kết toàn dân tộc và đoàn kết quốc tế trong giai đoạn hiện nay cần quán triệt những nội trọng tâm nào? Vì sao đại đoàn kết toàn dân tộc phải kết hợp với đoàn kết quốc tế?
+HCM202,24,CQ8.4,"Trong thư gửi các đơn vị bộ đội có nhiệm vụ tác chiến ở Thượng Lào ngày 3-4-1953: “Lần này là lần đầu tiên, các chú nhận một nhiệm vụ quan trọng và vẻ vang như nhiệm vụ này, tức là giúp nhân dân nước bạn. Mà giúp nhân dân nước bạn tức là mình tự giúp mình”. Hãy sưu tầm những luận cứ (câu chuyện, điển hình, thước phim) từ thực tế chống đại dịch Covid-19 để làm sáng tỏ phương châm “giúp  nhân dân nước bạn tức là mình tự giúp mình” trong tư tưởng đoàn kết của Hồ Chí Minh."
+HCM202,24,CQ8.5,"Đọc sự tổng kết sau:  Ngày 22-10-1963, trong cuộc họp của Bộ Chính trị bàn về vấn đề quan hệ quốc tế của Đảng, Chủ tịch Hồ Chí Minh đề nghị: “Chủ trương của Đảng ta là đoàn kết và làm cầu nối trong việc đoàn kết quốc tế”. Nhận thức rõ tầm quan trọng của đoàn kết quốc tế trong tư tưởng Hồ Chí Minh, ở thời kỳ đổi mới, bằng việc xác định đúng các dòng chảy của thế giới trong xu thế toàn cầu hóa và hội nhập quốc tế, Đảng và Nhà nước ta đã chủ trương thực hiện chính sách đối ngoại rộng mở, đa phương hóa, đa dạng hóa, chủ động, tích cực hội nhập quốc tế và cụ thể hóa vào trong chủ trương, đường lối qua các kỳ đại hội: Việt Nam “muốn là bạn với tất cả các nước trong cộng đồng thế giới” của Đại hội VII (năm 1991), “sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế”  của Đại hội IX (năm 2001), “là bạn, đối tác tin cậy và là thành viên có trách nhiệm trong cộng đồng quốc tế” của Đại hội XI (năm 2011). Yêu cầu: - Giới thiệu khái quát các thành tựu hội nhập quốc tế để làm sáng tỏ khát vọng của Chủ tịch Hồ Chí Minh và mong muốn của dân tộc Việt Nam trong đoàn kết quốc tế là “làm bạn với tất cả mọi nước dân chủ và không gây thù oán với một ai”."
+HCM202,25,CQ9.1,Hãy làm rõ những giá trị của khái niệm văn hóa trong tư tưởng Hồ Chí Minh.
+HCM202,25,CQ9.2,"Tại Đại hội Văn hóa toàn quốc lần thứ nhất, ngày 24/11/1946, Chủ tịch Hồ Chí Minh nêu một luận điểm quan trọng: “Văn hóa soi đường cho quốc dân đi”, nhằm nhấn mạnh vai trò định hướng, dẫn dắt của văn hóa đối với sự phát triển của cách mạng và của cả dân tộc. Từ quan điểm đó của Người yêu cầu: - Khái quát những nội dung căn bản nhất để làm rõ nội dung văn hóa soi đường cho quốc dân đi. - Liên hệ thực tiễn để chỉ ra những biểu hiện tiêu cực trong trong văn hóa đời sống hiện nay."
+HCM202,25,CQ9.3,"Tiến sĩ M. Admad, Giám đốc UNESCO khu vực Châu Á Thái Bình Duơng: “Hồ Chí Minh đã thành công trong việc liên kết nhiều sắc thái văn hoá vào một nền văn hóa Việt Nam duy nhất. Người làm được việc này nhờ sự hiểu biết sâu sắc và tôn trọng những đặc điểm văn hóa khác nhau”. Bằng các dẫn chứng cụ thể về sự kế thừa những giá trị văn hóa trong tư tưởng Hồ Chí Minh để làm rõ cho quan điểm nêu trên."
+HCM202,26,CQ9.4,"Khi luận bàn chữ Kiệm, Hồ Chí Minh viết: “Nước ta có 20 triệu người, Nhiều bù ít, mỗi người mỗi ngày ăn 700 gam gạo, mỗi tháng là 21 kilô gam. Nếu một ngày mỗi người chỉ tiết kiệm nữa bát cơm (việc đó rất dễ, ai cũng làm được), thì mối tháng cả nước sẽ tiết kiệm được 20 triệu kilô gạo, nghĩa là đủ nuôi một triệu chiến sĩ trong một tháng… Kết quả của Cần cộng với kết quả của Kiệm là: bộ đội sẽ đầy đủ, nhân dân sẽ ấm no, kháng chiến sẽ mau thắng lợi, kiến quốc sẽ mau thành công, nước ta sẽ mau giàu mạnh ngang hàng với các nước tiên tiến trên thế giới”. - Kết hợp với luận về chữ “Cần”, chữ “Kiệm” của Người. Anh (Chị) hãy đề ra các giải pháp thực hành chữ “Cần”, chữ “Kiệm” trong thực tiễn học tập của sinh viên hiện nay. Luận giải vì sao, Bác luôn đặt cần đi đôi với kiệm?"
+HCM202,26,CQ9.5,"Triết lý con người và đạo đức, xoay quanh một câu hỏi lớn - Ở đời và làm người phải như thế nào? Với Bác, “Muốn hướng dẫn nhân dân, mình phải làm mực thước cho người ta bắt chước”, “Một tấm gương sống còn có giá trị hơn một trăm bài diễn văn tuyên truyền”. Từ quan điểm của Bác và liên hệ với thực tiễn để trình bày quan điểm của anh, chị về vấn đề này."
+HCM202,28,CQ10.1,"Nhằm xây dựng và phát triển văn hóa, con người Việt Nam đáp ứng yêu cầu phát triển bền vững đất nước Đại hội XII của Đảng đã khái quát các nhiệm vụ cụ thể nào?"
+HCM202,28,CQ10.2,"Tại Hội nghị nghiên cứu lịch sử Đảng của Ban Tuyên giáo Trung ương, Bác Hồ đã nói “Nếu không chịu khó học thì không tiến bộ được... Xã hội càng đi tới, công việc càng nhiều, máy móc càng tinh xảo. Mình mà không chịu học thì lạc hậu, mà lạc hậu là bị đào thải, tự mình đào thải mình”.  Kết hợp với quan điểm của Người, bằng hành văn rõ ràng, trong sáng Anh (Chị) hãy trình bày quan điểm của mình về tầm quan trọng của việc học tập, rèn luyện trong môi trường học tập giáo dục Đại học và đề ra các giải pháp cho việc học tập hiệu quả trong thực tế sinh viên hiện nay."
+HCM202,28,CQ10.3,"Trong Thư gửi đồng bào và cán bộ xã Nam Liên (nay là xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An) Hồ Chí Minh nói: “Tư tưởng bảo thủ là như những sợi dây cột chân cột tay người ta, phải vất nó đi. Muốn tiến bộ thì phải có tinh thần mạnh dạn, dám nghĩ dám làm”. Kết hợp với quan điểm của Người, bằng hành văn rõ ràng, trong sáng hãy viết bài luận ngắn trình bày: - Những quan điểm bảo thủ đang cố hữu trong bạn và cách mà bạn vất nó đi"".  - Thực trạng và giải pháp nào cho vấn đề “tinh thần mạnh dạn"
+HCM202,29,CQ10.4,"Phân tích những quan điểm chủ yếu trong tư tưởng Hồ Chí Minh về xây dựng con người mới. Sinh viên cần phải làm gì để phát huy tính tích cực, chủ động trong việc rèn luyện, phát triển năng lực tư duy?"
+MLN131,2,CQ1.1,"Các bộ phận nào hợp thành chủ nghĩa Mác - Lênin? Và mỗi bộ phận có vai trò, vị trí ra sao?"
+MLN131,3,CQ1.2,"Mời các bạn xem đoạn clip: “Cuba vững bước xây dựng chủ nghĩa xã hội”. Và Trong đoạn clip có đề cập: tại Đại hội lần thứ VIII của Đảng Cộng sản Cuba có đề cập: “Phát triển kinh tế trong đó có việc giải quyết bài toán nâng cao năng suất lao động và thúc đẩy lực lượng sản xuất trong nước, cùng việc cân bằng và bảo về an sinh xã hội, đây được xem là nhiệm vụ then chốt và bao trùm cho nhiệm vụ tiếp theo”. Hãy lý giải các vấn đề sau: - Tại sao phát triển kinh tế phải đảm bảo an sinh xã hội? - Những vấn đề nào có liên quan đến chủ nghĩa duy vật lịch sử, học thuyết giá trị thặng dư và học thuyết sứ mệnh lịch sử toàn thế giới của giai cấp công nhân được đề cập đến trong đoạn clip trên? - Đâu là điểm mới, điểm sáng tạo mà Cuba đã vận dụng Chủ nghĩa xã hội khoa học được Mác - Ăngghen phát triển. - Thông qua đoạn clip này, các bạn hãy trình bày đối tượng nghiên cứu, ý nghĩa mà chúng ta đang muốn hướng đến là gì? Và ý nghĩa của đoạn clip là gì?  Link clip: https://youtu.be/LQ7gowOn3CA"
+MLN131,3,CQ1.3,"Mời các bạn xem đoạn video về Đổi mới toàn diện đất nước theo định hướng XHCN trên Nhân dân TV. Sau khi xem xong đoạn Video các bạn hãy chỉ ra những khó khăn trước thời kỳ đổi mới, sau thời thời kỳ đổi mới có những điểm gì khác? Đó có phải là những đóng góp quan trọng không? Vì sao? Link Video: https://youtu.be/fiLdxRn9K-A"
+MLN131,4,CQ2.1,"Ở tác phẩm Những nguyên lý của chủ nghĩa cộng sản (1847), Ph.Ăngghen khẳng định: “Giai cấp vô sản là do cuộc cách mạng công nghiệp sản sinh ra; cuộc cách mạng này xảy ra ở Anh vào nửa sau của thế kỷ trước (tức là thế kỷ XVIII - người viết), và sau đó tái diễn ở tất cả các nước văn minh trên thế giới...”. Đồng thời mời các bạn xem Phóng Sự Quốc Tế: Ngày Quốc tế lao động (nguồn link https://youtu.be/hxdKu8pDXhk) . Từ khẳng định của Ăngghen và nội dung đoạn video các bạn vừa xem. Các bạn hãy trả lời các vấn đề sau: - Mối quan hệ giữa giai cấp công nhân và giai cấp vô sản được biểu hiện như thế nào? - Những phương diện nào hình thành nên giai cấp công nhân? - Đặc điểm của giai cấp công nhân là gì?"
+MLN131,5,CQ2.2,"Trong tác phẩm “Tắt đèn” của Ngô Tất Tố có đoạn miêu tả hình ảnh chị Dậu: “Buông tay, chị vội choàng dậy, mở cửa chạy té ra sân. Trời tối như mực và như cái tiền đồ của chị” (Trích Chương XVII, Tắt đèn của Ngô Tất Tố). Thông qua hình ảnh này, bạn có nhìn nhận như thế nào về xã hội lúc bấy giờ?"
+MLN131,5,CQ2.3,"“Khi C. Mác viết Tuyên ngôn của Đảng Cộng sản, năm 1848, trên thế giới chỉ có khoảng 10 - 20 triệu công nhân, tương đương chiếm 2% - 3% số dân toàn cầu và chỉ trong vài lĩnh vực có máy móc. Đến đầu thế kỷ XX, toàn thế giới có 80 triệu công nhân. Năm 2013, lần đầu tiên trong lịch sử có đa số cư dân tham gia vào lực lượng lao động và là người lao động ăn lương. Hiện nay có khoảng 1,6 tỷ người lao động ăn lương, tăng thêm 600 triệu kể từ giữa những năm 1990, hơn 1 tỷ trong số đó là công nhân” (nguồn: https://www.tapchicongsan.org.vn/web/guest/nghien-cu/-/2018/819840/nhung-nhan-thuc-moi-ve-giai-cap-cong-nhan-hien-nay*.aspx). Bạn nhìn nhận như thế nào về thực trạng số lượng của giai cấp công nhân hiện nay?"
+MLN131,6,CQ2.4,Nội dung CQ2.4. Mời các bạn xem đoạn Không thể phủ nhận sứ mệnh lịch sử của giai cấp công nhân (nguồn link: https://youtu.be/u-BN7BYBB4k). Thông qua đoạn video này các em thấy được: a. Quần chúng nhân dân lao động có vai trò gì? b. Nội dung tổng quát sứ mệnh lịch sử của giai cấp công nhân là gì?
+MLN131,6,CQ2.5,"Mời các bạn xem đoạn clip về Chủ nghĩa xã hội không bao giờ lỗi thời trên VTV4 (nguồn link: https://youtu.be/zo0XmiVA30Q) và các bạn cần trả lời các vấn đề sau: - Chủ nghĩa tư bản hiện phổ biến trên toàn cầu, nhưng liên tục phải đối mặt với khủng hoảng...Đó là những khủng hoảng gì? - Ngày nay chủ nghĩa xã hội đã khắc phục được những hạn chế cơ bản, đặc trưng gì từ kinh nghiệm của Liên Xô? - Tăng trưởng kinh tế bỏ qua các vấn đề về môi trường mà các nhà tư bản đã và đang làm đã đúng với mục tiêu mà chủ nghĩa xã hội hướng đến hay chưa? Đâu là mục tiêu cuối cùng của chủ nghĩa xã hội?"
+MLN131,6,CQ2.6.,"Mời các bạn xem đoạn video sau về Vai trò lịch sử của giai cấp công nhân Việt Nam (nguồn clip: https://youtu.be/YgHlIRazuDo). Thông qua đoạn Video trên, các bạn hãy cho biết: - Những phong trào nào đã góp phần tạo nên những chiến công oanh liệt? - Ông Ngọ Duy Hiểu nói rằng: Công nhân tiếp tục là trung tâm của đoàn kết quần chúng lao động? Bạn hiểu câu nói này như thế nào?"
+MLN131,6,CQ2.7.,"Trong “Thư gửi Ủy ban nhân dân các kỳ, tỉnh, huyện và làng” của Chủ tịch Hồ Chí Minh có viết: “Nếu nước độc lập mà dân không hưởng hạnh phúc tự do, thì độc lập cũng chẳng có nghĩa lý gì”? Và mời các bạn xem đoạn Video về Cải cách ruộng đất: Chủ tịch Hồ Chí Minh khóc trước Quốc hội năm 1956 (nguồn link: https://youtu.be/qg_KwLnIae4). Các bạn lý giải các vấn đề sau: - Dựa vào đoạn clip các bạn lý giải vì sao phải tiến hành cải cách ruộng đất? - Các bạn cần phải làm tốt công tác gì trong giai đoạn hiện nay? - Chúng ta cần có những phương hướng ra sao để xây dựng một đất nước Việt Nam phát triển theo hướng công nghiệp?"
+MLN131,6,CQ2.8,"Mời các bạn xem đoạn Video về Việt Nam vươn mình trở thành “con hổ mới” của kinh tế Châu Á (nguồn link: https://youtu.be/5_uHWdLqgZ0). Thông qua đoạn video này, theo các bạn cần có những giải pháp nào để thực hiện được mục tiêu đưa Việt Nam thành một nước công nghiệp theo hướng hiện đại?"
+MLN131,7,CQ3.1,"Có nhận định cho rằng: Sự tan rã của Liên Xô và các nước Đông Âu là sự sụp đổ của chủ nghĩa xã hội. Bằng lý luận và thực tiễn, Anh/Chị hãy trình bày quan điểm của mình về nhận định trên."
+MLN131,7,CQ3.2,"Lênin nhấn mạnh yêu cầu về một xã hội phát triển cao: “Thiết lập một chế độ xã hội cao hơn chủ nghĩa tư bản, nghĩa là nâng cao năng suất lao động và do đó (và nhằm vào mục đích đó) phải tổ chức lao động theo một trình độ tổ chức cao hơn” [V.I Lênin, Toàn tập, Nxb Tiến bộ, 1976, Tâp 36, tr. 228-229]. 1. Tổ chức một nền sản xuất xã hội ở một trình độ cao cần tập trung vào những nhân tố nào? 2. Nhân tố con người là trung tâm tâm của sự phát triển. Hãy làm rõ nhân tố con người xem xét ở những khía cạnh nào? Từ đó phác thảo ra phương hướng phát triển của bản thân."
+MLN131,8,CQ3.3,"Hồ Chí Minh đã nhấn mạnh: “Đặc điểm to nhất là từ một nước nông nghiệp lạc hậu tiến thẳng lên CNXH không phải kinh qua giai đoạn phát triển tư bản chủ nghĩa” [ Hồ Chí Minh: Toàn tập, Nxb. Chính trị quốc gia, H, 2011, t.12, tr. 411] Bằng lý luận và thực tiễn hãy làm rõ: 1. Những thuận lợi và khó khăn của thời kỳ quá độ lên chủ nghĩa xã hội ở Việt nam. 2 Tổng kết thực tiễn “từ một nước nông nghiệp lạc hậu” để lại ý niệm gì khi nhận thức về thời kỳ quá độ?"
+MLN131,8,CQ3.4,Hãy khái quát các thành phần kinh tế của Việt Nam trước năm 1975; các thành phần kinh tế Việt Nam trước năm 1986 và các thành phần kinh tế của Việt Nam hiện nay để làm sáng tỏ thời kỳ quá độ về phương diện kinh tế tất yếu tồn tại nền kinh tế nhiều thành phần.
+MLN131,9,CQ3.5,"Hồ Chí Minh đã nhấn mạnh: “Đặc điểm to nhất là từ một nước nông nghiệp lạc hậu tiến thẳng lên CNXH không phải kinh qua giai đoạn phát triển tư bản chủ nghĩa” [Hồ Chí Minh: Toàn tập, Nxb. Chính trị quốc gia, H, 2011, t.12, tr. 411] Bằng lý luận và thực tiễn hãy làm rõ: 1. Ở Việt Nam thời điểm thực hiện quá độ khi nào?  2. Làm rõ nội hàm của không kinh qua"" (không trải qua) giai đoạn phát triển tư bản chủ nghĩa."""
+MLN131,9,CQ3.6,Trong quá trình cách mạng xã hội chủ nghĩa
+MLN131,10,CQ4.1,Trong cuốn Góp phần phê phán khoa kinh tế chính trị học. C. Mác nhấn mạnh: “Cái cối quay bằng tay đưa lại xã hội có lãnh chúa; cái cối xay chạy bằng hơi nước đưa lại xã hội có nhà tư bản công nghiệp.” Đặt vào trong điều kiện của cuộc cách mạng công nghiệp 4.0 hãy phác thảo ra nền sản xuất ở Việt Nam trong thời kỳ quá độ lên chủ nghĩa xã hội (để luận chứng rằng nó đặt tiền đề tiến lên một xã hội ưu việt.).
+MLN131,10,CQ4.2,"Tại Đại hội Đảng bộ thành phố Hà Nội, ngày 20 tháng 6 năm 1960, Chủ tịch Hồ Chí Minh nhấn mạnh: “Muốn xây dựng chủ nghĩa xã hội, phải có con người xã hội chủ nghĩa và có tư tưởng xã hội chủ nghĩa”. 1. Đặt mình vào vị thế là chủ nhân tương lai của đất nước hãy luận bàn về phương diện con người mới xã hội chủ nghĩa. 2. Nhận diện những lệch chuẩn trong suy nghĩ và hành động của giới trẻ hiện nay trong học tập và lao động."
+MLN131,11,CQ4.3,Vì sao nói dân chủ là một phạm trù lịch sử?
+MLN131,12,CQ4.4,Thông qua những ví dụ thực tiễn để chứng minh sự khác nhau về bản chất giũa dân chủ xã hội chủ nghĩa và dân chủ tư sản?
+MLN131,13,CQ5.1,Vì sao nói nhà nước xã hội chủ nghĩa là nhà nước kiểu mới trong lịch sử? Và tính tất yếu trong việc xây dựng nhà nước kiểu mới này là gì?
+MLN131,13,CQ5.2,"Giữa dân chủ và tập trung, dân chủ và tự do, dân chủ và pháp luật có mâu thuẫn với nhau không? Tại sao?"
+MLN131,14,CQ5.3,Sự khác nhau giữa hai hình thức dân chủ trực tiếp và gián tiếp là gì? ở Việt Nam hiện nay đang thực hiện hình thức dân chủ nào?
+MLN131,15,CQ5.4,"Điều 4 Hiến pháp nước Cộng hoà Xã hội chủ nghĩa Việt Nam có ghi “Đảng cộng sản Việt Nam ...giữ vai trò lãnh đạo nhà Nước và xã  hội”. hãy giải thích quan điểm trên? từ đó phản biện luận điểm chỉ có “đa nguyên, đa đảng” mới có thể mang lại một nền dân chủ thực sự”."""
+MLN131,15,CQ5.5,"Trong bài viết Một số vấn đề lý luận và thực tiễn về chủ nghĩa xã hội và con đường đi lên chủ nghĩa xã hội ở Việt Nam"""
+MLN131,15,CQ5.6,"Anh chị hiểu thế nào về chủ trương: “dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng” trong quá trình xây dựng nền dân chủ xã hội chủ nghĩa và nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam?"
+MLN131,17,CQ6.1,"Trong cơ cấu xã hội, nhóm cơ cấu nào có vị trí quan trọng hàng đầu, chi phối các loại hình cơ cấu xã hội khác? Vì sao?"
+MLN131,18,CQ6.2,"Từ thực tiễn về sự biến đổi nhanh chóng của cơ cấu lao động, việc làm. Là một sinh viên trong thời đại ngày nay, các bạn hãy đề xuất những kỹ năng cần có của một lao động trong thời đại mới."
+MLN131,18,CQ6.3,"Trong thời kỳ quá độ lên chủ nghĩa xã hội vì sao phải thực hiện liên minh giai cấp, tầng lớp?"
+MLN131,19,CQ7.1,"Văn kiện Đại hội Đảng lần thứ IX đã khẳng định: “Trong thời kỳ quá độ, có nhiều hình thức sở hữu, nhiều thành phần kinh tế, giai cấp, tầng lớp xã hội khác nhau, nhưng cơ cấu, tính chất, vị trí của các giai cấp trong xã hội ta đã thay đổi nhiều cùng với những biến đổi về kinh tế, xã hội” [Đảng Cộng sản Việt Nam: Văn kiện Đại hội đại biểu toàn quốc lần thứ IX, Nxb. Chính trị quốc gia, HN, 2001, tr.85.] 1. Từ nhận định trên hãy làm sáng tỏ đặc điểm, vị trí của các giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội. 2. Các phương hướng cơ bản để xây dựng cơ cấu xã hội – giai cấp và tăng cường liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam."
+MLN131,20,CQ7.2,"Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, cơ cấu xã hội – giai cấp vận động biến đổi theo những quy luật nào?"
+MLN131,20,CQ7.3,"Làm rõ trách nhiệm của thanh niên, sinh viên trong việc góp phần củng cố khối liên minh giai cấp, tầng lớp và xây dựng khối đại đoàn kết toàn dân."
+MLN131,21,CQ7.4,Làm thế nào để phân định rõ ràng dân tộc theo nghĩa rộng và nghĩa hẹp?
+MLN131,21,CQ7.5,"Trong xu thế toàn cầu hóa hiện nay, nước nào được hiểu là nước lớn có đặc quyền hơn nước khác?"
+MLN131,22,CQ8.1,"Ở Việt Nam, dân tộc Kinh chiếm đa số, có nhiều học giả cho rằng người Kinh đã chiếm dụng văn hóa, kinh tế và chính trị của toàn quốc gia - dân tộc làm của riêng. Hãy tìm hiểu đặc điểm dân tộc và chính sách dân tộc của Nhà nước ta và giải thích vấn đề đó."
+MLN131,22,CQ8.2,"Chúng ta đề cao quyền tự quyết của các dân tộc, vậy tại sao Việt Nam có những dân tộc muốn tách ra thành lập quốc gia - dân tộc độc lập như Vương quốc Khmer Krom"""
+MLN131,23,CQ8.3,"Theo các bạn, tại sao các tôn giáo khác nhau lại có những ý thức hệ khác nhau, thậm chí đối lập nhau?"
+MLN131,23,CQ8.4,"Chủ nghĩa Mác - Lênin là chủ nghĩa duy vật biện chứng, vậy có phải là sẽ xóa bỏ hoàn toàn tôn giáo hay không?"
+MLN131,24,CQ8.5,"Việt Nam là quốc gia đa tôn giáo, vậy đã từng có chiến tranh tôn giáo ở Việt Nam hay không? Tại sao?"
+MLN131,25,CQ9.1,"Một số quốc gia thường xuyên lên án Việt Nam đàn áp tôn giáo, không có tự do tôn giáo, đàn áp các dân tộc thiểu số ly khai, các bạn hãy đưa ra ý kiến của mình và thực chứng cho nó."
+MLN131,27,CQ9.2,Sẽ ra sao nếu một xã hội có đích đến của tình yêu không phải là hôn nhân và gia đình? Và có phải tình yêu là mối quan hệ quan trọng nhất trong gia đình không?
+MLN131,27,CQ9.3,Hãy tìm hiểu về đại gia đình Hope School của FPT. Ở đây các chức năng của gia đình có được thực hiện đầy đủ và tốt nhất hay không?
+MLN131,28,CQ10.1,"Hôn nhân một vợ một chồng đã xuất hiện từ lâu trong lịch sử xã hội loài người, nhưng trong chủ nghĩa xã hội, hôn nhân một vợ một chồng khác gì với các xã hội trước đó?"
+MLN131,29,CQ10.2,"Trong thời đại hiện nay ở Việt Nam, sự phát triển của kinh tế đã dẫn đến hình thành và phát triển gia đình hạt nhân, việc đó có làm phá vỡ các giá trị truyền thống gia đình Việt hay không?"
+MLN131,29,CQ10.3,"Với lối sống hiện đại, bận rộn, nhu cầu về hôn nhân, gia đình dần trở thành áp lực cho một số người trẻ, vì vậy họ không muốn kết hôn, không muốn lập gia đình. Các bạn nghĩ sao về quan điểm nảy?"
+VNR202,2,CQ1.1,Tại sao các phong trào yêu nước trước khi Đảng Cộng sản Việt Nam ra đời đều thất bại?
+VNR202,3,CQ1.2,Nguyễn Ái Quốc đã chuẩn bị những gì cho sự ra đời của Đảng Cộng sản Việt Nam?
+VNR202,3,CQ1.3,Vai trò và đường lối chính trị của Hội Việt Nam cách mạng thanh niên và sự ra đời của ba tổ chức cộng sản ở Việt Nam?
+VNR202,4,CQ2.1,Điều gì đã thúc đẩy Nguyễn Ái Quốc thành lập Đảng Cộng sản Việt Nam vào tháng 2 năm 1930?
+VNR202,4,CQ2.2,Cương lĩnh chính trị đầu tiên của Đảng Cộng sản Việt Nam có những nội dung gì? Tại sao nó lại được xem là một bước ngoặt quan trọng trong lịch sử của Đảng và cách mạng Việt Nam?
+VNR202,5,CQ2.3,Tại sao việc ra đời của Đảng Cộng sản Việt Nam lại có ý nghĩa quan trọng đối với lịch sử dân tộc Việt Nam?
+VNR202,5,CQ2.4,Tại sao phong trào cách mạng 1930-1931 lại thất bại? Những yếu tố nào đã ảnh hưởng đến sự thất bại của phong trào này?
+VNR202,6,CQ2.5,Điều gì đã thúc đẩy sự phục hồi của phong trào cách mạng trong giai đoạn 1932-1935? Tại sao giai đoạn này lại được xem là một bước ngoặt quan trọng trong lịch sử cách mạng của Việt Nam?
+VNR202,7,CQ3.1,Phong trào dân chủ 1936-1939 và các phong trào cách mạng khác trước đó có những điểm tương đồng và khác biệt gì?
+VNR202,8,CQ3.2,Phong trào dân chủ 1936-1939 có ý nghĩa gì đối với lịch sử cách mạng của Việt Nam?
+VNR202,8,CQ3.3,"Bối cảnh thế giới đã tác động như thế nào đến việc thay đổi chủ trương, sách lược của Đảng Cộng sản Đông Dương giai đoạn 1939-1945?"
+VNR202,8,CQ3.4,"Vì sao nói chỉ thị Nhật - Pháp bắn nhau và hành động của chúng ta"" chứng tỏ sự nhạy bén"
+VNR202,9,CQ3.5,Những yếu tố nào đã tạo nên thời cơ cho cách mạng tháng Tám?
+VNR202,10,CQ4.1,Những bài học kinh nghiệm của Cách mạng Tháng 8 năm 1945 thể hiện như thế nào?
+VNR202,11,CQ4.2,Nội dung và ý nghĩa của bản Chỉ thị Kháng chiến kiến quốc ngày 25/11/1945 được thể hiện như thế nào?
+VNR202,11,CQ4.3,"Vì sao nói: Sau cách mạng tháng Tám năm 1945, vận mệnh nước ta như ngàn cân treo sợi tóc?"
+VNR202,12,CQ4.4,Phân tích những văn kiện thể hiện nội dung đường lối kháng chiến của Đảng ta từ năm 1946?
+VNR202,12,CQ4.5,"Ngày 19/12/1946, Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến. Vậy hãy làm rõ : Tại sao Ấn Độ họ đấu tranh không dùng bạo lực mà vẫn giành được độc lập nhưng Việt Nam phải dùng bạo lực?"
+VNR202,13,CQ5.1,Chứng minh đường lối lãnh đạo đúng đắn của Đảng ta đã giành được thắng lợi trong kháng chiến chống thực dân Pháp giai đoạn 1951 -1954 như thế nào?
+VNR202,13,CQ5.2,"Năm 1951, tại sao Đảng ta ra hoạt động công khai?"
+VNR202,14,CQ5.3,"Hãy làm rõ câu nói của Chủ tịch Hồ Chí Minh: Lần đầu tiên trong lịch sử, một nước thuộc địa nhỏ yếu đã đánh thắng một nước thực dân hùng mạnh?"
+VNR202,15,CQ5.4,Tại sao Mỹ xâm lược miền Nam Việt Nam? Hãy làm rõ đặc điểm lớn nhất trong giai đoạn này là một Đảng phải lãnh đạo 2 cuộc cách mạng khác nhau chưa có tiền lệ trên thế giới như thế nào?
+VNR202,15,CQ5.5,Việc cải cách ruộng đất năm 1956 Đảng ta đã mắc sai lầm như thế nào?
+VNR202,16,CQ6.1,"Khi Mỹ vào miền Nam, Đảng ta đã kịp thời chỉ đạo đường lối kháng chiến như thế nào ở hai miền Nam, Bắc?"
+VNR202,16,CQ6.2,Điều gì đã khiến Mỹ phải chấp nhận bắt đầu đàm phán với ta tại Pari 1969?
+VNR202,16,CQ6.3,"Năm 1967, chủ tịch Hồ Chí Minh từng dự đoán: Ở Việt Nam"
+VNR202,17,CQ6.4,Đại thắng Mùa Xuân 1975 có ý nghĩa như thế nào đối với đất nước Việt Nam?
+VNR202,18,CQ6.4,Đại thắng Mùa Xuân 1975 có ý nghĩa như thế nào đối với đất nước Việt Nam?
+VNR202,19,CQ7.1,"Có quan điểm cho rằng, sau 1975, miền Bắc đưa người trong chính quyền của mình ép buộc Tổng tuyển cử thống nhất miền Nam. Bằng các dữ kiện lịch sử, bạn hãy đưa ra nhận định của mình về quan điểm trên."
+VNR202,20,CQ7.2,"Những cuộc xé rào, đột phá trong quản lý kinh tế nào đã đặt những bước chân đầu tiên cho con đường đổi mới?"
+VNR202,20,CQ7.3,"Trong giai đoạn 1975 - 1981 Việt Nam bị thế giới lên án, bao vây cấm vận, Trung Quốc đánh phá vì cho rằng nước ta đã xâm lược Campuchia"". Từ các dữ kiện lịch sử và đường lối của Đảng Cộng sản Việt Nam"
+VNR202,21,CQ7.4,"Giai đoạn từ đại hội V (1982) đến đêm trước đổi mới (1986), nhận thức của Đảng về đổi mới kinh tế đã có những bước phát triển gì?"
+VNR202,22,CQ8.1,Vì sao công cuộc cải cách về giá - lương - tiền lại là nguyên nhân trực tiếp để dẫn tới quyết định đổi mới toàn diện nền kinh tế Việt Nam tại đại hội đảng VI? bài học gì rút ra từ cuộc cải cách xương máu này?
+VNR202,22,CQ8.2,Vì sao nói đại hội Đảng lần thứ VI là đại hội “đổi mới”?
+VNR202,23,CQ8.3,Tại sao lại coi Nghị quyết số 10-NQ/TW (hay còn gọi là Khoán 10) được coi là cú hích cho sản xuất nông nghiệp.
+VNR202,23,CQ8.4,Quá trình đổi mới nhận thức từ mô hình “chuyên chính vô sản” đến “làm chủ tập thể” và “Nhà nước pháp quyền xã hội chủ nghĩa ở Việt Nam”  tại đại hội VII.
+VNR202,23,CQ8.5,Vì sao nghị quyết trung ương 5 khóa VIII được coi như là “tuyên ngôn văn hóa của Đảng”?
+VNR202,24,CQ8.6,"Ý nghĩa của việc thay đổi quan điểm của Đảng tại đại hội IX về đối ngoại đa phương hóa, đa dạng hóa từ khi chuyển từ “muốn là bạn” sang“sẵn sàng là bạn”, là “đối tác tin cậy của các nước trong cộng đồng quốc tế”?"
+VNR202,25,CQ9.1,"Tại sao đến đại hội lần thứ X của Đảng, chúng ta lại phát động phong trào học tập và làm theo tấm gương đạo đức Hồ Chí Minh."
+VNR202,25,CQ9.2,"Tại sao Đảng Cộng sản Việt Nam lại xác định công nghiệp hóa, hiện đại hóa gắn liền với kinh tế tri thức?"
+VNR202,26,CQ9.3,Phân tích vai trò lãnh đạo của Đảng Cộng sản Việt Nam thể hiện trong các văn kiện Đại hội XI?
+VNR202,27,CQ9.4,"Phân tích những điểm mới trong Nghị quyết Đại hội Đảng lần thứ XII về công nghiệp hóa, hiện đại hóa gắn với phát triển kinh tế tri thức?"
+VNR202,28,CQ10.1,"Tại Đại hội XIII, TBT Nguyễn Phú Trọng đã nhận định: Đất nước ta chưa bao giờ có được cơ đồ"
+VNR202,29,CQ10.2,Liệu có phải một Đảng “đẻ ra” tham nhũng?
+VNR202,29,CQ10.3,"Trải qua hơn 35 năm đổi mới, Đảng ta đã trưởng thành hơn do biết thắng thắn nhận ra sai lầm, hạn chế và khắc phục nó. Trong giai đoạn tới trước sự biến động của thế giới và trong nước, Đảng cần làm gì để tiếp tục đưa Việt Nam tiến lên?"
+VNR202,30,CQ10.4,Hãy tóm tắt các thắng lợi vĩ đại của cách mạng Việt Nam và các bài học lớn cần rút ra.

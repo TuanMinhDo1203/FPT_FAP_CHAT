@@ -1,0 +1,218 @@
+[
+  {
+    "term": "Fall2023",
+    "course_name": "Traditional music instrument ",
+    "course_code": "DSA103",
+    "avg_score": 6.5,
+    "status": "Passed",
+    "summary": "{'Assignment': {'weight': '15.0 %', 'value': '8'}, 'Participation': {'weight': '15.0 %', 'value': '7'}, 'Final': {'weight': '70.0 %', 'value': '6'}, 'Final Resit': {'weight': '70.0 %', 'value': None}}"
+  },
+  {
+    "term": "Fall2023",
+    "course_name": "Summit1 ",
+    "course_code": "ENT403",
+    "avg_score": 0.0,
+    "status": "Is Exempt",
+    "summary": "{}"
+  },
+  {
+    "term": "Fall2023",
+    "course_name": "Summit2 ",
+    "course_code": "ENT503",
+    "avg_score": 0.0,
+    "status": "Is Exempt",
+    "summary": "{}"
+  },
+  {
+    "term": "Fall2023",
+    "course_name": "Orientation and General Training Program ",
+    "course_code": "OTP101",
+    "avg_score": 6.8,
+    "status": "Passed",
+    "summary": "{'Final': {'weight': '100.0 %', 'value': '6.8'}, 'Final Resit': {'weight': '100.0 %', 'value': None}}"
+  },
+  {
+    "term": "Fall2023",
+    "course_name": "Vovinam 1 ",
+    "course_code": "VOV114",
+    "avg_score": 5.0,
+    "status": "Passed",
+    "summary": "{'Final exam': {'weight': '100.0 %', 'value': '5'}, 'Final exam Resit': {'weight': '100.0 %', 'value': None}}"
+  },
+  {
+    "term": "Spring2024",
+    "course_name": "Introduction to Computer Science ",
+    "course_code": "CSI105",
+    "avg_score": 7.7,
+    "status": "Passed",
+    "summary": "{'Group Presentation': {'weight': '10.0 %', 'value': '8.5'}, 'Lab': {'weight': '20.0 %', 'value': '7.9'}, 'Progress Test': {'weight': '30.0 %', 'value': '9.9'}, 'Final exam': {'weight': '40.0 %', 'value': '5.7'}, 'Final exam Resit': {'weight': '40.0 %', 'value': None}}"
+  },
+  {
+    "term": "Spring2024",
+    "course_name": "Discrete mathematics ",
+    "course_code": "MAD101",
+    "avg_score": 7.4,
+    "status": "Passed",
+    "summary": "{'Assignment or exercises': {'weight': '30.0 %', 'value': '8.7'}, 'Progress test': {'weight': '30.0 %', 'value': '8.8'}, 'Final exam': {'weight': '40.0 %', 'value': '5.4'}, 'Final exam Resit': {'weight': '40.0 %', 'value': None}}"
+  },
+  {
+    "term": "Spring2024",
+    "course_name": "Mathematics for Engineering ",
+    "course_code": "MAE101",
+    "avg_score": 6.9,
+    "status": "Passed",
+    "summary": "{'Assignment / Excercise': {'weight': '30.0 %', 'value': '9'}, 'Progress test': {'weight': '30.0 %', 'value': '7.3'}, 'Final exam': {'weight': '40.0 %', 'value': '5'}, 'Final exam Resit': {'weight': '40.0 %', 'value': None}}"
+  },
+  {
+    "term": "Spring2024",
+    "course_name": "Programming Fundamentals with Python ",
+    "course_code": "PFP191",
+    "avg_score": 6.2,
+    "status": "Passed",
+    "summary": "{'Lab': {'weight': '10.0 %', 'value': '7'}, 'Progress Test': {'weight': '10.0 %', 'value': '5'}, 'Assignment': {'weight': '20.0 %', 'value': '6'}, 'Practical Exam': {'weight': '30.0 %', 'value': '4'}, 'Final Exam': {'weight': '30.0 %', 'value': '8.6'}, 'Final Exam Resit': {'weight': '30.0 %', 'value': None}}"
+  },
+  {
+    "term": "Spring2024",
+    "course_name": "Academic Skills for University Success ",
+    "course_code": "SSL101c",
+    "avg_score": 6.9,
+    "status": "Passed",
+    "summary": "{'theory_exam': '6.7', 'practise_exam': None, 'bonus': '0.2'}"
+  },
+  {
+    "term": "Spring2024",
+    "course_name": "Vovinam 2 ",
+    "course_code": "VOV124",
+    "avg_score": 6.0,
+    "status": "Passed",
+    "summary": "{'Final exam': {'weight': '100.0 %', 'value': '6'}, 'Final exam Resit': {'weight': '100.0 %', 'value': None}}"
+  },
+  {
+    "term": "Summer2024",
+    "course_name": "Artificial Intelligence ",
+    "course_code": "AIG202c",
+    "avg_score": 8.3,
+    "status": "Passed",
+    "summary": "{'theory_exam': '8', 'practise_exam': None, 'bonus': '0.25'}"
+  },
+  {
+    "term": "Summer2024",
+    "course_name": "Computer Organization and Architecture ",
+    "course_code": "CEA201",
+    "avg_score": 7.7,
+    "status": "Passed",
+    "summary": "{'Assignment': {'weight': '30.0 %', 'value': '6.8'}, 'Exercises': {'weight': '30.0 %', 'value': '8.3'}, 'Final exam': {'weight': '40.0 %', 'value': '8'}, 'Final exam Resit': {'weight': '40.0 %', 'value': None}}"
+  },
+  {
+    "term": "Summer2024",
+    "course_name": "Data Structures and Algorithm with Python ",
+    "course_code": "CSD203",
+    "avg_score": 7.2,
+    "status": "Passed",
+    "summary": "{'Assignment 1': {'weight': '10.0 %', 'value': '7.5'}, 'Assignment 2': {'weight': '10.0 %', 'value': '8.5'}, 'Progress test 1': {'weight': '10.0 %', 'value': '7.8'}, 'Progress test 2': {'weight': '10.0 %', 'value': '7.3'}, 'Practical exam': {'weight': '30.0 %', 'value': '5.3'}, 'Final exam': {'weight': '30.0 %', 'value': '8.2'}, 'Final exam Resit': {'weight': '30.0 %', 'value': None}}"
+  },
+  {
+    "term": "Summer2024",
+    "course_name": "Database Systems ",
+    "course_code": "DBI202",
+    "avg_score": 7.5,
+    "status": "Passed",
+    "summary": "{'Lab': {'weight': '10.0 %', 'value': '8.5'}, 'Progress test': {'weight': '10.0 %', 'value': '7.9'}, 'Assignment': {'weight': '20.0 %', 'value': '7'}, 'Final exam': {'weight': '30.0 %', 'value': '8'}, 'Final exam Resit': {'weight': '30.0 %', 'value': None}, 'Practical Exam': {'weight': '30.0 %', 'value': '6.8'}}"
+  },
+  {
+    "term": "Summer2024",
+    "course_name": "Communication and In-Group Working Skills ",
+    "course_code": "SSG104",
+    "avg_score": 6.9,
+    "status": "Passed",
+    "summary": "{'Quiz': {'weight': '5.0 %', 'value': '8'}, 'Participation': {'weight': '10.0 %', 'value': '6'}, 'Activity': {'weight': '15.0 %', 'value': '5.3'}, 'Group asm': {'weight': '20.0 %', 'value': '7.4'}, 'Group Project': {'weight': '30.0 %', 'value': '6.8'}, 'Final exam': {'weight': '20.0 %', 'value': '8'}, 'Final exam Resit': {'weight': '20.0 %', 'value': None}}"
+  },
+  {
+    "term": "Summer2024",
+    "course_name": "Vovinam 3 ",
+    "course_code": "VOV134",
+    "avg_score": 7.0,
+    "status": "Passed",
+    "summary": "{'Final exam': {'weight': '100.0 %', 'value': '7'}, 'Final exam Resit': {'weight': '100.0 %', 'value': None}}"
+  },
+  {
+    "term": "Fall2024",
+    "course_name": "AI, DS with Python & SQL ",
+    "course_code": "ADY201m",
+    "avg_score": 8.6,
+    "status": "Passed",
+    "summary": "{'Assignment': {'weight': '10.0 %', 'value': '9'}, 'Progress test 1': {'weight': '10.0 %', 'value': '9.4'}, 'Progress test 2': {'weight': '10.0 %', 'value': '9'}, 'Lab': {'weight': '30.0 %', 'value': '9.3'}, 'Final exam': {'weight': '40.0 %', 'value': '7.6'}, 'Final exam Resit': {'weight': '40.0 %', 'value': None}}"
+  },
+  {
+    "term": "Fall2024",
+    "course_name": "Ethics in IT ",
+    "course_code": "ITE303c",
+    "avg_score": 9.2,
+    "status": "Passed",
+    "summary": "{'theory_exam': '8.2', 'practise_exam': None, 'bonus': '1'}"
+  },
+  {
+    "term": "Fall2024",
+    "course_name": "Elementary Japanese 1-A1.1 ",
+    "course_code": "JPD113",
+    "avg_score": 8.9,
+    "status": "Passed",
+    "summary": "{'Tham gia giờ học tại giảng đường': {'weight': '10.0 %', 'value': '10'}, 'Kiểm tra nhỏ (small test)': {'weight': '20.0 %', 'value': '9'}, 'Kiểm tra giữa kì': {'weight': '30.0 %', 'value': '9.3'}, 'Thi cuối kỳ': {'weight': '40.0 %', 'value': '8.2'}, 'Thi cuối kỳ Resit': {'weight': '40.0 %', 'value': None}}"
+  },
+  {
+    "term": "Fall2024",
+    "course_name": "Advanced mathematics ",
+    "course_code": "MAI391",
+    "avg_score": 8.4,
+    "status": "Passed",
+    "summary": "{'Computer Project': {'weight': '20.0 %', 'value': '9.4'}, 'Progress tests': {'weight': '20.0 %', 'value': '8.8'}, 'Assignments': {'weight': '30.0 %', 'value': '8.1'}, 'Final exam': {'weight': '30.0 %', 'value': '7.8'}, 'Final exam Resit': {'weight': '30.0 %', 'value': None}}"
+  },
+  {
+    "term": "Fall2024",
+    "course_name": "Statistics & Probability ",
+    "course_code": "MAS291",
+    "avg_score": 8.6,
+    "status": "Passed",
+    "summary": "{'Computer Project': {'weight': '15.0 %', 'value': '9'}, 'Assignment': {'weight': '20.0 %', 'value': '10'}, 'Progress Test': {'weight': '30.0 %', 'value': '9'}, 'Final exam': {'weight': '35.0 %', 'value': '7.2'}, 'Final exam Resit': {'weight': '35.0 %', 'value': None}}"
+  },
+  {
+    "term": "Spring2025",
+    "course_name": "Machine Learning ",
+    "course_code": "AIL303m",
+    "avg_score": 8.3,
+    "status": "Passed",
+    "summary": "{'Progress test 1': {'weight': '5.0 %', 'value': '8.8'}, 'Progress test 2': {'weight': '5.0 %', 'value': '8.8'}, 'Progress test 3': {'weight': '5.0 %', 'value': '8.9'}, 'Progress test 4': {'weight': '5.0 %', 'value': '8.9'}, 'Lab 1': {'weight': '10.0 %', 'value': '9.7'}, 'Lab 2': {'weight': '10.0 %', 'value': '4'}, 'Mini capstone': {'weight': '30.0 %', 'value': '8.5'}, 'Final exam': {'weight': '30.0 %', 'value': '8.6'}, 'Final exam Resit': {'weight': '30.0 %', 'value': None}}"
+  },
+  {
+    "term": "Spring2025",
+    "course_name": "Computer Vision ",
+    "course_code": "CPV301",
+    "avg_score": 8.5,
+    "status": "Passed",
+    "summary": "{'Lab': {'weight': '10.0 %', 'value': '8.8'}, 'Progress Test': {'weight': '10.0 %', 'value': '8.6'}, 'Practical Exam': {'weight': '20.0 %', 'value': '8.5'}, 'Assignment': {'weight': '30.0 %', 'value': '8.5'}, 'Final Exam': {'weight': '30.0 %', 'value': '8.4'}, 'Final Exam Resit': {'weight': '30.0 %', 'value': None}}"
+  },
+  {
+    "term": "Spring2025",
+    "course_name": "AI-DS Project ",
+    "course_code": "DAP391m",
+    "avg_score": 8.9,
+    "status": "Passed",
+    "summary": "{'Progress test': {'weight': '10.0 %', 'value': '9.3'}, '5Labs': {'weight': '30.0 %', 'value': '8.5'}, 'Assignment': {'weight': '30.0 %', 'value': '9.4'}, 'Final exam': {'weight': '30.0 %', 'value': '8.6'}, 'Final exam Resit': {'weight': '30.0 %', 'value': None}}"
+  },
+  {
+    "term": "Spring2025",
+    "course_name": "Japanese Elementary 1-A1.2 ",
+    "course_code": "JPD123",
+    "avg_score": 7.6,
+    "status": "Passed",
+    "summary": "{'Tham gia giờ học tại giảng đường': {'weight': '10.0 %', 'value': '8.5'}, 'Kiểm tra nhỏ (small test)': {'weight': '20.0 %', 'value': '8.6'}, 'Kiểm tra giữa kỳ': {'weight': '30.0 %', 'value': '8.5'}, 'Thi cuối kỳ': {'weight': '40.0 %', 'value': '6.4'}, 'Thi cuối kỳ Resit': {'weight': '40.0 %', 'value': '6.3'}}"
+  },
+  {
+    "term": "Spring2025",
+    "course_name": "Introduction to Software Engineering ",
+    "course_code": "SWE201c",
+    "avg_score": 9.1,
+    "status": "Passed",
+    "summary": "{'PE': {'weight': '40.0 %', 'value': '7.7'}, 'PE Resit': {'weight': '40.0 %', 'value': '8'}, 'TE': {'weight': '60.0 %', 'value': '7.2'}, 'TE Resit': {'weight': '60.0 %', 'value': '8.2'}}"
+  }
+]

@@ -1,0 +1,168 @@
+﻿student_id,term,course_name,course_code,category,item,weight,value
+DE190340,Fall2023,Traditional music instrument ,DSA103,Assignment,Assignment,15.0 %,8
+DE190340,Fall2023,Traditional music instrument ,DSA103,Participation,Participation,15.0 %,7
+DE190340,Fall2023,Traditional music instrument ,DSA103,Final,Final,70.0 %,6
+DE190340,Fall2023,Traditional music instrument ,DSA103,Final Resit,Final Resit,70.0 %,
+DE190340,Fall2023,Orientation and General Training Program ,OTP101,Final,Final,100.0 %,6.8
+DE190340,Fall2023,Orientation and General Training Program ,OTP101,Final Resit,Final Resit,100.0 %,
+DE190340,Fall2023,Vovinam 1 ,VOV114,Final exam,Final exam,100.0 %,5
+DE190340,Fall2023,Vovinam 1 ,VOV114,Final exam Resit,Final exam Resit,100.0 %,
+DE190340,Spring2024,Introduction to Computer Science ,CSI105,Group Presentation,Group Presentation 1,5.0 %,9
+DE190340,Spring2024,Introduction to Computer Science ,CSI105,Group Presentation,Group Presentation 2,5.0 %,8
+DE190340,Spring2024,Introduction to Computer Science ,CSI105,Lab,Lab 1,10.0 %,7.3
+DE190340,Spring2024,Introduction to Computer Science ,CSI105,Lab,Lab 2,10.0 %,8.5
+DE190340,Spring2024,Introduction to Computer Science ,CSI105,Progress Test,Progress Test 1,10.0 %,9.8
+DE190340,Spring2024,Introduction to Computer Science ,CSI105,Progress Test,Progress Test 2,10.0 %,10
+DE190340,Spring2024,Introduction to Computer Science ,CSI105,Progress Test,Progress Test 3,10.0 %,10
+DE190340,Spring2024,Introduction to Computer Science ,CSI105,Final exam,Final exam,40.0 %,5.7
+DE190340,Spring2024,Introduction to Computer Science ,CSI105,Final exam Resit,Final exam Resit,40.0 %,
+DE190340,Spring2024,Discrete mathematics ,MAD101,Assignment or exercises,Assignment or exercises 1,10.0 %,8.6
+DE190340,Spring2024,Discrete mathematics ,MAD101,Assignment or exercises,Assignment or exercises 2,10.0 %,8.8
+DE190340,Spring2024,Discrete mathematics ,MAD101,Assignment or exercises,Assignment or exercises 3,10.0 %,8.6
+DE190340,Spring2024,Discrete mathematics ,MAD101,Progress test,Progress test 1,10.0 %,8.5
+DE190340,Spring2024,Discrete mathematics ,MAD101,Progress test,Progress test 2,10.0 %,9.5
+DE190340,Spring2024,Discrete mathematics ,MAD101,Progress test,Progress test 3,10.0 %,8.4
+DE190340,Spring2024,Discrete mathematics ,MAD101,Final exam,Final exam,40.0 %,5.4
+DE190340,Spring2024,Discrete mathematics ,MAD101,Final exam Resit,Final exam Resit,40.0 %,
+DE190340,Spring2024,Mathematics for Engineering ,MAE101,Assignment / Excercise,Assignment / Excercise 1,10.0 %,9
+DE190340,Spring2024,Mathematics for Engineering ,MAE101,Assignment / Excercise,Assignment / Excercise 2,10.0 %,9
+DE190340,Spring2024,Mathematics for Engineering ,MAE101,Assignment / Excercise,Assignment / Excercise 3,10.0 %,9
+DE190340,Spring2024,Mathematics for Engineering ,MAE101,Progress test,Progress test 1,10.0 %,6.5
+DE190340,Spring2024,Mathematics for Engineering ,MAE101,Progress test,Progress test 2,10.0 %,7.5
+DE190340,Spring2024,Mathematics for Engineering ,MAE101,Progress test,Progress test 3,10.0 %,8
+DE190340,Spring2024,Mathematics for Engineering ,MAE101,Final exam,Final exam,40.0 %,5
+DE190340,Spring2024,Mathematics for Engineering ,MAE101,Final exam Resit,Final exam Resit,40.0 %,
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Lab,Lab 1,2.0 %,8
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Lab,Lab 2,2.0 %,5
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Lab,Lab 3,2.0 %,7
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Lab,Lab 4,2.0 %,7
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Lab,Lab 5,2.0 %,8
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Progress Test,Progress Test 1,5.0 %,5
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Progress Test,Progress Test 2,5.0 %,5
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Assignment,Assignment 1,10.0 %,5
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Assignment,Assignment 2,10.0 %,7
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Practical Exam,Practical Exam,30.0 %,4
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Final Exam,Final Exam,30.0 %,8.6
+DE190340,Spring2024,Programming Fundamentals with Python ,PFP191,Final Exam Resit,Final Exam Resit,30.0 %,
+DE190340,Spring2024,Vovinam 2 ,VOV124,Final exam,Final exam,100.0 %,6
+DE190340,Spring2024,Vovinam 2 ,VOV124,Final exam Resit,Final exam Resit,100.0 %,
+DE190340,Summer2024,Computer Organization and Architecture ,CEA201,Assignment,Assignment 1,15.0 %,5
+DE190340,Summer2024,Computer Organization and Architecture ,CEA201,Assignment,Assignment 2,15.0 %,8.5
+DE190340,Summer2024,Computer Organization and Architecture ,CEA201,Exercises,Exercises 1,7.5 %,8
+DE190340,Summer2024,Computer Organization and Architecture ,CEA201,Exercises,Exercises 2,7.5 %,8.6
+DE190340,Summer2024,Computer Organization and Architecture ,CEA201,Exercises,Exercises 3,7.5 %,8.8
+DE190340,Summer2024,Computer Organization and Architecture ,CEA201,Exercises,Exercises 4,7.5 %,7.8
+DE190340,Summer2024,Computer Organization and Architecture ,CEA201,Final exam,Final exam,40.0 %,8
+DE190340,Summer2024,Computer Organization and Architecture ,CEA201,Final exam Resit,Final exam Resit,40.0 %,
+DE190340,Summer2024,Data Structures and Algorithm with Python ,CSD203,Assignment 1,Assignment 1,10.0 %,7.5
+DE190340,Summer2024,Data Structures and Algorithm with Python ,CSD203,Assignment 2,Assignment 2,10.0 %,8.5
+DE190340,Summer2024,Data Structures and Algorithm with Python ,CSD203,Progress test 1,Progress test 1,10.0 %,7.8
+DE190340,Summer2024,Data Structures and Algorithm with Python ,CSD203,Progress test 2,Progress test 2,10.0 %,7.3
+DE190340,Summer2024,Data Structures and Algorithm with Python ,CSD203,Practical exam,Practical exam,30.0 %,5.3
+DE190340,Summer2024,Data Structures and Algorithm with Python ,CSD203,Final exam,Final exam,30.0 %,8.2
+DE190340,Summer2024,Data Structures and Algorithm with Python ,CSD203,Final exam Resit,Final exam Resit,30.0 %,
+DE190340,Summer2024,Database Systems ,DBI202,Lab,Lab 1,2.0 %,8
+DE190340,Summer2024,Database Systems ,DBI202,Lab,Lab 2,2.0 %,8
+DE190340,Summer2024,Database Systems ,DBI202,Lab,Lab 3,2.0 %,9
+DE190340,Summer2024,Database Systems ,DBI202,Lab,Lab 4,2.0 %,8.5
+DE190340,Summer2024,Database Systems ,DBI202,Lab,Lab 5,2.0 %,9
+DE190340,Summer2024,Database Systems ,DBI202,Progress test,Progress test 1,5.0 %,7.6
+DE190340,Summer2024,Database Systems ,DBI202,Progress test,Progress test 2,5.0 %,8.2
+DE190340,Summer2024,Database Systems ,DBI202,Assignment,Assignment,20.0 %,7
+DE190340,Summer2024,Database Systems ,DBI202,Final exam,Final exam,30.0 %,8
+DE190340,Summer2024,Database Systems ,DBI202,Final exam Resit,Final exam Resit,30.0 %,
+DE190340,Summer2024,Database Systems ,DBI202,Practical Exam,Practical Exam,30.0 %,6.8
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Quiz,Quiz,5.0 %,8
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Participation,Participation,10.0 %,6
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Activity,Activity 1,5.0 %,1
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Activity,Activity 2,5.0 %,9
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Activity,Activity 3,5.0 %,6
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Group asm,Group asm 1,10.0 %,8
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Group asm,Group asm 2,10.0 %,6.8
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Group Project,Group Project 1,10.0 %,7.5
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Group Project,Group Project 2,10.0 %,6.5
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Group Project,Group Project 3,10.0 %,6.5
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Final exam,Final exam,20.0 %,8
+DE190340,Summer2024,Communication and In-Group Working Skills ,SSG104,Final exam Resit,Final exam Resit,20.0 %,
+DE190340,Summer2024,Vovinam 3 ,VOV134,Final exam,Final exam,100.0 %,7
+DE190340,Summer2024,Vovinam 3 ,VOV134,Final exam Resit,Final exam Resit,100.0 %,
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Assignment,Assignment,10.0 %,9
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Progress test 1,Progress test 1,10.0 %,9.4
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Progress test 2,Progress test 2,10.0 %,9
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Lab,Lab 1,5.0 %,9
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Lab,Lab 2,5.0 %,9.5
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Lab,Lab 3,5.0 %,9
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Lab,Lab 4,5.0 %,9.5
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Lab,Lab 5,5.0 %,9.5
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Lab,Lab 6,5.0 %,9
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Final exam,Final exam,40.0 %,7.6
+DE190340,Fall2024,"AI, DS with Python & SQL ",ADY201m,Final exam Resit,Final exam Resit,40.0 %,
+DE190340,Fall2024,Elementary Japanese 1-A1.1 ,JPD113,Tham gia giờ học tại giảng đường,Tham gia giờ học tại giảng đường,10.0 %,10
+DE190340,Fall2024,Elementary Japanese 1-A1.1 ,JPD113,Kiểm tra nhỏ (small test),Kiểm tra nhỏ (small test) 1,10.0 %,9.3
+DE190340,Fall2024,Elementary Japanese 1-A1.1 ,JPD113,Kiểm tra nhỏ (small test),Kiểm tra nhỏ (small test) 2,10.0 %,8.7
+DE190340,Fall2024,Elementary Japanese 1-A1.1 ,JPD113,Kiểm tra giữa kì,Kiểm tra giữa kì,30.0 %,9.3
+DE190340,Fall2024,Elementary Japanese 1-A1.1 ,JPD113,Thi cuối kỳ,Reading - Grammar,10.0 %,8.7
+DE190340,Fall2024,Elementary Japanese 1-A1.1 ,JPD113,Thi cuối kỳ,Speaking,30.0 %,8
+DE190340,Fall2024,Elementary Japanese 1-A1.1 ,JPD113,Thi cuối kỳ Resit,Reading - Grammar Resit,10.0 %,
+DE190340,Fall2024,Elementary Japanese 1-A1.1 ,JPD113,Thi cuối kỳ Resit,Speaking Resit,30.0 %,
+DE190340,Fall2024,Advanced mathematics ,MAI391,Computer Project,Computer Project,20.0 %,9.4
+DE190340,Fall2024,Advanced mathematics ,MAI391,Progress tests,Progress tests 1,10.0 %,9.5
+DE190340,Fall2024,Advanced mathematics ,MAI391,Progress tests,Progress tests 2,10.0 %,8
+DE190340,Fall2024,Advanced mathematics ,MAI391,Assignments,Assignments 1,10.0 %,7.3
+DE190340,Fall2024,Advanced mathematics ,MAI391,Assignments,Assignments 2,10.0 %,8
+DE190340,Fall2024,Advanced mathematics ,MAI391,Assignments,Assignments 3,10.0 %,9
+DE190340,Fall2024,Advanced mathematics ,MAI391,Final exam,Final exam,30.0 %,7.8
+DE190340,Fall2024,Advanced mathematics ,MAI391,Final exam Resit,Final exam Resit,30.0 %,
+DE190340,Fall2024,Statistics & Probability ,MAS291,Computer Project,Computer Project,15.0 %,9
+DE190340,Fall2024,Statistics & Probability ,MAS291,Assignment,Assignment 1,10.0 %,10
+DE190340,Fall2024,Statistics & Probability ,MAS291,Assignment,Assignment 2,10.0 %,10
+DE190340,Fall2024,Statistics & Probability ,MAS291,Progress Test,Progress Test 1,10.0 %,9
+DE190340,Fall2024,Statistics & Probability ,MAS291,Progress Test,Progress Test 2,10.0 %,9
+DE190340,Fall2024,Statistics & Probability ,MAS291,Progress Test,Progress Test 3,10.0 %,9
+DE190340,Fall2024,Statistics & Probability ,MAS291,Final exam,Final exam,35.0 %,7.2
+DE190340,Fall2024,Statistics & Probability ,MAS291,Final exam Resit,Final exam Resit,35.0 %,
+DE190340,Spring2025,Machine Learning ,AIL303m,Progress test 1,Progress test 1,5.0 %,8.8
+DE190340,Spring2025,Machine Learning ,AIL303m,Progress test 2,Progress test 2,5.0 %,8.8
+DE190340,Spring2025,Machine Learning ,AIL303m,Progress test 3,Progress test 3,5.0 %,8.9
+DE190340,Spring2025,Machine Learning ,AIL303m,Progress test 4,Progress test 4,5.0 %,8.9
+DE190340,Spring2025,Machine Learning ,AIL303m,Lab 1,Lab 1,10.0 %,9.7
+DE190340,Spring2025,Machine Learning ,AIL303m,Lab 2,Lab 2,10.0 %,4
+DE190340,Spring2025,Machine Learning ,AIL303m,Mini capstone,Mini capstone,30.0 %,8.5
+DE190340,Spring2025,Machine Learning ,AIL303m,Final exam,Final exam,30.0 %,8.6
+DE190340,Spring2025,Machine Learning ,AIL303m,Final exam Resit,Final exam Resit,30.0 %,
+DE190340,Spring2025,Computer Vision ,CPV301,Lab,Lab 1,1.3 %,9
+DE190340,Spring2025,Computer Vision ,CPV301,Lab,Lab 2,1.3 %,9
+DE190340,Spring2025,Computer Vision ,CPV301,Lab,Lab 3,1.3 %,9
+DE190340,Spring2025,Computer Vision ,CPV301,Lab,Lab 4,1.3 %,9
+DE190340,Spring2025,Computer Vision ,CPV301,Lab,Lab 5,1.3 %,9
+DE190340,Spring2025,Computer Vision ,CPV301,Lab,Lab 6,1.3 %,9
+DE190340,Spring2025,Computer Vision ,CPV301,Lab,Lab 7,1.3 %,8
+DE190340,Spring2025,Computer Vision ,CPV301,Lab,Lab 8,1.3 %,8
+DE190340,Spring2025,Computer Vision ,CPV301,Progress Test,Progress Test 1,5.0 %,8.8
+DE190340,Spring2025,Computer Vision ,CPV301,Progress Test,Progress Test 2,5.0 %,8.4
+DE190340,Spring2025,Computer Vision ,CPV301,Practical Exam,Practical Exam,20.0 %,8.5
+DE190340,Spring2025,Computer Vision ,CPV301,Assignment,Assignment,30.0 %,8.5
+DE190340,Spring2025,Computer Vision ,CPV301,Final Exam,Final Exam,30.0 %,8.4
+DE190340,Spring2025,Computer Vision ,CPV301,Final Exam Resit,Final Exam Resit,30.0 %,
+DE190340,Spring2025,AI-DS Project ,DAP391m,Progress test,Progress test,10.0 %,9.3
+DE190340,Spring2025,AI-DS Project ,DAP391m,5Labs,5Labs 1,6.0 %,8
+DE190340,Spring2025,AI-DS Project ,DAP391m,5Labs,5Labs 2,6.0 %,9
+DE190340,Spring2025,AI-DS Project ,DAP391m,5Labs,5Labs 3,6.0 %,8.5
+DE190340,Spring2025,AI-DS Project ,DAP391m,5Labs,5Labs 4,6.0 %,9
+DE190340,Spring2025,AI-DS Project ,DAP391m,5Labs,5Labs 5,6.0 %,8
+DE190340,Spring2025,AI-DS Project ,DAP391m,Assignment,Assignment,30.0 %,9.4
+DE190340,Spring2025,AI-DS Project ,DAP391m,Final exam,Final exam,30.0 %,8.6
+DE190340,Spring2025,AI-DS Project ,DAP391m,Final exam Resit,Final exam Resit,30.0 %,
+DE190340,Spring2025,Japanese Elementary 1-A1.2 ,JPD123,Tham gia giờ học tại giảng đường,Tham gia giờ học tại giảng đường,10.0 %,8.5
+DE190340,Spring2025,Japanese Elementary 1-A1.2 ,JPD123,Kiểm tra nhỏ (small test),Kiểm tra nhỏ (small test) 1,10.0 %,8.9
+DE190340,Spring2025,Japanese Elementary 1-A1.2 ,JPD123,Kiểm tra nhỏ (small test),Kiểm tra nhỏ (small test) 2,10.0 %,8.3
+DE190340,Spring2025,Japanese Elementary 1-A1.2 ,JPD123,Kiểm tra giữa kỳ,Kiểm tra giữa kỳ,30.0 %,8.5
+DE190340,Spring2025,Japanese Elementary 1-A1.2 ,JPD123,Thi cuối kỳ,Reading - Grammar,10.0 %,5.7
+DE190340,Spring2025,Japanese Elementary 1-A1.2 ,JPD123,Thi cuối kỳ,Speaking,30.0 %,6.6
+DE190340,Spring2025,Japanese Elementary 1-A1.2 ,JPD123,Thi cuối kỳ Resit,Reading - Grammar Resit,10.0 %,6
+DE190340,Spring2025,Japanese Elementary 1-A1.2 ,JPD123,Thi cuối kỳ Resit,Speaking Resit,30.0 %,6.4
+DE190340,Spring2025,Introduction to Software Engineering ,SWE201c,PE,PE,40.0 %,7.7
+DE190340,Spring2025,Introduction to Software Engineering ,SWE201c,PE Resit,PE Resit,40.0 %,8
+DE190340,Spring2025,Introduction to Software Engineering ,SWE201c,TE,TE,60.0 %,7.2
+DE190340,Spring2025,Introduction to Software Engineering ,SWE201c,TE Resit,TE Resit,60.0 %,8.2
+DE190340,Spring2025,Introduction to Software Engineering ,SWE201c,TE Resit,,Bonus,

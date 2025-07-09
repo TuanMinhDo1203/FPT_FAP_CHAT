@@ -1,0 +1,970 @@
+SubjectCode,SubjectName,Number Credits,Fee,Fee International
+IA_ELE2,IA Elective 2,3,,
+IA_ELE3,IA Elective 3,3,,
+RES222,Food Preparation & Science,3,3690000,2505000
+3DP491,Digital project 3D,3,12300000,8350000
+ACC101,Accounting Principles,3,3690000,2505000
+ACC101,Accounting Principles,3,3690000,2505000
+ACC101,Accounting Principles,3,3690000,2505000
+ACC101-Extra,Accounting Principles,3,3690000,0
+ACC302,Managerial Accounting,3,3690000,
+ACC305,Financial Statement Analysis,3,3690000,
+ACH301,Accommodation Management,3,3690000,2505000
+ACS201,Automotive Communication Systems,3,3690000,
+ADA201c,AI in data analysis,3,3690000,
+ADB201,Book Design & Printing Technology,3,3690000,
+ADE301,Exhibition Display & Event Design,3,3690000,
+ADH301,Mobility Applications Design 1,3,3690000,2505000
+ADI201,Designing Brand Identity,3,3690000,2505000
+ADM401,Mobility Application Design,3,3690000,
+ADP301,Packaging design,3,3690000,2505000
+ADS301m,Google ads and SEO,3,3690000,2505000
+ADT401,Mobility Applications Design 2,3,3690000,2505000
+ADY201m,"AI, DS with Python & SQL",3,3690000,2505000
+AEE301,Automotive Electrical-Electronics Systems,3,3690000,
+AET102,Aesthetic,2,2460000,1670000
+AET102c,Aesthetic,2,2460000,
+AFA201,Human Anatomy for Artis,3,3690000,2505000
+AFA201m,Human Anatomy for Artis,3,3690000,
+AGD301,Information Graphic Design,3,3690000,2505000
+AI17_COM*1,Subject 1 of Combo,3,3690000,
+AI17_COM*2,Subject 2 of Combo,3,3690000,
+AI17_COM*3,Subject 3 of Combo,3,3690000,
+AI17_COM*4,Subject 4 of Combo,3,3690000,
+AIC301,Analog ICs,3,3690000,
+AID301c,AI in Production,3,3690000,2505000
+AIG201c,Artificial Intelligence,3,3690000,2505000
+AIG202c,Artificial Intelligence,3,3690000,
+AIL302m,Machine Learning,3,3690000,2505000
+AIL303m,Machine Learning,3,3690000,2505000
+AIP391,AI programming project,3,3690000,2505000
+AIP490,AI Capstone Project,10,12300000,8350000
+AIP491,AI Capstone Project,10,12300000,
+AIT301,AI with Tensorflow,3,3690000,2505000
+AMM301,Account management,3,3690000,
+ANA401,3D Character Animation,3,3690000,2505000
+ANB401,Background Painting for Animation,3,3690000,2505000
+ANB402,Background design,3,3690000,
+ANC301,Character Development,3,3690000,2505000
+ANC302,Character Design,3,3690000,
+ANM301,3D Modeling & Texturing (Maya),3,3690000,2505000
+ANM312,Visual tool 3D,3,3690000,2505000
+ANM313,Visual tool 3D,3,3690000,
+ANM322,3D Modeling & Shading,3,3690000,2505000
+ANO301c,Visual development for digital design,3,3690000,
+ANR401,Introduction to Rigging,3,3690000,2505000
+ANR402,3D Rigging,3,3690000,
+ANS201,Idea & Script Development,3,3690000,2505000
+ANS301,Storyboarding,3,3690000,2505000
+ANT401,Traditional Animation Principles,3,3690000,2505000
+APO201c,Advanced Python with OOP,3,3690000,
+AS_COM*1,Subject 1 of Combo*,3,3690000,
+AS_COM*2,Subject 2 of Combo*,3,3690000,
+AS_COM*3,Subject 3 of Combo*,3,3690000,
+AS_COM*4,Subject 4 of Combo*,3,3690000,
+AS_GRA_ELE,Graduation Elective for Automotive Software Engineering,10,12300000,
+ASI101,Introduction to Automotive System,3,3690000,
+BBA_MC_GRA_ELE,Graduation Elective for BBA_MC,10,12300000,
+BCH_GRA_ELE,Elective Graduation course,10,12300000,
+BCJ201c,Branding: The Creative Journey,3,3690000,
+BCT_ELE,Elective,3,,
+BCT_MC_GMC,Capstone Project Multimedia Communications,10,12300000,
+BCT_PR_GPR,Capstone Project Public Relations,10,12300000,
+BDI201,Brand Identity Design,3,3690000,
+BDI301c,Big Data,6,7380000,
+BDI302c,Big Data,3,3690000,
+BDM201,Business Decision Making,3,3690000,2505000
+BDT201,Business Digital Transformation,3,3690000,
+BEN_COM*1,1st combo* course,3,3690000,
+BEN_COM*2,2st combo* course,3,3690000,
+BEN_COM*3,3st combo* course,3,3690000,
+BEN_COM*4,4st combo* course,3,3690000,
+BEN_GRA_ELE,BEN Graduation Elective,10,12300000,
+BisVOV,VOVINAM,2,2460000,1670000
+BJP_COM*1,Subject 1 of Combo*,3,3690000,
+BJP_COM*2,Subject 2 of Combo*,3,3690000,
+BJP_COM*3,Subject 3 of Combo*,3,3690000,
+BJP_COM*4,Subject 4 of Combo*,3,3690000,
+BJP_GRA_ELE,BJP Graduation Elective,10,12300000,
+BKG302,Investment Project Appraisal,3,3690000,
+BKG303,Investment Project Appraisal,3,,
+BKR_COM*1,Combo 1,3,3690000,
+BKR_COM*2,Combo 2,3,3690000,
+BKR_COM*3,Combo 3,3,3690000,
+BKR_COM*4,Combo 4,3,3690000,
+BKR_COM*5,Combo 5,3,3690000,
+BKR_EN_COM*1,1st combo course,3,3690000,
+BKR_EN_COM*2,2nd combo course,3,3690000,
+BKR_EN_COM*3,3rd combo course,3,3690000,
+BKR_EN_COM*4,4th combo course,3,3690000,
+BKR_GRA_ELE,BKR Graduation Elective,10,12300000,
+BRA201,Introduction to Brand Management,3,3690000,
+BRA301,Brand Management,3,3690000,
+BRA301,Brand Management,3,3690000,
+BUE201,Business ethics,3,3690000,2505000
+CAA201,Communications and advertising,3,3690000,2505000
+CAD201,Water Color,3,3690000,2505000
+CAD201,Water Color,3,3690000,2505000
+CAD201,Water Color,3,3690000,2505000
+CB001,Lựa chọn combo 1,3,3690000,2505000
+CB002,Lựa chọn combo 2,3,3690000,2505000
+CB003,Lựa chọn combo 3,3,3690000,2505000
+CB004,Lựa chọn combo 4,3,3690000,2505000
+CB005,Lựa chọn combo 5,3,3690000,2505000
+CCC101,Cross Culture Communications,3,3690000,2505000
+CCM201,Crisis Communication Management,3,3690000,2505000
+CCM301,Crisis Communications Management,3,3690000,
+CCO201,Corporate Communication,3,3690000,
+CDP301,Circuit Design Project,3,3690000,
+CEA201,Computer Organization and Architecture,3,3690000,2505000
+CEA201-Extra,Computer Organization and Architecture,3,3690000,0
+CEM201,Celebrities Management,3,3690000,
+CEN_COM*1,1st combo course,3,3690000,
+CEN_COM*2,2st combo course,3,3690000,
+CEN_COM*3,3nd combo course,3,3690000,
+CEN_COM*4,4nd combo course,3,3690000,
+CHC401,Văn Hóa Trung Quốc,3,3690000,
+CHG401c,Chinese Grammar,3,,
+CHG401m,Chinese Grammar,3,3690000,
+CHI111,Integrated Chinese 1,3,3690000,
+CHI121,Integrated Chinese 2,3,3690000,
+CHI311,Integrated Chinese 3,6,7380000,
+CHI321,Integrated Chinese 4,3,3690000,
+CHI331,Integrated Chinese 5,3,3690000,
+CHI401,Integrated Chinese 6,6,7380000,
+CHN111,Chinese Elementary 1,3,3690000,2505000
+CHN111-Extra,Hán ngữ sơ cấp 1,3,3690000,0
+CHN113,Elementary Chinese 1,3,3690000,
+CHN113-Extra,Elementary Chinese 1,3,3690000,
+CHN122,Chinese Elementary 2,3,3690000,2505000
+CHN123,Elementary Chinese 2,3,3690000,
+CHN123-Extra,Elementary Chinese 2,3,3690000,
+CHN132,Chinese Elementary 3,3,3690000,2505000
+CHS111,Chinese speaking 1,3,3690000,
+CHS121,Chinese speaking 2,3,3690000,
+CHS201,Chinese Speaking 3,6,7380000,
+CHS211,Chinese speaking 3A,3,3690000,
+CHS301,Chinese Speaking 4,6,7380000,
+CHS401,Chinese Speaking 5,6,7380000,
+CHU_LV6,"Chulalongkorn University, Bangkok, Thailand",0,18500000,
+CIH201,Contemporary issues in hotel and tourism management,3,3690000,2505000
+CMC201c,Creative Writing,3,3690000,
+COS201,Communication System,3,3690000,
+COV111,Chess 1,2,2460000,1670000
+COV121,Chess 2,2,2460000,1670000
+COV131,Chess 3,2,2460000,2505000
+CPL401,Phonetics - Lexicology - Chinese Character,3,3690000,
+CPV301,Computer Vision,3,3690000,2505000
+CRM401,Research Method,3,3690000,
+CRY303c,Applied Cryptography,3,3690000,2505000
+CSD201,Data Structures and Algorithm,3,3690000,2505000
+CSD201-Extra,Data Structures and Algorithm,3,3690000,0
+CSD202,Data structures and algorithms (In C++),3,3690000,
+CSD203,Data Structures and Algorithm with Python,3,3690000,2505000
+CSD301,Advanced Algorithms,3,3690000,2505000
+CSI101,Connecting to Computer Science,3,3690000,2505000
+CSI102,Introduction to Informatics,3,3690000,2505000
+CSI104,Connecting to Computer Science,3,3690000,2505000
+CSI105,Introduction to Computer Science,3,3690000,2505000
+CSI106,Introduction to Computer Science,3,3690000,
+CSP201m,Content Strategy for Professionals,3,3690000,
+CSP202m,Introduction of Content Strategy,3,3690000,
+CSR301,Cloud Computing Security,3,3690000,
+CTI401,Translation & Interpreting,3,3690000,
+DAP391m,AI-DS Project,3,3690000,2505000
+DAT301m,AI Development with TensorFlow,3,3690000,2505000
+DBA103,Traditional musical instrument,3,3690000,
+DBD301,Advanced Databases,3,3690000,2505000
+DBI202,Database Systems,3,3690000,2505000
+DBM302m,Data Mining,3,3690000,
+DBS401,Database Security,3,3690000,
+DBW301,Data Warehouse,3,3690000,2505000
+DET101c,Design Thinking,3,3690000,
+DGP201,Digital painting,3,3690000,
+DGT301,Digital Signal Processing,3,3690000,2505000
+DGT301,Digital Signal Processing,3,3690000,2505000
+DIC201,Digital Circuits,3,3690000,
+DIC301,Digital ICs,3,3690000,
+DID301,Data visualization & Infographic design,3,3690000,
+DMA301m,Digital Marketing Analytics,3,3690000,
+DMS301m,Digital Marketing Strategy,3,3690000,
+DMT301,Data Mining with Tensorflow,3,3690000,2505000
+DNG103,Traditional musical instrument,3,3690000,
+DNH103,Traditional musical Instrument,3,3690000,
+DPL302m,Deep Learning,6,7380000,5010000
+DPS201c,Dynamic Public Speaking,3,3690000,
+DPU_LV6,"Dhurakij Pundit University (DPU), Bangkok, Thailand",0,17000000,
+DRD201,Drawing - Speed drawing,3,3690000,2505000
+DRD204,Drawing - Speed drawing,3,3690000,2505000
+DRD204,Drawing - Speed drawing,3,3690000,2505000
+DRD204,Drawing - Speed drawing,3,3690000,2505000
+DRD204,Drawing - Speed drawing,3,3690000,2505000
+DRP101,"Drawing - Plaster Statue, Portrait",3,3690000,2505000
+DRS101,"Drawing - Form, Still-life",3,3690000,2505000
+DRS102,"Drawing - Form, Still-life",3,3690000,2505000
+DSA103,Traditional musical instrument,3,3690000,
+DSP391m,Data Science - Capstone Project,3,3690000,
+DSR301m,Applied DS with R,3,3690000,
+DTB103,Traditional musical instrument,3,3690000,
+DTG102,Visual Design Tools,3,3690000,2505000
+DTG111,Visual Design Tools 1,3,3690000,
+DTG121,Visual Design Tools 2,3,3690000,
+DTG302,Visual Effects - Principles of Compositing,3,3690000,2505000
+DTG303,Principles  of Animation,3,3690000,2505000
+DTG304,Principles of Compositing,3,3690000,
+DTR103,Traditional musical instrument,3,3690000,
+DWP301c,Web Development with Python,3,3690000,2505000
+DXE291c,Digital Ecosystem: From Governance to Business,3,,
+EAL201,Academic Listening,3,3690000,2505000
+EAL202,Academic English Listening,3,3690000,
+EAL202c,Academic English Listening,3,3690000,
+EAW211,Academic Writing 1,3,3690000,2505000
+EAW212,Academic English Writing 1,3,3690000,
+EAW221,Academic Writing 2,3,3690000,2505000
+EAW222,Academic English Writing 2,3,3690000,
+EAW301,Academic English Writing,3,3690000,
+EBC301c,Business English Communication,3,3690000,2505000
+EBS211,Embedded Systems,3,3690000,
+EBS311,Advanced Embedded Systems,3,3690000,
+ECB101,Culture of English-Speaking countries,3,3690000,2505000
+ECC301c,Cross-cultural Communication,3,3690000,2505000
+ECI101,Introduction to Electronic Components and Circuits,3,3690000,
+ECN_COM*1,1st combo course,3,3690000,
+ECN_COM*2,2nd combo course,3,3690000,
+ECN_COM*3,3nd combo course,3,3690000,
+ECN_COM*4,4th combo course,3,3690000,
+ECN101,Integrated Chinese 1,6,7380000,
+ECN211,Integrated Chinese 2,6,7380000,
+ECN221,Integrated Chinese 3,6,7380000,
+ECN311,Integrated Chinese 4,6,7380000,
+ECN321,Integrated Chinese 5,3,3690000,
+ECO101,Business environment,3,3690000,2505000
+ECO101_Extra,Business environment,3,3690000,0
+ECO102,Business environment,3,3690000,2505000
+ECO111,Basic Micro Economics,3,3690000,2505000
+ECO111_EXTRA,Basic Micro Economics,3,3690000,0
+ECO121,Basic Macro Economics,3,3690000,2505000
+ECO121_EXTRA,Basic Macro Economics,3,3690000,0
+ECO201,International Economics,3,3690000,2505000
+ECR201,Critical Reading,3,3690000,2505000
+ECR202,Critical Reading in English,3,3690000,
+ECR301,Critical Reading in English,3,3690000,
+EEI101,Introduction to Electrical-Electronics Engineering,3,3690000,
+EIT491,English for International standardized tests,3,3690000,2505000
+ELC201,Electronic Circuits,3,3690000,
+Elective_KL,Capstone Project,10,12300000,
+ELI301,Interpretation 1,3,3690000,2505000
+ELI302,English Interpretation 1,3,3690000,
+ELI401,Interpretation,3,3690000,2505000
+ELI402,English Interpretation 2,3,3690000,
+ELP311c,English Language Teaching part 1,3,3690000,
+ELP321c,English Language Teaching part 2,3,3690000,
+ELR301,Research Methods,3,3690000,2505000
+ELS401c,Academic Listening and Speaking,3,3690000,2505000
+ELT301,Translation 1,3,3690000,2505000
+ELT302,English Translation 1,3,3690000,
+ELT401,Translation 2,3,3690000,2505000
+ELT402,English Translation 2,3,3690000,
+ELT492,Graduation Thesis,10,12300000,8350000
+EMF301,Electromagnetic Field Theory and Microwave Fundamental,3,3690000,
+EMP301,English Morphology,3,3690000,
+ENB101,Business Writing,3,3690000,2505000
+ENB301,Business Writing,3,3690000,2505000
+ENB302,Business English Writing,3,3690000,
+ENG301,Advanced English Grammar,3,3690000,2505000
+ENG302c,Advanced English Grammar,3,3690000,2505000
+ENG303,Advanced English Grammar,3,3690000,
+EnglishPlacementTest,EnglishPlacementTest,0,0,0
+ENH301,Business English for Hospitality - Intermediate,3,3690000,2505000
+ENH401,Business English for Hospitality - Upper Intermediate,3,3690000,2505000
+ENL111,Academic English 1,3,3690000,2505000
+ENL112,Academic English 2,3,3690000,2505000
+ENM101,Elementary Business English 1,3,3690000,2505000
+ENM111,Elementary Business English 1,3,3690000,2505000
+ENM121,Elementary Business English 2,3,3690000,2505000
+ENM201,Pre-Intermediate Business English,3,3690000,2505000
+ENM201-Extra,Pre-Intermediate Business English,3,3690000,0
+ENM211,Pre-Intermediate Business English 1,3,3690000,2505000
+ENM212,Elementary Business English 2,3,3690000,2505000
+ENM221,Pre-Intermediate Business English 2,3,3690000,2505000
+ENM221c,Business English Communication 2,3,3690000,2505000
+ENM301,Intermediate Business English,3,3690000,2505000
+ENM302,Business English – Level 1,3,3690000,
+ENM401,Upper Intermediate Business English,3,3690000,2505000
+ENM402,Business English - Level 2,3,3690000,
+ENP101,Phonetics,3,3690000,2505000
+ENP102,Phonetics and Phonology,3,3690000,2505000
+ENP203,English phonetics and phonology,3,3690000,
+ENR101,Reading 1,3,3690000,2505000
+ENR201,Reading 2,3,3690000,2505000
+ENR201c,English Reading,3,3690000,2505000
+ENR301,Reading 3,3,3690000,2505000
+ENR401,Reading,3,3690000,2505000
+ENS111,Listening Speaking 1 (Part 1/2),3,3690000,2505000
+ENS121,Listening Speaking 1 (Part 2/2),3,3690000,2505000
+ENS211,Listening Speaking 2 (Part 1/2),3,3690000,2505000
+ENS221,Listening Speaking 2 (Part 2/2),3,3690000,2505000
+ENS311,Listening Speaking 3 (Part 1/2),3,3690000,2505000
+ENS321,Listening Speaking 3 (Part 2/2),3,3690000,2505000
+ENS411,Listening Speaking (Part 1/2),3,3690000,2505000
+ENS421,Listening Speaking (2/2),3,3690000,2505000
+ENT001,Top Notch Fundamental,0,8330000,5650000
+ENT101,Topnotch 1,0,8330000,5650000
+ENT102,Top Notch 1,0,8330000,5650000
+ENT103,Fundamental Topnotch 1,0,8330000,5650000
+ENT104,TopNotch 1,0,8330000,5650000
+ENT104-Extra,TopNotch1,0,8330000,0
+ENT201,Topnotch 2,0,8330000,5650000
+ENT202,Top Notch 2,0,8330000,5650000
+ENT203,TopNotch 2,0,8330000,5650000
+ENT203-Extra,TopNotch 2,0,8330000,0
+ENT203c,English Reading,0,8330000,5650000
+ENT301,TopNotch 3,0,8330000,5650000
+ENT302,Top Notch 3,0,8330000,5650000
+ENT303,TopNotch 3,0,8330000,5650000
+ENT303-Extra,TopNotch 3,0,8330000,0
+ENT401,Summit 1,0,8330000,5650000
+ENT403,Summit1,0,8330000,5650000
+ENT403-Extra,Summit 1- extra,0,8330000,0
+ENT501,Summit 2,0,8330000,5650000
+ENT503,Summit2,0,8330000,5650000
+ENT503-Extra,Summit2,0,8330000,0
+ENW101,Writing 1,3,3690000,2505000
+ENW201,Writing 2,3,3690000,2505000
+ENW301,Writing 3,3,3690000,2505000
+ENW401,Writing 4,3,3690000,2505000
+ENW492,Writing research papers,3,3690000,2505000
+ENW492c,Academic Writing Skills,3,3690000,2505000
+ENW493c,Research Methods & Academic Writing Skills,3,3690000,
+EOB301,Outcome-based Course Design in English Language Teaching,3,3690000,
+EPC301,Persuasive Communication,3,3690000,2505000
+EPE101c,Professional Ethics,3,3690000,2505000
+EPE301c,Professional Ethics,3,3690000,
+EPG301,Ngữ dụng học Tiếng Anh,3,3690000,
+EPR301,Entertainment Public Relation,3,3690000,
+EPT101,English Placement Test,0,0,
+ERW411,Read Think Write 1,3,3690000,2505000
+ERW412,English Read-Think-Write 1,3,3690000,
+ERW413,English Research Writing Skills 1,3,3690000,
+ERW421,Read Think Write 2,3,3690000,2505000
+ERW422,English Read-Think-Write 2,3,3690000,
+ERW422-Extra,English Read-Think-Write 2,3,3690000,
+ERW423,English Research Writing Skills 2,3,3690000,
+ESL101,Sociolinguistics,3,3690000,2505000
+ESL301,Sociolinguistics,3,3690000,
+EST301,English Syntax,3,3690000,
+ETB201c,Entertainment business,3,3690000,
+ETP401,Language Teaching Practice,3,3690000,
+ETR401,Entrepreneurship,3,3690000,2505000
+ETT301,Understanding Language Testing,3,3690000,2505000
+EVN201,Event planning,3,3690000,2505000
+EVN202,Conventions and Tradeshows,3,3690000,2505000
+EVN203,Special Events and Wedding Production,3,3690000,2505000
+EVN204,Event management and operation,3,3690000,2505000
+EVN205,Event Management For PR,3,3690000,
+EVN301,Event Management,3,3690000,
+EXE_ELE,Entrepreneurship Group 1,3,3690000,
+EXE101,Experiential Entrepreneurship 1,3,3690000,2505000
+EXE101g,Experiential Entrepreneurship 1,3,3690000,
+EXE201,Experiential Entrepreneurship 2,3,3690000,2505000
+EXE201g,Experiential Entrepreneurship 2,3,3690000,
+FAP201,FPGA Programming,3,3690000,
+FBM201,Food and Beverage Operations Management,3,3690000,2505000
+FBO201,Food and beverage service operations,3,,
+FE-000001,Free Elective 1,3,3690000,2505000
+FER201m,Front-End web development with React,3,3690000,2505000
+FER202,Front-End web development with React,3,3690000,
+FER202-Extra,Front-End web development with React,3,3690000,
+FIM302c,Financial modelling,3,3690000,
+FIN_COM*1,Option 1,3,3690000,
+FIN_COM*2,Option 2,3,3690000,
+FIN_COM*3,Option 3,3,3690000,
+FIN_COM*4,Option 4,3,3690000,
+FIN_GRA_ELE,Graduation Elective - Finance,10,12300000,
+FIN201,Monetary Economics &Gl. Economy,3,3690000,2505000
+FIN202,Corporate Finance,3,3690000,2505000
+FIN301,Financial Markets and Institutions,3,3690000,
+FIN303,Advanced Corporate Finance,3,3690000,
+FIN402,Derivatives,3,3690000,
+FOM201,Front Office Operations and Management,3,3690000,2505000
+FRS301,Digital Forensics,3,3690000,2505000
+FRS401c,Network Forensics,3,3690000,
+GD_COM*1,Subject 1 of Combo,3,3690000,
+GD_COM*2,Subject 2 of Combo,3,3690000,
+GD_COM*3,Subject 3 of Combo,3,3690000,
+GD_COM*4,Subject 4 of Combo,3,3690000,
+GD_COM*5,Subject 5 of Combo,3,3690000,
+GD_ELE1,Elective 1_,3,3690000,
+GD_ELE1.1,Elective 1,3,3690000,
+GD_ELE2,Elective 2,3,3690000,
+GD_ELE2.1,Elective 2,3,3690000,
+GD_GRA_ELE,Graduation Elective for GD,10,12300000,
+GD_GRA_ELE1.1,Graduation Elective for GD,10,12300000,
+GDF101,Fundamental of Graphic Design,3,3690000,2505000
+GDF201,Fundamental of Graphic Design,3,3690000,2505000
+GDP101,Applied Graphic Design,3,3690000,2505000
+GDP491,Capstone Project (Graphic Design),10,12300000,8350000
+GDP492,Capstone Project Graphic Design - Animation,10,12300000,
+GDP493,Capstone Project Graphic Design - Interaction Design,10,12300000,
+GDP494,Capstone Project Graphic Design - Communication Design,10,12300000,
+GDP495,Capstone Project Graphic Design - Multimedia Communication Design,10,12300000,
+GDQP,Military Education,0,2740000,1860000
+GEM201,Managing Guest Experience,3,3690000,2505000
+GL_COM*1,Option 1,3,3690000,
+GL_COM*2,Option 2,3,3690000,
+GL_COM*3,Option 3,3,3690000,
+GL_COM*4,Option 4,3,3690000,
+GL_GRA_ELE,Graduation Elective - GL,10,12300000,
+GLA301,Air Transport,3,,
+GLC301,E-Customs,3,,
+GLE201,Logistics and E-commerce,3,3690000,
+GLH301,Goods and Insurance,3,,
+GLI201,International Logistics,3,3690000,
+GLO301,Operations Management,3,3690000,
+GLS301c,Global Supply chain Management Strategy,3,3690000,
+GLT301,Business Logistics and Transportation,3,3690000,
+GPM201c,Professional Project Management,3,3690000,
+GRA497,Capstone Project Multimedia Communications,10,12300000,
+GRH491,Graduation Thesis - Hotel Management,10,12300000,8350000
+GRI491,Graduation Thesis - International Business,10,12300000,8350000
+GRM491,Graduation Thesis Marketing,10,12300000,8350000
+GRP490,Graduation Thesis (Business Plan),10,12300000,8350000
+GSF301,Sea Transport and Forwarding,3,,
+HCI201,Human-Computer Interaction,3,3690000,2505000
+HCM201,Hochiminh Ideology,2,2460000,1670000
+HCM202,Hochiminh Ideology,2,2460000,1670000
+HM_COM*1,Subject 1 of Combo,3,3690000,
+HM_COM*2,Subject 2 of Combo,3,3690000,
+HM_COM*3,Subject 3 of Combo,3,3690000,
+HM_COM*4,Subject 4 of Combo,3,3690000,
+HM_GRA_ELE,Graduation Elective - Hotel Management,10,12300000,
+HMO101,The International Hospitality Industry,3,3690000,2505000
+HMO102,Introduction to Tourism & Hospitality industry,3,3690000,2505000
+HOA101,Art History,3,3690000,2505000
+HOA102,Art History,3,3690000,2505000
+HOD102,Design History,2,2460000,1670000
+HOD401,Ethical Hacking and Offensive Security,3,3690000,2505000
+HOD402,Ethical Hacking and Offensive Security,3,3690000,
+HOM201,Front Office Operations and Management,3,3690000,2505000
+HOM202,Hotel Operations Management,3,3690000,2505000
+HOM301c,Hotel Revenue Management,3,3690000,2505000
+HOM302,Service Operation Management,3,3690000,2505000
+HRM201c,Human Resource Management,3,3690000,2505000
+HRM202c,Human Resource Management,3,3690000,
+HSF302,Working with Spring Framework,3,3690000,
+IA_COM*1,Subject 1 of Combo,3,3690000,
+IA_COM*2,Subject 2 of Combo,3,3690000,
+IA_COM*3,Subject 3 of Combo,3,3690000,
+IA_COM*4,Subject 4 of Combo,3,3690000,
+IA_ELE2,IA Elective 2,3,3690000,
+IA_ELE3,IA Elective 3,3,3690000,
+IA_GRA_ELE,Graduation Elective for IA,10,12300000,
+IAA202,Risk Management in Information Systems,3,3690000,2505000
+IAM302,Malware Analysis and Reverse Engineering,3,3690000,2505000
+IAO101,Introduction to Information Assurance,3,3690000,
+IAO201c,Introduction to Information Assurance,3,3690000,2505000
+IAO202,Introduction to Information Assurance,3,3690000,2505000
+IAP301,Policy Development in Information Assurance,3,3690000,2505000
+IAP491,IA Capstone Project,10,12300000,8350000
+IAR401c,Incident Response,3,3690000,
+IAW301,Web security,3,3690000,
+IB_COM*1,Option 1,3,3690000,
+IB_COM*2,Option 2,3,3690000,
+IB_COM*3,Option 3,3,3690000,
+IB_COM*4,Option 4,3,3690000,
+IB_GRA_ELE,Graduation Elective - International Business,10,12300000,
+IBC201,Cross Cultural Management and Negotiation,3,3690000,2505000
+IBF301,International Finance,3,3690000,2505000
+IBI101,Introduction to International business,3,3690000,2505000
+IBS301m,International Business Strategy,3,3690000,2505000
+IBSTPI001,IBSTPI's Instructor Compentencies,0,0,
+IC_GRA_ELE,Graduation Elective for Integrated Circuit Design,10,12300000,
+ICI211,IC Design Introduction,3,3690000,
+ICP401,IC Design Project,3,3690000,
+ICS301,IC Simulation Theory,3,3690000,
+IEI301,Import and Export,3,3690000,2505000
+IFT201c,Innovation and Future thinking,3,3690000,
+IIP301,International payment,3,3690000,2505000
+IMC301,Intergrated Marketing Communication in Digital World,3,3690000,
+IMC301c,Intergrated Marketing Communication in Digital World,3,3690000,
+IMP301,Image processing,3,3690000,2505000
+IMP302m,Image and Video processing,3,3690000,
+IMT301,Image Processing with Tensorflow,3,3690000,2505000
+IOT101,Internet of things,3,3690000,2505000
+IOT102,Internet of things,3,3690000,2505000
+IoT102t,Internet of Thing,3,3690000,
+IPD201,Icon & Pattern design,3,3690000,
+IPD201,Icon & Pattern design,3,3690000,
+IPR102,Intellectual Property Rights,3,3690000,2505000
+IPR121,Intellectual Property Rights,2,2460000,1670000
+ISC301,E-Commerce,3,3690000,2505000
+ISC302,E-Commerce,3,3690000,2505000
+ISM201,Introduction to strategic communication,3,3690000,
+ISM301,Enterprise Resource Planning (ERP),3,3690000,2505000
+ISO401,IC Synthesis and Optimization,3,3690000,
+ISP391,Integrated System Project,3,3690000,2505000
+ISP490,IS Capstone Project,10,12300000,8350000
+ITA202,Management information systems,3,3690000,2505000
+ITA203c,Management information systems,3,3690000,2505000
+ITA301,Information System Design & Analysis,3,3690000,2505000
+ITB301c,Business Intelligence,3,3690000,2505000
+ITE302,Ethics in IT,3,3690000,2505000
+ITE302b,Ethics in IT,3,3690000,2505000
+ITE302c,Ethics in IT,3,3690000,2505000
+ITE303,Cyber Law and IT Ethics,3,3690000,
+ITE303c,Ethics in IT,3,3690000,2505000
+JBI301,Basic skills of Intereprating,3,3690000,2505000
+JBT301,Basic skills of Translation,3,3690000,2505000
+JFE301,Japanese IT Fundamentals,3,3690000,2505000
+JGP491,Graduation Project,10,12300000,8350000
+JGT491,Graduation Project-Japanese Studies,10,12300000,8350000
+JGT492,Graduation Thesis-Japanese Studies,10,12300000,8350000
+JIG301,Basic Issues of Japanese Grammar,3,3690000,2505000
+JIJ301,Basic Issues of Japanese lexicology & Phonetics,3,3690000,2505000
+JIS301,Interpreting Skills,3,3690000,
+JIS401,Japanese in Software,3,3690000,
+JIT301,IT Japanese,3,3690000,2505000
+JIT401,Information Technology Japanese,3,3690000,2505000
+JIT491,Japanese for JLPT,3,3690000,2505000
+JJB391,Japanese for JLPT &BJT,3,3690000,2505000
+JJL301,Japanese Literature,3,3690000,2505000
+JJP301,Japanese Phonetics and Lexicology,3,3690000,
+JJS251,Japanese for JS,0,0,
+JJS252,Japanese for JS 2,0,,
+JJS301,Japanese Syntax,3,3690000,
+JLI301,Kỹ năng phiên dịch,3,3690000,2505000
+JLI301-Extra,Kỹ năng phiên dịch,3,3690000,0
+JLI401,Thực hành phiên dịch nâng cao,3,3690000,2505000
+JLI401-Extra,Thực hành phiên dịch nâng cao,3,3690000,0
+JLP301,Project management,3,3690000,2505000
+JLR301,Research Method,3,3690000,2505000
+JLR302,Research Methods,3,3690000,2505000
+JLT301,Kỹ năng biên dịch,3,3690000,2505000
+JLT301-Extra,Kỹ năng biên dịch,3,3690000,0
+JLT401,Thực hành biên dịch nâng cao,3,3690000,2505000
+JLT491,Graduation Assignment,10,12300000,8350000
+JPB301,Japanese business language and business manner,3,3690000,2505000
+JPC301,Japanese Culture and Literature,3,3690000,2505000
+JPD111,Japanese Elementary (Part 1/4),3,3690000,2505000
+JPD111-Extra,Japanese Elementary (Part 1/4),3,3690000,0
+JPD112,Elementary Japanese 1,6,7380000,5010000
+JPD113,Elementary Japanese 1-A1.1,3,3690000,2505000
+JPD113-Extra,Elementary Japanese 1-A1.1,3,3690000,
+JPD116,Japanese Elementary 1A1,6,7380000,5010000
+JPD121,Japanese Elementary (Part 2/4),3,3690000,2505000
+JPD121-Extra,Japanese Elementary (Part 2/4),3,3690000,0
+JPD122,Elementary Japanese 2,6,7380000,5010000
+JPD123,Japanese Elementary 1-A1.2,3,3690000,2505000
+JPD123-Extra,Japanese Elementary 1-A1.2,3,3690000,
+JPD126,Japanese Elementary 2 A2,6,7380000,5010000
+JPD131,Japanese Elementary (Part 3/4),3,3690000,2505000
+JPD131-Extra,Japanese Elementary (Part 3/4),3,3690000,0
+JPD133,Japanese Elementary 1-A1/A2,3,3690000,2505000
+JPD216,Japanese Pre-Intermediate 1-A2/B1,6,7380000,5010000
+JPD222,Japanese Pre-Intermediate (Part 1/2),6,7380000,5010000
+JPD223,Japanese Pre-Intermediate (Part 2/2),6,7380000,5010000
+JPD226,Japanese Pre-Intermediate 2-B1,6,7380000,5010000
+JPD316,Intermediate Japanese 1-B1/B2,6,7380000,5010000
+JPD322,Japanese Intermediate (Part 1/4),6,7380000,5010000
+JPD323,Japanese Intermediate (Part 2/4),6,7380000,5010000
+JPD324,Intermediate Japanese 3/4,6,7380000,5010000
+JPD325,Intermediate Japanese 4/4,6,7380000,5010000
+JPD326,Japanese Intermediate 2-B2.1,6,7380000,5010000
+JPD336,Intermediate Japanese 2-B2.2,6,7380000,5010000
+JPD346,Intermediate Japanese 2-B2/C1,6,7380000,5010000
+JPE301,Translation in Education,3,3690000,
+JPG301,Japanese Vocabulary and Grammar,3,3690000,2505000
+JPP301,Phonetics,3,3690000,2505000
+JSC301,Japanese Culture & Japanese Studies,3,3690000,2505000
+JSE245,Japanese for SE students,0,0,
+JSE247,Japanese for SE students 2,0,,
+JTE301,Translation in Economics & Commerce,3,3690000,
+JTI301,Introductory Translation & Interpreting,3,3690000,
+JTN301,Translation on international hot news,3,3690000,
+JTS301,Translation Skills,3,3690000,
+JTT301,Translation in Tourism,3,3690000,
+KAW401,Advanced Korean Writing,3,3690000,
+KBU_LV6,"Kasem Bundit University (KBU), Bangkok",0,13470000,
+KIL301m,Introduction to Korean linguistics,3,3690000,
+KIT491,Korean for TOPIK,3,3690000,
+KLE301,Korean Literature,3,3690000,
+KLI311,Interpretation 1,3,3690000,
+KLI321,Interpretation 2,3,3690000,
+KLP401,Korean Language Practice,3,3690000,
+KLR301,Scientific Research Methods,3,3690000,
+KLT311,Translation 1,3,3690000,
+KLT321,Translation 2,3,3690000,
+KOR101,Hàn ngữ sơ cấp 1,0,0,
+KOR311,Intermediate Korean Language 1,6,7380000,
+KOR321,Intermediate Korean Language 2,3,3690000,
+KOR411,Intermediate Korean Language 3,6,7380000,
+KOS301m,Korean Studies,3,3690000,
+KRC301,Korean Culture,3,3690000,
+KRG301,Korean grammar and vocabulary,3,3690000,
+KRL101,Elementary Korean 1,6,7380000,
+KRL112,Elementary Korean 1,6,7380000,
+KRL122,Elementary Korean 2,6,7380000,
+KRL201,Elementary Korean 2,6,7380000,
+KRL212,Elementary Korean 3,6,7380000,
+KRL222,Elementary Korean 4,6,7380000,
+KRL311,Intermediate Korean 1,6,7380000,
+KRL312,Intermediate Korean 1,6,7380000,
+KRL321,Intermediate Korean 2,6,7380000,
+KRL322,Intermediate Korean 2,6,7380000,
+KRL402,Intermediate Korean 3,6,7380000,
+KRL411,Intermediate Korean 3,6,7380000,
+KRL421,Intermediate Korean 4,6,7380000,
+KRL502,Advanced Korean 2,6,7380000,
+KRL511,Advanced Korean 1,6,7380000,
+KRL521,Advanced Korean 2,6,7380000,
+KRP301,Korean Phonetics,3,3690000,
+KRT491,Graduation Thesis - Korean Studies,10,12300000,
+KST401,Sight Translation in Korean,3,3690000,
+LAB101,C Lab,3,3690000,2505000
+LAB101_Extra,C Lab,3,3690000,0
+LAB211,OOP with Java Lab,3,3690000,2505000
+LAB211-Extra,OOP with Java Lab,3,3690000,0
+LAB221,Desktop Java Lab,3,3690000,2505000
+LAB231,Web Java Lab,3,3690000,2505000
+LAE101,Law and Ethics in Media and Communication,3,3690000,
+LAE102,Law and Ethics in Media and Communication,3,3690000,
+LAW101,Business Law Fundamentals,3,3690000,2505000
+LAW102,Business Law and Ethics Fundamentals,3,3690000,2505000
+LAW201c,International Business Law,3,3690000,2505000
+LIT301,British and American Literature,3,3690000,2505000
+LOD211,Front Office Management,3,3690000,2505000
+LOD212,Housekeeping Management,3,3690000,2505000
+LOD213,Housekeeping Operations,3,,
+LOD222,Front desk and receptionist skills,3,3690000,2505000
+LOG311,Customs Operations,3,3690000,2505000
+LOG321,Logistics and Transportation Management,3,3690000,2505000
+LOS201,Linux and Open Source Platform,3,3690000,
+LSC201c,Leading Sustainable Community Transformation,3,3690000,
+LTG201,Introduction to linguistics,3,3690000,2505000
+LTG202,Introduction to Linguistics,3,3690000,2505000
+LTG203,Introduction to linguistics,3,3690000,2505000
+LTG301,Introduction to Linguistics,3,3690000,
+LUK1,Little UK 1,0,8330000,5650000
+LUK2,Little UK 2,0,8330000,5650000
+LUK3,Little UK 3,0,8330000,5650000
+LUK4,Little UK 4,0,8330000,5650000
+LUK5,Little UK 5,0,8330000,5650000
+MAC102,Advanced Mathematics for Business,3,3690000,2505000
+MAC102-Extra,Advanced Mathematics for Business,3,3690000,0
+MAD101,Discrete mathematics,3,3690000,2505000
+MAD101_EXTRA,Discrete mathematics,3,3690000,0
+MAE101,Mathematics for Engineering,3,3690000,2505000
+MAE101_Extra,Mathematics for Engineering,3,3690000,0
+MAI391,Advanced mathematics,3,3690000,2505000
+MAS202,Statistics & Probability,3,3690000,2505000
+MAS291,Statistics & Probability,3,3690000,2505000
+MAS291,Statistics & Probability,3,3690000,2505000
+MC_COM*1,Môn combo,3,3690000,
+MC_COM*2,Môn combo,3,3690000,
+MC_COM*3,Môn combo,3,3690000,
+MC_COM*4,Môn combo,3,3690000,
+MC_COM*5,Môn combo,3,3690000,
+MCE201,Measurement and Control Engineering,3,3690000,
+MCO201c,Transmedia Storytelling,3,3690000,
+MCO201m,Transmedia Storytelling,3,3690000,
+MCO302,Intercultural Communication,3,3690000,
+MCP201,Microcontroller Programming,3,3690000,
+MED201,New Media Technology,3,3690000,
+MEP201,Multimedia Production Project,3,3690000,
+MEP301,Multimedia Production Project,3,3690000,
+MGT101,Introduction to Management,3,3690000,2505000
+MGT102,Management Principle,3,3690000,2505000
+MGT102-Extra,Management Principle,3,3690000,0
+MGT103,Introduction to Management,3,3690000,2505000
+MGT103-Extra,Introduction to Management,3,3690000,
+MIC301,Mixed-signal IC Design,3,3690000,
+MKG101,Principles of Marketing and Management,3,,
+MKT_COM*1,Option 1,3,3690000,
+MKT_COM*2,Option 2,3,3690000,
+MKT_COM*3,Option 3,3,3690000,
+MKT_COM*4,Option 4,3,3690000,
+MKT_ELE,Graduation Elective - Marketing,10,12300000,
+MKT_GRA_ELE,Graduation Elective - Digital Marketing,10,3690000,
+MKT101,Marketing Principles,3,3690000,2505000
+MKT101-Extra,Marketing Principles,3,3690000,0
+MKT201,Consumer Behavior,3,3690000,2505000
+MKT202,Service Marketing Management,3,3690000,2505000
+MKT202-Extra,Service Marketing Management,3,3690000,0
+MKT204,International Marketing,3,3690000,2505000
+MKT205c,International Marketing,3,3690000,2505000
+MKT208c,Social Media Marketing,3,3690000,2505000
+MKT208c,Social Media Marketing,3,3690000,2505000
+MKT209m,Content Marketing,3,3690000,2505000
+MKT301,Marketing Research,3,3690000,2505000
+MKT304,Integrated Marketing Communications,3,3690000,2505000
+MKT304c,Integrated Marketing Communication,3,3690000,
+MKT305,Marketing Strategy,3,3690000,2505000
+MKT308,Digital Marketing,3,3690000,2505000
+MKT309m,Omnichannel marketing,3,3690000,2505000
+MKT318,Digital Marketing 1,3,3690000,2505000
+MKT318m,DIgital Marketing 1,3,3690000,2505000
+MKT328,Digital Marketing 2,3,3690000,2505000
+MKT328,Digital Marketing 2,3,3690000,2505000
+MKT328m,Digital Marketing 2,3,3690000,2505000
+MLN101,Principles of Marxism - Leninism,5,6150000,4175000
+MLN111,Philosophy of Marxism – Leninism,3,3690000,2505000
+MLN122,Political economics of Marxism – Leninism,2,2460000,1670000
+MLN131,Scientific Socialism,2,2460000,1670000
+MLT301,Machine Learning with Tensorflow,3,3690000,2505000
+MMA301,Multiplatform Mobile App Development,3,3690000,2505000
+MMK101,Management and Marketing,3,3690000,
+MMK101-Extra,Management and Marketing,3,3690000,
+MMP201,Media Psychology,3,3690000,
+MPL201,Media Planning,3,3690000,
+MPR201,Media production: Theory and practice,3,3690000,
+MSA201,Modeling and Simulation for Automotive Systems,3,3690000,
+MSM201c,Meta social media marketing Management,3,3690000,
+MSS301,Microservices with Spring Cloud,3,3690000,
+NLP301c,Natural Language Processing,3,3690000,2505000
+NWC202,Computer Networking,3,3690000,2505000
+NWC203,Computer Networking,3,3690000,2505000
+NWC203c,Computer Networking,3,3690000,2505000
+NWC204,Computer Networking,3,3690000,2505000
+NWC302,Network Connetivity,3,3690000,
+NWC303,Network Connectivity,3,3690000,
+OBE101,Organizational behaviour,3,3690000,2505000
+OBE102,Organizational behaviour,3,3690000,2505000
+OBE102c,Organizational behaviour,3,3690000,2505000
+OCC301,Out-Car Connectivity,3,3690000,
+OCT202,On-the-job training,10,12300000,
+OJB,On the job training,10,12300000,8350000
+OJB201,On the Job training,10,12300000,8350000
+OJB202,On the Job training,10,12300000,8350000
+OJB202,On the Job training,10,12300000,8350000
+OJB211,On the job training 1 (BBA),10,12300000,8350000
+OJC202,On-the-job Training,10,12300000,
+OJE201,On the Job training,10,12300000,8350000
+OJE202,On-The-Job Training,10,12300000,
+OJG201,On the Job training,10,12300000,8350000
+OJK202,On-The-Job-Training,10,12300000,
+OJL201,On the Job training,10,12300000,8350000
+OJP202,On the Job training,10,12300000,8350000
+OJS201,On the Job training,10,12300000,2505000
+OJT,On the Job training,10,12300000,8350000
+OJT202,On the Job training,10,12300000,8350000
+OSG202,Operating System,3,3690000,2505000
+OSG203,Operating Systems,3,3690000,
+OSP201,Open Source Platform and Network Administration,3,3690000,2505000
+OTP101,Orientation and General Training Program,0,2740000,0
+PCP291,C++ Programming,3,3690000,
+PEB301,Practice of Embedded System,3,3690000,
+PFD201,Photography for Designer,3,3690000,2505000
+PFE201,Public Relations management for events,3,3690000,2505000
+PFL401,Portfolio Design,3,3690000,2505000
+PFP191,Programming Fundamentals with Python,3,3690000,2505000
+PIA201c,Art of Pitching,3,3690000,
+PMG201,Project management,3,3690000,
+PMG201c,Project management,3,3690000,2505000
+PMG202c,Project management,3,3690000,2505000
+PRC391,Cloud Computing,3,3690000,2505000
+PRC391c,Cloud Computing,3,3690000,
+PRC392c,Cloud Computing,3,3690000,
+PRE101,Public Relations management for events,3,3690000,2505000
+PRE201,Excel Programming,3,3690000,2505000
+PRE203,Introduction to Public Relations,3,3690000,
+PRE301,Public Relations principles and strategies,3,3690000,
+PRF192,Programming Fundamentals,3,3690000,2505000
+PRF192-Extra,Programming Fundamentals,3,3690000,0
+PRF193,Programming Fundamentals,3,3690000,
+PRJ301,Java Web Application Development,3,3690000,2505000
+PRJ311,Desktop Java Applications,3,3690000,2505000
+PRJ311-Extra,Desktop Java Applications,3,3690000,0
+PRJ321,Web-based Java Applications,3,3690000,2505000
+PRM391,Mobile Programming,3,3690000,2505000
+PRM392,Mobile Programming,3,3690000,2505000
+PRN211,Platform Application Programming With .NET,3,3690000,2505000
+PRN212,Basis Cross-Platform Application Programming With .NET,3,3690000,
+PRN221,Advanced Cross-Platform Application Programming With .NET,3,3690000,2505000
+PRN222,Advanced Cross-Platform Application Programming With .NET,3,3690000,
+PRN231,Building Cross-Platform Back-End Application With .NET,3,3690000,2505000
+PRN232,Building Cross-Platform Back-End Application With .NET,3,3690000,
+PRN291,C# and .NET,3,3690000,2505000
+PRN292,C# and .NET,3,3690000,2505000
+PRN292-Extra,C# and .NET,3,3690000,0
+PRO001,PROGRAMMING WITH ALICE,1,1230000,835000
+PRO192,Object-Oriented Programming,3,3690000,2505000
+PRO192-Extra,Object-Oriented Programming,3,3690000,0
+PRO201,Front-end Web Development,3,3690000,2505000
+PRP201c,Python programming,3,3690000,2505000
+PRU211c,C# Programming and Unity,3,3690000,2505000
+PRU211m,C# Programming and Unity,3,3690000,2505000
+PRU212,C# Programming and Unity,3,3690000,
+PRU221c,Object-Oriented Programming for Unity Games,3,3690000,2505000
+PRU221m,Object-Oriented Programming for Unity Games,3,3690000,2505000
+PRW301,Professional PR writing,3,3690000,
+PRX301,Web Development (XML),3,3690000,2505000
+PST201,Perspective,2,2460000,1670000
+PST202,Perspective,3,3690000,2505000
+PWD301,Python Web Development,3,3690000,
+REL301,Reinforcement Learning,3,3690000,2505000
+REL301m,Reinforcement Learning,3,3690000,
+RES201,Food Preparation & Science,3,3690000,2505000
+RES212,"Wines, Beers, Spirits 1 (elective)",3,3690000,2505000
+RES213,"Wine, Beer, Spirits 1",3,3690000,2505000
+RES222,"Wine, Beer, Spirits 2",3,3690000,2505000
+RES223,Bar Operations,3,,
+RES301,Food and Beverage Management and Control,3,3690000,2505000
+RMA301,Reputation Management,3,3690000,
+RMB301,Business Research Methods,3,3690000,2505000
+RMB302,Research Methods & Quantitative Analysis,3,3690000,
+RMC201,Research methods in Communication,3,3690000,
+RMC301,Research methods in Communication,3,3690000,
+RMC301m,Research methods in Communication,3,3690000,
+RMD301,Research Methods in Designer,3,3690000,
+SAL301,Professional Selling,3,3690000,2505000
+SAP311,SAP General 1,3,3690000,
+SAP312,ERP System: Concepts and practice with SAP,3,3690000,
+SAP321,SAP General 2,3,3690000,
+SBA301,Integrate single page application with Spring Boot,6,7380000,
+SCA301c,Supply Chain Analytics,3,3690000,
+SCC201,Science of Color,3,3690000,
+SCM201,Supply Chain Management,3,3690000,2505000
+SCM202,Introduction to Logistics and Supply Chain Management,3,3690000,
+SCM301m,Procurement and Global Sourcing,3,3690000,2505000
+SCM302m,Procurement and Global Sourcing,3,,
+SDI101m,Introduction to Semiconductor Devices,3,3690000,
+SDN301m,"Server-Side development with NodeJS, Express, and MongoDB",3,3690000,2505000
+SDN302,"Server-Side development with NodeJS, Express, and MongoDB",3,3690000,
+SDP201,Sound Production,3,3690000,2505000
+SE_COM*1,Subject 1 of Combo*,3,3690000,
+SE_COM*2,Subject 2 of Combo*,3,3690000,
+SE_COM*3,Subject 3 of Combo*,3,3690000,
+SE_COM*4,Subject 4 of Combo*,3,3690000,
+SE_COM*4_ELE,Học phần 4 của combo SE,3,,
+SE_GRA_ELE,Graduation Elective - Software Engineering,10,,
+SEG301,Search Engines,3,3690000,
+SEG301m,Search Engines,3,3690000,
+SEM101,Semantics,3,3690000,2505000
+SEM301,English Semantics,3,3690000,
+SEO201c,Search Engine Optimization,3,3690000,
+SEP490,SE Capstone Project,10,12300000,8350000
+SLP301m,Speech Processing,3,3690000,
+SPS301,Software & Programming Standards for Automotive System,3,3690000,
+SSB201,Advanced Business Communication,3,3690000,2505000
+SSB201,Advanced Business Communication,3,3690000,2505000
+SSC101,Business Communication,3,3690000,2505000
+SSC101-Extra,Business Communication,3,3690000,0
+SSC102,Business Communication,3,3690000,2505000
+SSC103,Business Communication,3,3690000,2505000
+SSC201,Effective presentation skills,3,3690000,2505000
+SSC201,Effective presentation skills,3,3690000,2505000
+SSC302c,Advanced Presentation Skills,3,3690000,2505000
+SSC302m,Public Speaking,3,3690000,
+SSG101,Working in Group,3,3690000,2505000
+SSG103,Communication and In-Group Working Skills,3,3690000,2505000
+SSG104,Communication and In-Group Working Skills,3,3690000,2505000
+SSL101,Academic Skills for University Success,3,3690000,2505000
+SSL101c,Academic Skills for University Success,3,3690000,2505000
+SSL101c,Academic Skills for University Success,3,3690000,2505000
+SSM201,Management Skills,3,3690000,2505000
+SSN301,Negotiation,3,3690000,2505000
+SSS101,Study Skill,0,0,0
+SWC101,Software Engineering,3,3690000,2505000
+SWD391,SW Architecture and Design,3,3690000,2505000
+SWD392,SW Architecture and Design,3,3690000,2505000
+SWE102,Introduction to Software Engineering,3,3690000,2505000
+SWE201c,Introduction to Software Engineering,3,3690000,2505000
+SWM301,IT Project Management,3,3690000,2505000
+SWP391,Software development project,3,3690000,2505000
+SWP490,SW Capstone Project,10,12300000,8350000
+SWP493,SW Capstone Project,10,12300000,8350000
+SWQ391,Software Quality Assurance and Testing,3,3690000,2505000
+SWR301,Software Requirement,3,3690000,2505000
+SWR302,Software Requirement,3,3690000,2505000
+SWR302-Extra,Software Requirement,3,3690000,0
+SWT301,Software Testing,3,3690000,2505000
+SWT301-Extra,Software Testing,3,3690000,0
+SWT301-Extra.,Software Testing,3,3690000,0
+SYB301,Start Your Business,0,0,0
+SYB302c,Entrepreneurship,3,3690000,2505000
+SYB302c,Entrepreneurship,3,3690000,2505000
+SYB303,Start Your Business,0,0,0
+SYB303c,Start Your Business,0,3690000,0
+TAB201,Travel Agency Business,3,3690000,
+TAR_LV6,"TAR UMT University, Kuala lumpur, Malaysia",0,18500000,
+Thesis,Thesis,0,0,
+TM_COM*1,Option 1,3,3690000,
+TM_COM*2,Option 2,3,3690000,
+TM_COM*3,Option 3,3,3690000,
+TM_COM*4,Option 4,3,3690000,
+TM_GRA_ELE,Graduation Elective - Tourism and Travel Management,10,12300000,
+TMG301,Text Mining,3,3690000,
+TMG301m,Text Mining,3,3690000,
+TMI_ELE,Traditional musical instrument,3,3690000,
+TMI101,Traditional Musical Instrument,3,3690000,0
+TPG202,Typography 1,3,3690000,2505000
+TPG203,Basic typography & Layout,3,3690000,2505000
+TPG301,Typography 2,3,3690000,2505000
+TPG302,Typography & E-publication Design,3,3690000,2505000
+TRG102,Traditional musical instrument,3,3690000,2505000
+TRG103,Traditional Musical Instrument,3,3690000,
+TRS401,TRS401,0,0,0
+TRS403,English 4 (Speak Your Mind level 3),0,0,0
+TRS501,TRS501,0,0,0
+TRS601,TRS601,0,8330000,0
+TTD202,Tourism destinations and routes of Vietnam,3,3690000,
+TTD301,Tour design and development,3,3690000,
+TTG201,Geography of tourism,3,3690000,2505000
+TTI301,International Tourism,3,3690000,
+TTM201,Tourism and Travel Management,3,3690000,2505000
+TTM202,Destination Management,3,3690000,2505000
+TTM203,Consumer Behavior,3,3690000,2505000
+TTO301,Tour Operations Management,3,3690000,
+TTS302,Sustainable Tourism,3,3690000,
+VCM201,Visual Communication,3,3690000,2505000
+VCM202,Visual Communication,3,3690000,2505000
+VDE301,Digital Video Editing,3,3690000,
+VDP201,Video Production,3,3690000,
+VDP301,Video Production,3,3690000,
+VNC101,Vietnamese Cultural,2,2460000,1670000
+VNC102,Vietnamese Culture,3,3690000,2505000
+VNC103,Vietnamsese culture base,3,3690000,2505000
+VNC104,Vietnamese Culture,3,3690000,2505000
+VNL111,Vietnamese Language 1,3,3690000,2505000
+VNL111-Extra,Vietnamese Language 1,3,3690000,0
+VNL121,Vietnamese Language 2,3,3690000,2505000
+VNL131,Vietnamese Language 3,3,3690000,2505000
+VNR201,Revolutionary line of CPV,3,3690000,2505000
+VNR202,History of Viet Nam Communist Party,2,2460000,1670000
+VOV112,Vovinam 1,1,1230000,835000
+VOV113,Vovinam 2,1,1230000,835000
+VOV114,Vovinam 1,2,2460000,1670000
+VOV121,Vovinam 2,2,2460000,1670000
+VOV122,Vovinam 3,1,1230000,835000
+VOV123,Vovinam 4,1,1230000,835000
+VOV124,Vovinam 2,2,2460000,1670000
+VOV131,Vovinam 5,1,1230000,835000
+VOV132,Vovinam 5,1,1230000,835000
+VOV133,Vovinam 6,1,1230000,835000
+VOV134,Vovinam 3,2,2460000,1670000
+WDA201,Writing in the Digital age,3,3690000,
+WDL201,Web layout design,3,3690000,2505000
+WDL202,WEB Web layout design,3,3690000,25050000
+WDL301,Web Design 1,3,3690000,2505000
+WDP301,Web Development Project,3,3690000,2505000
+WDT401,Web Design 2,3,3690000,2505000
+WDU201,Principles of UX,3,3690000,2505000
+WDU202c,The UI/UX Design,3,3690000,2505000
+WDU203c,UI/UX Design,3,3690000,2505000
+WEB201c,Web Design,3,3690000,2505000
+WED201c,WEB DESIGN,3,3690000,2505000
+WED201c-Extra,Web Design,3,3690000,0
+WED301,Developing Interactive Web Pages,3,3690000,
+WIR201,Interaction design,3,3690000,2505000
+WMC201,Media Writing,3,3690000,
+ÐBA101,Traditional musical instrument,0,3690000,0
+ÐBA102,Traditional musical instrument,3,3690000,2505000
+ÐNG101,Traditional musical instrument,3,3690000,2505000
+ÐNG102,Traditional musical instrument,3,3690000,2505000
+ÐNH101,Traditional musical instrument,0,3690000,0
+ÐNH102,Traditional musical instrument,3,3690000,2505000
+ÐSA101,Traditional musical instrument,3,3690000,0
+ÐSA102,Traditional musical instrument,3,3690000,2505000
+ÐTB102,Traditional musical instrument,3,3690000,2505000
+ÐTR101,Traditional musical instrument,0,3690000,0
+ÐTR102,Traditional musical instrument,3,3690000,2505000
