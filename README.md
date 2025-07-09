@@ -1,7 +1,7 @@
 ﻿# FAP Chat - Student Academic Data RAG System
 
 Hệ thống RAG (Retrieval-Augmented Generation) cho dữ liệu học tập sinh viên FPT University.
-![Demo](static\demo.JPG)
+![Demo](static/demo.JPG)
 
 ## 🚀 Cài đặt
 
