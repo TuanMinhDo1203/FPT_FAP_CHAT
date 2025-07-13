@@ -6,21 +6,58 @@
   <title>Fap-Chat Chatbot</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
-<body style="background: url('static/bgr.jpg') no-repeat center top  fixed; background-size: cover;" class="min-h-screen flex flex-col items-center justify-center">
+<body style="background: url('../static/bgr.jpg') no-repeat center top fixed; background-size: cover;" class="min-h-screen flex flex-col items-center justify-center">
   <div class="bg-white shadow-xl rounded-xl w-full max-w-xl mt-8 flex flex-col h-[80vh]">
-    <div class="flex items-center justify-center py-4 border-b">
+    <div class="flex items-center justify-between py-4 border-b px-4">
       <span class="text-2xl font-bold text-blue-700">Fap-Chat Chatbot</span>
+      <div class="flex items-center space-x-2">
+        {% if session.get('google_token') %}
+          <span class="text-sm text-gray-600">
+            <i class="fas fa-user-circle mr-1"></i>
+            {{ session.get('user_email', 'User') }}
+          </span>
+          <a href="/logout" class="text-red-600 hover:text-red-700 text-sm">
+            <i class="fas fa-sign-out-alt"></i>
+          </a>
+        {% else %}
+          <a href="/" class="text-blue-600 hover:text-blue-700 text-sm">
+            <i class="fas fa-sign-in-alt mr-1"></i>Đăng nhập
+          </a>
+        {% endif %}
+      </div>
     </div>
-    <div id="chat-window" class="flex-1 overflow-y-auto p-4 space-y-4">
-      <!-- Chat bubbles will appear here -->
-    </div>
-    <form id="chat-form" class="flex gap-2 p-4 border-t bg-gray-50">
-      <input id="chat-input" type="text" placeholder="Nhập câu hỏi..." autocomplete="off" class="flex-1 border border-gray-300 rounded px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400" required />
-      <button type="submit" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-4 py-2 rounded">Gửi</button>
-    </form>
+    
+    {% if not session.get('google_token') %}
+      <div class="flex-1 flex items-center justify-center">
+        <div class="text-center">
+          <div class="w-16 h-16 bg-yellow-100 rounded-full flex items-center justify-center mx-auto mb-4">
+            <i class="fas fa-lock text-yellow-600 text-2xl"></i>
+          </div>
+          <h2 class="text-xl font-semibold text-gray-800 mb-2">Cần đăng nhập</h2>
+          <p class="text-gray-600 mb-4">Vui lòng đăng nhập để sử dụng chatbot</p>
+          <a href="/" class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-lg transition duration-200">
+            <i class="fas fa-sign-in-alt mr-2"></i>Đăng nhập ngay
+          </a>
+        </div>
+      </div>
+    {% else %}
+      <div id="chat-window" class="flex-1 overflow-y-auto p-4 space-y-4">
+        <!-- Chat bubbles will appear here -->
+      </div>
+      <form id="chat-form" class="flex gap-2 p-4 border-t bg-gray-50">
+        <input id="chat-input" type="text" placeholder="Nhập câu hỏi..." autocomplete="off" class="flex-1 border border-gray-300 rounded px-3 py-2 focus:outline-none focus:ring-2 focus:ring-blue-400" required />
+        <button type="submit" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-4 py-2 rounded">
+          <i class="fas fa-paper-plane"></i>
+        </button>
+      </form>
+    {% endif %}
   </div>
+  
   <footer class="mt-8 text-gray-400 text-sm">Fap-Chat &copy; 2024</footer>
+  
+  {% if session.get('google_token') %}
   <script>
     const chatWindow = document.getElementById('chat-window');
     const chatForm = document.getElementById('chat-form');
@@ -52,10 +89,10 @@
           const itemDiv = document.createElement('div');
           itemDiv.className = 'mb-3 pb-3 border-b last:border-b-0';
           itemDiv.innerHTML = `<div class='font-semibold text-gray-700 mb-1'>Kết quả #${idx+1}</div>` +
-            `<div class='text-gray-800 whitespace-pre-line mb-1'><b>Chunk:</b><br>${item.chunk_content ? item.chunk_content : ''}</div>` +
+            `<div class='text-gray-800 whitespace-pre-line mb-1'><b>Chunk:</b><br>${item.content ? item.content : ''}</div>` +
             (item.subject_name ? `<div class='text-gray-600 text-xs mb-1'><b>Môn:</b> ${item.subject_name}</div>` : '') +
             (item.type ? `<div class='text-gray-600 text-xs mb-1'><b>Loại:</b> ${item.type}</div>` : '') +
-            (item.similarity !== undefined ? `<div class='text-gray-500 text-xs'><b>Similarity:</b> ${item.similarity.toFixed(3)}</div>` : '');
+            (item.score !== undefined ? `<div class='text-gray-500 text-xs'><b>Score:</b> ${item.score.toFixed(3)}</div>` : '');
           detailDiv.appendChild(itemDiv);
         });
         toggleBtn.onclick = () => {
@@ -73,10 +110,11 @@
       const loading = document.createElement('div');
       loading.id = 'loading-bubble';
       loading.className = 'max-w-[80%] px-4 py-2 rounded-lg shadow text-sm bg-yellow-100 text-yellow-800 self-start mr-auto text-left mb-1';
-      loading.textContent = 'Đang trả lời...';
+      loading.innerHTML = '<i class="fas fa-spinner fa-spin mr-2"></i>Đang trả lời...';
       chatWindow.appendChild(loading);
       chatWindow.scrollTop = chatWindow.scrollHeight;
     }
+    
     function removeLoading() {
       const loading = document.getElementById('loading-bubble');
       if (loading) loading.remove();
@@ -92,7 +130,7 @@
       isLoading = true;
       addLoading();
       try {
-        const res = await fetch('http://127.0.0.1:5000/api/search', {
+        const res = await fetch('/api/search', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ query: userMsg })
@@ -111,5 +149,6 @@
       isLoading = false;
     };
   </script>
+  {% endif %}
 </body>
 </html> 
