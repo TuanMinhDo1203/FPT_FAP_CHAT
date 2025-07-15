@@ -1,0 +1,240 @@
+{"text": "Which subjects are taught in the fall semester?", "label": "overview"}
+{"text": "Can you give me an overview of the Computer Science curriculum?", "label": "overview"}
+{"text": "What are the main goals of the 'Introduction to Artificial Intelligence' course?", "label": "overview"}
+{"text": "How many credits is 'Advanced Databases' worth?", "label": "overview"}
+{"text": "Show me the syllabus for 'Machine Learning Fundamentals'.", "label": "overview"}
+{"text": "What courses are related to cybersecurity?", "label": "overview"}
+{"text": "Tell me about the curriculum structure for the software engineering major.", "label": "overview"}
+{"text": "Are there any prerequisites for the 'Data Structures and Algorithms' course?", "label": "overview"}
+{"text": "List all subjects taught by Professor Eleanor Vance.", "label": "overview"}
+{"text": "What is the course code for 'Natural Language Processing'?", "label": "overview"}
+{"text": "Can I get a brief description of the 'Operating Systems' course?", "label": "overview"}
+{"text": "Which subjects focus on theoretical computer science?", "label": "overview"}
+{"text": "Provide a summary of the 'Computer Networks' curriculum.", "label": "overview"}
+{"text": "What topics are covered in the first year of the information systems program?", "label": "overview"}
+{"text": "How is the 'Software Development Capstone' course structured?", "label": "overview"}
+{"text": "Show me the subjects that don't have a final exam.", "label": "overview"}
+{"text": "What are the core subjects for the information technology degree?", "label": "overview"}
+{"text": "Give me a list of elective courses available for the spring 2025 semester.", "label": "overview"}
+{"text": "What's the main difference between 'Calculus for Engineers I' and 'Calculus for Engineers II'?", "label": "overview"}
+{"text": "I need to see the course catalog for the upcoming academic year.", "label": "overview"}
+{"text": "How might quantum computing impact cryptography in the future?", "label": "construtive_question"}
+{"text": "What are the ethical considerations of developing fully autonomous AI?", "label": "construtive_question"}
+{"text": "In what ways can technology be used to bridge educational gaps in developing countries?", "label": "construtive_question"}
+{"text": "What is the single most significant challenge our generation will face?", "label": "construtive_question"}
+{"text": "How does understanding historical economic cycles help in predicting future financial crises?", "label": "construtive_question"}
+{"text": "What role should universities play in fostering social and political discourse?", "label": "construtive_question"}
+{"text": "Can a machine ever be truly creative, or is it just sophisticated mimicry?", "label": "construtive_question"}
+{"text": "What are the most compelling arguments for and against space colonization?", "label": "construtive_question"}
+{"text": "How do different cultural perspectives shape the interpretation of scientific data?", "label": "construtive_question"}
+{"text": "What does it mean to be an 'educated person' in the 21st century?", "label": "construtive_question"}
+{"text": "If you could redesign the education system from scratch, what would you prioritize?", "label": "construtive_question"}
+{"text": "What are the potential societal impacts of widespread human gene editing?", "label": "construtive_question"}
+{"text": "How can we balance technological progress with the preservation of human values?", "label": "construtive_question"}
+{"text": "What is the relationship between individual freedom and collective responsibility?", "label": "construtive_question"}
+{"text": "To what extent should historical figures be judged by contemporary moral standards?", "label": "construtive_question"}
+{"text": "How has the internet changed the nature of human identity?", "label": "construtive_question"}
+{"text": "What are the most critical soft skills for succeeding in the future workplace?", "label": "construtive_question"}
+{"text": "What is the impact of global media on the preservation of local traditions?", "label": "construtive_question"}
+{"text": "Where is the line between free speech and speech that incites harm?", "label": "construtive_question"}
+{"text": "What lessons from ancient philosophies are still relevant for modern life?", "label": "construtive_question"}
+{"text": "What is the format of the FE for 'Calculus I'?", "label": "assessment"}
+{"text": "Can you tell me the dates for all the term exams this semester?", "label": "assessment"}
+{"text": "What's the grading weight of the midterm exam in 'Physics II'?", "label": "assessment"}
+{"text": "How are the final grades calculated for the 'Programming Fundamentals' course?", "label": "assessment"}
+{"text": "Are there any progress exams this week for 'Digital Logic Design'?", "label": "assessment"}
+{"text": "What types of evaluations are used in the 'History of Science' course?", "label": "assessment"}
+{"text": "When is the deadline for the final project submission?", "label": "assessment"}
+{"text": "Could you provide the grading rubric for the term paper?", "label": "assessment"}
+{"text": "What is the policy on late submissions for assignments?", "label": "assessment"}
+{"text": "Is the final exam cumulative?", "label": "assessment"}
+{"text": "How many PEs will we have in 'Statistics for Data Science'?", "label": "assessment"}
+{"text": "What percentage of the final grade is based on lab work?", "label": "assessment"}
+{"text": "Show me the assessment breakdown for the 'Data Structures' course.", "label": "assessment"}
+{"text": "Will the TE be multiple choice or short answer?", "label": "assessment"}
+{"text": "What topics will be covered in the upcoming test?", "label": "assessment"}
+{"text": "How much does the group presentation contribute to the final grade?", "label": "assessment"}
+{"text": "Does class participation count towards our final assessment?", "label": "assessment"}
+{"text": "Where can I find my current grade progress?", "label": "assessment"}
+{"text": "What's the passing threshold for the final examination?", "label": "assessment"}
+{"text": "Tell me about the re-sit policy for the term exam.", "label": "assessment"}
+{"text": "What is the topic for this week's lecture in 'Advanced Machine Learning'?", "label": "session"}
+{"text": "Can you list the session schedule for the 'Algorithms and Complexity' course?", "label": "session"}
+{"text": "What did we cover in the 'Intro to Python' lesson on Monday?", "label": "session"}
+{"text": "Which topics will be discussed in session 7 of 'Web Development'?", "label": "session"}
+{"text": "Is there a lab session for 'Database Systems' this Friday?", "label": "session"}
+{"text": "Show me the lesson plan for the entire semester.", "label": "session"}
+{"text": "What was the main focus of the tutorial last Wednesday?", "label": "session"}
+{"text": "What are we going to learn in the next 'Operating Systems' class?", "label": "session"}
+{"text": "Can I get a summary of the guest lecture from session 4?", "label": "session"}
+{"text": "What are the timings and location for the weekly 'Software Engineering' lessons?", "label": "session"}
+{"text": "Who is the instructor for the session on 'Advanced Network Security'?", "label": "session"}
+{"text": "What was the required reading for the last lesson?", "label": "session"}
+{"text": "Will the next lecture session be online or in-person?", "label": "session"}
+{"text": "Provide the schedule of topics for the 'Discrete Mathematics' course.", "label": "session"}
+{"text": "What were the key points from the week 6 lesson on 'AI Ethics'?", "label": "session"}
+{"text": "Is the lecture for 'Computer Architecture' going to be recorded?", "label": "session"}
+{"text": "What room is the tutorial for 'Linear Algebra' in tomorrow?", "label": "session"}
+{"text": "Show me all topics covered in the 'Cloud Computing' course, week by week.", "label": "session"}
+{"text": "Did I miss any important announcements in the last class session?", "label": "session"}
+{"text": "What's on the agenda for today's lecture?", "label": "session"}
+{"text": "Where can I find the lecture slides for week 8?", "label": "material"}
+{"text": "What is the recommended textbook for 'Introduction to Economics'?", "label": "material"}
+{"text": "Can you provide a link to the reading materials for this module?", "label": "material"}
+{"text": "Are there any online resources you'd suggest for studying advanced calculus?", "label": "material"}
+{"text": "I need the main reference book for the 'Modern Physics' course.", "label": "material"}
+{"text": "Where are the lab manuals for 'Chemistry 101' located?", "label": "material"}
+{"text": "Can I download all the lecture notes for 'Data Structures' in a single file?", "label": "material"}
+{"text": "Is there a list of required readings for the entire semester?", "label": "material"}
+{"text": "Could you share the slides from the guest speaker's presentation on bioinformatics?", "label": "material"}
+{"text": "What software do we need to install for the 'Scientific Computing' course?", "label": "material"}
+{"text": "Are there any past exam papers available for practice?", "label": "material"}
+{"text": "Where do I find the source code examples discussed in the programming class?", "label": "material"}
+{"text": "I need the dataset for the final machine learning project.", "label": "material"}
+{"text": "Can you give me the link to the course's online learning portal?", "label": "material"}
+{"text": "What's the best book for a beginner in 'Artificial Intelligence'?", "label": "material"}
+{"text": "Are the solution manuals for the textbook exercises available to students?", "label": "material"}
+{"text": "Where can I access the recorded video lectures?", "label": "material"}
+{"text": "List all learning resources for the 'Computer Vision' module.", "label": "material"}
+{"text": "I can't find the syllabus PDF, can you help?", "label": "material"}
+{"text": "What materials should I review for the upcoming midterm exam?", "label": "material"}
+{"text": "What skills will I have after finishing the 'Database Management' course?", "label": "learning outcome"}
+{"text": "What are the expected learning outcomes for 'Software Engineering Project II'?", "label": "learning outcome"}
+{"text": "Can you list the key competencies I should gain from the data science program?", "label": "learning outcome"}
+{"text": "What knowledge am I supposed to acquire in 'Advanced Computer Networking'?", "label": "learning outcome"}
+{"text": "After this course, what will I be able to build?", "label": "learning outcome"}
+{"text": "Show me the learning objectives for the 'Reinforcement Learning' module.", "label": "learning outcome"}
+{"text": "What are the main goals and outcomes of the 'Human-Computer Interaction' course?", "label": "learning outcome"}
+{"text": "How does this course prepare me for a career in quantitative analysis?", "label": "learning outcome"}
+{"text": "What specific abilities are developed in the 'Embedded Systems Design' class?", "label": "learning outcome"}
+{"text": "Could you outline the expected student outcomes for the second year of study?", "label": "learning outcome"}
+{"text": "What is the intended knowledge base upon finishing 'Advanced Operating Systems'?", "label": "learning outcome"}
+{"text": "How will this course enhance my problem-solving skills?", "label": "learning outcome"}
+{"text": "What practical skills will I learn in the 'Full-Stack Web Development' workshop?", "label": "learning outcome"}
+{"text": "List the competencies associated with the 'Information Security' specialization.", "label": "learning outcome"}
+{"text": "What are we expected to fully understand by the end of this semester?", "label": "learning outcome"}
+{"text": "How does this module contribute to my overall degree's learning outcomes?", "label": "learning outcome"}
+{"text": "What are the target skills for the final year capstone project?", "label": "learning outcome"}
+{"text": "Can you explain the cognitive skills this course aims to develop?", "label": "learning outcome"}
+{"text": "What are the professional outcomes expected from this degree program?", "label": "learning outcome"}
+{"text": "Upon completion, what level of proficiency in C++ should I have?", "label": "learning outcome"}
+{"text": "How do I submit my assignment on the Moodle platform?", "label": "guide"}
+{"text": "Can you give me instructions for the final year project proposal?", "label": "guide"}
+{"text": "What is the step-by-step process for course registration next semester?", "label": "guide"}
+{"text": "How do I use the university's remote desktop for lab work?", "label": "guide"}
+{"text": "Can you guide me on how to form a project group?", "label": "guide"}
+{"text": "What are the formatting guidelines for the research paper?", "label": "guide"}
+{"text": "Show me the instructions for setting up the Python development environment for this course.", "label": "guide"}
+{"text": "How should I format my lab report submission?", "label": "guide"}
+{"text": "Can you explain how to check my final grades online?", "label": "guide"}
+{"text": "What are the steps to apply for a tuition fee waiver?", "label": "guide"}
+{"text": "I need help with searching for articles on the library's online database.", "label": "guide"}
+{"text": "How do I book a consultation with my academic advisor?", "label": "guide"}
+{"text": "What's the procedure for formally withdrawing from a course?", "label": "guide"}
+{"text": "Can you walk me through the process of citing sources in IEEE style?", "label": "guide"}
+{"text": "How do I participate in the online class discussion forum?", "label": "guide"}
+{"text": "Provide instructions for the peer review assignment.", "label": "guide"}
+{"text": "What is the correct file naming convention for final submissions?", "label": "guide"}
+{"text": "How do I access the university's campus-wide VPN?", "label": "guide"}
+{"text": "Guide me on where to find and complete the course feedback form.", "label": "guide"}
+{"text": "What are the steps to complete the ethics approval form for my research project?", "label": "guide"}
+{"text": "Can you show me the list of students in the 'CS50' course?", "label": "student_list"}
+{"text": "I need the roster for the 'Software Engineering Principles' class.", "label": "student_list"}
+{"text": "Who is enrolled in the 'Advanced Algorithms' seminar?", "label": "student_list"}
+{"text": "Provide a list of all students in my 'Capstone Project' group.", "label": "student_list"}
+{"text": "Can I get the names and student IDs for everyone in the 'Data Structures' class?", "label": "student_list"}
+{"text": "Show me the student list for the Tuesday morning lab session.", "label": "student_list"}
+{"text": "What are the email addresses of the students in my tutorial group?", "label": "student_list"}
+{"text": "List all participants in the 'Introduction to AI' course.", "label": "student_list"}
+{"text": "Who are the other students in the Computer Engineering program?", "label": "student_list"}
+{"text": "I need a complete list of students enrolled in 'ENGL101' this semester.", "label": "student_list"}
+{"text": "Can you give me the class list for 'PHYS101'?", "label": "student_list"}
+{"text": "Show me the names of students in section C of 'MATH203'.", "label": "student_list"}
+{"text": "Can I see the list of my classmates for this course?", "label": "student_list"}
+{"text": "Provide the student directory for the 'Calculus II' course.", "label": "student_list"}
+{"text": "Who is in the 'Operating Systems Concepts' class with me?", "label": "student_list"}
+{"text": "List the names and emails of students in the afternoon lecture.", "label": "student_list"}
+{"text": "I need the enrollment list for the 'Advanced Web Development' workshop.", "label": "student_list"}
+{"text": "Can you show me who is taking 'Linear Algebra' this term?", "label": "student_list"}
+{"text": "Give me the student roster, including their university email addresses.", "label": "student_list"}
+{"text": "Who are the members of the 'Senior Design Project' course?", "label": "student_list"}
+{"text": "What is my attendance record for the 'Microeconomics' course?", "label": "attendance"}
+{"text": "Can you check my attendance for last week's classes?", "label": "attendance"}
+{"text": "How many classes have I missed in 'Thermodynamics' so far?", "label": "attendance"}
+{"text": "Show me the attendance for the 'CS101' session on 2024-10-28.", "label": "attendance"}
+{"text": "Was I marked present for the tutorial on Tuesday morning?", "label": "attendance"}
+{"text": "Provide the attendance list for the lab session on Wednesday, including room number.", "label": "attendance"}
+{"text": "I need to see my complete attendance record for the current semester.", "label": "attendance"}
+{"text": "Can you tell me the date of my last recorded absence?", "label": "attendance"}
+{"text": "Which instructor was present for the 'Signal Processing' session on November 5th?", "label": "attendance"}
+{"text": "What room was the 'Calculus' lecture in last Friday?", "label": "attendance"}
+{"text": "Show me the attendance for student with ID 5551234.", "label": "attendance"}
+{"text": "List all students who were absent from the last lecture session.", "label": "attendance"}
+{"text": "What is the official attendance policy for this course?", "label": "attendance"}
+{"text": "My attendance for last Monday appears to be incorrect, can you verify it?", "label": "attendance"}
+{"text": "How many sessions of 'Discrete Math' have been conducted so far?", "label": "attendance"}
+{"text": "Can I get a report of my attendance percentage for all courses?", "label": "attendance"}
+{"text": "What was the date, room, and instructor for session number 5?", "label": "attendance"}
+{"text": "Show me the attendance details for my account.", "label": "attendance"}
+{"text": "Who was the lecturer for the session I missed on the 15th of last month?", "label": "attendance"}
+{"text": "Can you confirm my presence in all sessions for November?", "label": "attendance"}
+{"text": "What was my score on the midterm exam for 'Algorithms'?", "label": "grade detail"}
+{"text": "Can you show me a detailed breakdown of my grades for 'CS101'?", "label": "grade detail"}
+{"text": "What did I get on assignment number 3?", "label": "grade detail"}
+{"text": "Show me all the grade components for the 'Data Structures' course.", "label": "grade detail"}
+{"text": "What is my current weighted average in 'Modern Physics'?", "label": "grade detail"}
+{"text": "Can I see the weights and my scores for all evaluation items?", "label": "grade detail"}
+{"text": "What was the score for the group project in 'Software Engineering'?", "label": "grade detail"}
+{"text": "List all my grades for the 'Intro to Programming' course, including item category and weight.", "label": "grade detail"}
+{"text": "How did I do on the final exam for 'Advanced Algorithms'?", "label": "grade detail"}
+{"text": "I need to see my detailed marks for student ID 12345.", "label": "grade detail"}
+{"text": "What was the class average for the first progress exam?", "label": "grade detail"}
+{"text": "Show me my score for the 'Lab Reports' category.", "label": "grade detail"}
+{"text": "What is my obtained score for the second term exam?", "label": "grade detail"}
+{"text": "Can you list each assessment item and the specific mark I received?", "label": "grade detail"}
+{"text": "I want to see the detailed grade report for the previous semester.", "label": "grade detail"}
+{"text": "What's my score on the final presentation?", "label": "grade detail"}
+{"text": "Show my grade details for the 'Web Technologies' course.", "label": "grade detail"}
+{"text": "Can you break down my final grade into its constituent components?", "label": "grade detail"}
+{"text": "What mark did I get for the 'Weekly Homework' category?", "label": "grade detail"}
+{"text": "Please provide my individual scores for all tests, quizzes, and assignments this term.", "label": "grade detail"}
+{"text": "What is my final status for the 'Data Science Fundamentals' course?", "label": "course summary"}
+{"text": "Can you give me the course summary for 'Advanced Machine Learning'?", "label": "course summary"}
+{"text": "What was the average score for the class in 'CS101'?", "label": "course summary"}
+{"text": "Show me my final summary report for the Fall 2024 semester.", "label": "course summary"}
+{"text": "Did I pass the 'Advanced Algorithms' course?", "label": "course summary"}
+{"text": "I need the summary notes about my performance in 'Software Engineering'.", "label": "course summary"}
+{"text": "What is the overall course status for student ID 12345?", "label": "course summary"}
+{"text": "Can you provide the final course summary, including my final average score?", "label": "course summary"}
+{"text": "Show me the performance summary for the 'Quantum Physics' course.", "label": "course summary"}
+{"text": "What are the summary notes for my 'Web Development' capstone project?", "label": "course summary"}
+{"text": "Give me the final wrap-up for the 'Operating Systems' class.", "label": "course summary"}
+{"text": "What was my final grade and status in 'Intro to Stats'?", "label": "course summary"}
+{"text": "I want to see the course summary report for all my subjects.", "label": "course summary"}
+{"text": "Can you summarize my performance across all courses this academic year?", "label": "course summary"}
+{"text": "What was the highest score in the class for 'AI'?", "label": "course summary"}
+{"text": "Show me the summary for 'Calculus II'.", "label": "course summary"}
+{"text": "What is my final standing in the 'Linear Algebra' course?", "label": "course summary"}
+{"text": "Provide a summary of my academic performance for the year 2024.", "label": "course summary"}
+{"text": "Has my status been updated to 'Complete' for the 'Java Programming' course?", "label": "course summary"}
+{"text": "I need the course summary including the class average, my score, and my final status.", "label": "course summary"}
+{"text": "Show me my student profile.", "label": "student profile"}
+{"text": "What is my student ID number?", "label": "student profile"}
+{"text": "Can you confirm my major and program of study?", "label": "student profile"}
+{"text": "What is the email address on my student record?", "label": "student profile"}
+{"text": "Display the personal profile for student 'Jane Doe'.", "label": "student profile"}
+{"text": "I need to see the student profile for student ID 987654321.", "label": "student profile"}
+{"text": "What is my full name as it appears in the university records?", "label": "student profile"}
+{"text": "Can you show me the profile details for 'John Smith', student ID 123456789?", "label": "student profile"}
+{"text": "What program am I currently enrolled in?", "label": "student profile"}
+{"text": "I want to check my personal information on my student profile.", "label": "student profile"}
+{"text": "Provide the student profile, including full name, ID, program, and major.", "label": "student profile"}
+{"text": "Can you verify my registered university email address?", "label": "student profile"}
+{"text": "Show me the academic profile associated with my student number.", "label": "student profile"}
+{"text": "What are the details on my student ID card?", "label": "student profile"}
+{"text": "I need to see my own personal profile.", "label": "student profile"}
+{"text": "What is my registered major field of study?", "label": "student profile"}
+{"text": "Can you pull up my personal details from the student information system?", "label": "student profile"}
+{"text": "Show the profile for the student with the email 'student.name@university.edu'.", "label": "student profile"}
+{"text": "I need to check my enrollment details, can you show me my profile?", "label": "student profile"}
+{"text": "Display my full student profile information.", "label": "student profile"}
