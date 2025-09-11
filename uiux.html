@@ -1,0 +1,940 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Web Chatbot</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f7fa;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 30px auto;
+            padding: 20px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            color: #4a4a4a;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #777;
+            font-size: 1.1rem;
+        }
+        
+        .category {
+            background-color: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        .category h2 {
+            color: #4a4a4a;
+            margin-bottom: 20px;
+        }
+        
+        .category-buttons {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        
+        .category-button {
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 30px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        
+        .category-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+        }
+        
+        .chatbots-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+        }
+        
+        .chatbot {
+            background-color: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+            display: flex;
+            flex-direction: column;
+            height: 400px;
+            transition: transform 0.3s ease;
+        }
+        
+        .chatbot:hover {
+            transform: translateY(-5px);
+        }
+        
+        .chatbot-header {
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            color: white;
+            padding: 15px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .chatbot-icon {
+            margin-right: 10px;
+            font-size: 1.2rem;
+        }
+        
+        .login-status {
+            font-size: 0.8rem;
+            opacity: 0.9;
+        }
+        
+        .chatbot-messages {
+            flex: 1;
+            padding: 15px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .message {
+            padding: 10px 15px;
+            border-radius: 18px;
+            max-width: 80%;
+            word-wrap: break-word;
+        }
+        
+        .user-message {
+            background-color: #e3f2fd;
+            align-self: flex-end;
+            border-bottom-right-radius: 5px;
+        }
+        
+        .bot-message {
+            background-color: #f1f1f1;
+            align-self: flex-start;
+            border-bottom-left-radius: 5px;
+        }
+        
+        .chatbot-input {
+            display: flex;
+            padding: 10px;
+            border-top: 1px solid #eee;
+        }
+        
+        .chatbot-input input {
+            flex: 1;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            outline: none;
+            font-size: 0.9rem;
+        }
+        
+        .chatbot-input button {
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            color: white;
+            border: none;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            margin-left: 10px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .chatbot-input button:hover {
+            opacity: 0.9;
+        }
+        
+        .active-chatbot {
+            border: 2px solid #6e8efb;
+        }
+        
+        /* Login Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(5px);
+        }
+        
+        .modal-content {
+            background-color: white;
+            margin: 5% auto;
+            padding: 0;
+            border-radius: 20px;
+            width: 90%;
+            max-width: 400px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+            animation: modalSlideIn 0.3s ease-out;
+        }
+        
+        @keyframes modalSlideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .modal-header {
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            color: white;
+            padding: 25px;
+            border-radius: 20px 20px 0 0;
+            text-align: center;
+        }
+        
+        .modal-header h2 {
+            margin: 0;
+            font-size: 1.5rem;
+        }
+        
+        .modal-body {
+            padding: 30px;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #555;
+            font-weight: 500;
+        }
+        
+        .form-group input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e1e5e9;
+            border-radius: 10px;
+            font-size: 1rem;
+            transition: border-color 0.3s ease;
+            box-sizing: border-box;
+        }
+        
+        .form-group input:focus {
+            outline: none;
+            border-color: #6e8efb;
+        }
+        
+        .login-btn {
+            width: 100%;
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            color: white;
+            border: none;
+            padding: 15px;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .login-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(110, 142, 251, 0.4);
+        }
+        
+        .login-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .close {
+            position: absolute;
+            right: 20px;
+            top: 20px;
+            color: white;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+            opacity: 0.8;
+            transition: opacity 0.3s;
+        }
+        
+        .close:hover {
+            opacity: 1;
+        }
+        
+        .error-message {
+            color: #e74c3c;
+            font-size: 0.9rem;
+            margin-top: 10px;
+            text-align: center;
+        }
+        
+        .success-message {
+            color: #27ae60;
+            font-size: 0.9rem;
+            margin-top: 10px;
+            text-align: center;
+        }
+        
+        .loading-spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top-color: white;
+            animation: spin 1s ease-in-out infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        @media (max-width: 768px) {
+            .chatbots-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .category-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .category-button {
+                width: 80%;
+            }
+            
+            .modal-content {
+                margin: 10% auto;
+                width: 95%;
+            }
+        }
+
+                /* CSS cho hiệu ứng gõ phím */
+        .typing-indicator {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 5px 0;
+        }
+
+        .typing-indicator span {
+            height: 8px;
+            width: 8px;
+            background-color: #9ca3af;
+            border-radius: 50%;
+            display: inline-block;
+            margin: 0 2px;
+            animation: bounce 1.2s infinite ease-in-out;
+        }
+
+        .typing-indicator span:nth-of-type(2) {
+            animation-delay: -1.0s;
+        }
+
+        .typing-indicator span:nth-of-type(3) {
+            animation-delay: -0.8s;
+        }
+
+        @keyframes bounce {
+            0%, 80%, 100% {
+                transform: scale(0);
+            }
+            40% {
+                transform: scale(1.0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Login Modal -->
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>🔐 Đăng nhập FAP</h2>
+                <span class="close" onclick="closeLoginModal()">&times;</span>
+            </div>
+            <div class="modal-body">
+                <form id="loginForm" onsubmit="handleLogin(event)">
+                    <div class="form-group">
+                        <label for="gmail">📧 Email:</label>
+                        <input type="email" id="gmail" name="gmail" required placeholder="Nhập email của bạn">
+                    </div>
+                    <div class="form-group">
+                        <label for="mssv">🆔 MSSV (Mã số sinh viên):</label>
+                        <input type="text" id="mssv" name="mssv" required placeholder="Nhập mã số sinh viên" pattern="[A-Za-z0-9]+" title="Chỉ nhập chữ và số">
+                    </div>
+                    <div class="form-group">
+                        <label for="password">🔒 Mật khẩu:</label>
+                        <input type="password" id="password" name="password" required placeholder="Nhập mật khẩu">
+                    </div>
+                    <div id="loginMessage"></div>
+                    <button type="submit" id="loginBtn" class="login-btn">
+                        <span id="loginBtnText">Đăng nhập</span>
+                        <span id="loginBtnSpinner" class="spinner" style="display: none;"></span>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Confirm Scrape Modal -->
+    <div id="confirmScrapeModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="close" onclick="closeConfirmScrapeModal()">&times;</span>
+                <h2>Xác nhận cập nhật dữ liệu</h2>
+            </div>
+            <div class="modal-body">
+                <div style="text-align: center; margin-bottom: 20px;">
+                    <div style="width: 60px; height: 60px; background: #e3f2fd; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px;">
+                        <span style="font-size: 24px;">📊</span>
+                    </div>
+                    <h3 style="margin: 0 0 10px 0; color: #333;">Đăng nhập thành công!</h3>
+                    <p style="color: #666; margin-bottom: 10px;">Bạn có muốn cập nhật dữ liệu học tập từ FAP không?</p>
+                    <div style="background: #e8f5e8; border: 1px solid #4caf50; border-radius: 8px; padding: 10px; margin: 10px 0;">
+                        <p style="margin: 0; color: #2e7d32; font-size: 0.9rem;">
+                            <strong>👤 Thông tin đăng nhập:</strong><br>
+                            Email: <span id="scrapeEmail"></span><br>
+                            MSSV: <span id="scrapeMssv"></span>
+                        </p>
+                    </div>
+                </div>
+                
+                <div style="background: #f8f9fa; border-radius: 10px; padding: 15px; margin-bottom: 20px;">
+                    <h4 style="margin: 0 0 10px 0; color: #495057;">Dữ liệu sẽ được cập nhật:</h4>
+                    <ul style="margin: 0; padding-left: 20px; color: #6c757d;">
+                        <li>Thông tin sinh viên</li>
+                        <li>Bảng điểm chi tiết</li>
+                        <li>Lịch sử điểm danh</li>
+                        <li>Tổng kết môn học</li>
+                    </ul>
+                    <p style="margin: 10px 0 0 0; font-size: 0.9rem; color: #6c757d;">
+                        <strong>⏱️ Thời gian:</strong> Khoảng 1-3 phút tùy thuộc vào lượng dữ liệu
+                    </p>
+                </div>
+                
+                <div style="display: flex; gap: 10px;">
+                    <button onclick="closeConfirmScrapeModal()" style="flex: 1; background: #6c757d; color: white; border: none; padding: 12px; border-radius: 8px; cursor: pointer; font-weight: 500;">
+                        Bỏ qua
+                    </button>
+                    <button onclick="confirmScrape()" style="flex: 1; background: linear-gradient(135deg, #6e8efb, #a777e3); color: white; border: none; padding: 12px; border-radius: 8px; cursor: pointer; font-weight: 500;">
+                        Cập nhật ngay
+                    </button>
+                </div>
+                
+                <div id="scrapeMessage" style="margin-top: 15px;"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="header">
+            <!-- <h1>Trang Web Chatbot</h1> -->
+            <!-- <p>Chọn một chatbot để bắt đầu cuộc trò chuyện</p> -->
+        </div>
+        
+        <div class="category">
+            <h2>Chatbot's category</h2>
+            <div class="category-buttons">
+                <button class="category-button" onclick="activateChatbot(1)">FLM</button>
+                <button class="category-button" onclick="activateChatbot(2)">FAP</button>
+                <button class="category-button" onclick="activateChatbot(3)">Chatbot 3</button>
+                <button class="category-button" onclick="activateChatbot(4)">Chatbot 4</button>
+                <button class="category-button" onclick="showLoginModal()" style="background: linear-gradient(135deg, #27ae60, #2ecc71);">
+                    🔐 Đăng nhập FAP
+                </button>
+                <button class="category-button" onclick="showUserInfo()" style="background: linear-gradient(135deg, #f39c12, #e67e22);">
+                    👤 Thông tin User
+                </button>
+            </div>
+        </div>
+        
+        <div class="chatbots-container">
+            <div class="chatbot" id="chatbot1">
+                <div class="chatbot-header">
+                    <div>
+                    <span class="chatbot-icon">🤖</span>
+                    FLM
+                    </div>
+                    <div class="login-status" id="loginStatus1">Chưa đăng nhập</div>
+                </div>
+                <div class="chatbot-messages" id="messages1">
+                    <div class="message bot-message">Xin chào! Tôi là Chatbot về FLM. Rất vui được gặp bạn. Hãy hỏi tôi bất cứ điều gì về FLM</div>
+                </div>
+                <div class="chatbot-input">
+                    <input type="text" id="input1" placeholder="Nhập tin nhắn của bạn..." onkeypress="handleKeyPress(event, 1)">
+                    <button onclick="sendMessage(1)">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                            <path d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 3.178 4.995.002.002.26.41a.5.5 0 0 0 .886-.083l6-15Zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.49-7.49 1.178-.471-.47 1.178Z"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="chatbot" id="chatbot2">
+                <div class="chatbot-header">
+                    <div>
+                    <span class="chatbot-icon">🤖</span>
+                    FAP
+                    </div>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <div class="login-status" id="loginStatus2">Chưa đăng nhập</div>
+                        <button onclick="showLoginModal()" style="background: rgba(255,255,255,0.2); color: white; border: 1px solid rgba(255,255,255,0.3); padding: 5px 10px; border-radius: 15px; font-size: 0.8rem; cursor: pointer; transition: all 0.3s ease;">
+                            🔐 Đăng nhập
+                        </button>
+                    </div>
+                </div>
+                <div class="chatbot-messages" id="messages2">
+                    <div class="message bot-message">
+                        <div style="text-align: center; padding: 10px;">
+                            <p style="margin-bottom: 15px; font-weight: bold; color: #6e8efb;">🤖 FAP Chatbot</p>
+                            <p style="margin-bottom: 10px;">Xin chào! Tôi là Chatbot về FAP. Tôi có thể giúp bạn tra cứu thông tin học tập cá nhân.</p>
+                            <div style="background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 10px; padding: 15px; margin: 10px 0;">
+                                <p style="margin: 0; color: #856404; font-size: 0.9rem;">
+                                    <strong>💡 Để sử dụng đầy đủ tính năng:</strong><br>
+                                    • Đăng nhập bằng email để xem điểm, điểm danh<br>
+                                    • Hỗ trợ email FPT (@fpt.edu.vn) và email thường<br>
+                                    • Hoặc hỏi thông tin chung về môn học
+                                </p>
+                            </div>
+                            <div id="userInfoDisplay" style="display: none; background: #e8f5e8; border: 1px solid #4caf50; border-radius: 10px; padding: 15px; margin: 10px 0;">
+                                <p style="margin: 0; color: #2e7d32; font-size: 0.9rem;">
+                                    <strong>✅ Đã đăng nhập:</strong><br>
+                                    Email: <span id="userEmail"></span><br>
+                                    MSSV: <span id="userMssv"></span><br>
+                                    Bạn có thể hỏi về điểm, điểm danh, thông tin cá nhân
+                                </p>
+                            </div>
+                            <button onclick="showLoginModal()" style="background: linear-gradient(135deg, #6e8efb, #a777e3); color: white; border: none; padding: 10px 20px; border-radius: 25px; cursor: pointer; font-size: 0.9rem; margin-top: 10px;">
+                                🔐 Đăng nhập ngay
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="chatbot-input">
+                    <input type="text" id="input2" placeholder="Nhập tin nhắn của bạn..." onkeypress="handleKeyPress(event, 2)">
+                    <button onclick="sendMessage(2)">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                            <path d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 3.178 4.995.002.002.26.41a.5.5 0 0 0 .886-.083l6-15Zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.49-7.49 1.178-.471-.47 1.178Z"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="chatbot" id="chatbot3">
+                <div class="chatbot-header">
+                    <div>
+                    <span class="chatbot-icon">🤖</span>
+                    Chatbot 3
+                    </div>
+                    <div class="login-status" id="loginStatus3">Chưa đăng nhập</div>
+                </div>
+                <div class="chatbot-messages" id="messages3">
+                    <div class="message bot-message">Xin chào! Tôi là Chatbot 3. Tôi luôn sẵn sàng trả lời các câu hỏi của bạn.</div>
+                </div>
+                <div class="chatbot-input">
+                    <input type="text" id="input3" placeholder="Nhập tin nhắn của bạn..." onkeypress="handleKeyPress(event, 3)">
+                    <button onclick="sendMessage(3)">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                            <path d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 3.178 4.995.002.002.26.41a.5.5 0 0 0 .886-.083l6-15Zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.49-7.49 1.178-.471-.47 1.178Z"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            
+            <div class="chatbot" id="chatbot4">
+                <div class="chatbot-header">
+                    <div>
+                    <span class="chatbot-icon">🤖</span>
+                    Chatbot 4
+                    </div>
+                    <div class="login-status" id="loginStatus4">Chưa đăng nhập</div>
+                </div>
+                <div class="chatbot-messages" id="messages4">
+                    <div class="message bot-message">Xin chào! Tôi là Chatbot 4. Tôi có thể hỗ trợ bạn với nhiều vấn đề khác nhau.</div>
+                </div>
+                <div class="chatbot-input">
+                    <input type="text" id="input4" placeholder="Nhập tin nhắn của bạn..." onkeypress="handleKeyPress(event, 4)">
+                    <button onclick="sendMessage(4)">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                            <path d="M15.964.686a.5.5 0 0 0-.65-.65L.767 5.855H.766l-.452.18a.5.5 0 0 0-.082.887l.41.26.001.002 4.995 3.178 3.178 4.995.002.002.26.41a.5.5 0 0 0 .886-.083l6-15Zm-1.833 1.89L6.637 10.07l-.215-.338a.5.5 0 0 0-.154-.154l-.338-.215 7.49-7.49 1.178-.471-.47 1.178Z"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <script>
+        // Biến global để lưu trạng thái đăng nhập
+        let isLoggedIn = false;
+        let userData = null;
+        let currentChatbotId = 1;
+        let loginCredentials = null; // Lưu thông tin đăng nhập để scrape sau
+
+        // Hàm hiển thị modal login
+        function showLoginModal() {
+            document.getElementById('loginModal').style.display = 'block';
+        }
+
+        // Hàm đóng modal login
+        function closeLoginModal() {
+            document.getElementById('loginModal').style.display = 'none';
+            document.getElementById('loginMessage').innerHTML = '';
+            document.getElementById('loginForm').reset();
+        }
+
+        // Hàm xử lý đăng nhập
+        async function handleLogin(event) {
+            event.preventDefault();
+            
+            const gmail = document.getElementById('gmail').value;
+            const password = document.getElementById('password').value;
+            const mssv = document.getElementById('mssv').value;
+            const loginBtn = document.getElementById('loginBtn');
+            const loginBtnText = document.getElementById('loginBtnText');
+            const loginBtnSpinner = document.getElementById('loginBtnSpinner');
+            const loginMessage = document.getElementById('loginMessage');
+
+            // Validate email format (cho phép email thường)
+            const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+            if (!emailRegex.test(gmail)) {
+                loginMessage.innerHTML = '<div class="error-message">Vui lòng nhập email hợp lệ</div>';
+                return;
+            }
+
+            // Hiển thị loading
+            loginBtn.disabled = true;
+            loginBtnText.style.display = 'none';
+            loginBtnSpinner.style.display = 'inline-block';
+            loginMessage.innerHTML = '';
+
+            try {
+                // Chỉ kiểm tra đăng nhập, không scrape dữ liệu
+                const response = await fetch('http://localhost:5000/api/search', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ 
+                        query: "test login",
+                        user_id: mssv // Sử dụng MSSV làm user_id
+                    }),
+                });
+
+                // Nếu kết nối thành công, coi như đăng nhập thành công
+                if (response.ok) {
+                    // Đăng nhập thành công
+                    isLoggedIn = true;
+                    userData = { gmail, studentId: mssv };
+                    loginCredentials = { gmail, password }; // Lưu thông tin để scrape sau
+                    
+                    // Log thông tin user để debug
+                    console.log('🔐 Login successful:', userData);
+                    console.log('📧 Email:', userData.gmail);
+                    console.log('🆔 MSSV:', userData.studentId);
+                    
+                    // Cập nhật trạng thái đăng nhập trên tất cả chatbot
+                    updateLoginStatus();
+                    
+                    // Hiển thị thông báo thành công
+                    loginMessage.innerHTML = '<div class="success-message">Đăng nhập thành công!</div>';
+                    
+                    // Đóng modal sau 1 giây và mở modal xác nhận scrape
+                    setTimeout(() => {
+                        closeLoginModal();
+                        showConfirmScrapeModal();
+                    }, 1000);
+                } else {
+                    // Đăng nhập thất bại
+                    loginMessage.innerHTML = '<div class="error-message">Đăng nhập thất bại. Vui lòng kiểm tra lại thông tin.</div>';
+                }
+            } catch (error) {
+                console.error('Login error:', error);
+                loginMessage.innerHTML = '<div class="error-message">Lỗi kết nối. Vui lòng thử lại sau.</div>';
+            } finally {
+                // Ẩn loading
+                loginBtn.disabled = false;
+                loginBtnText.style.display = 'inline';
+                loginBtnSpinner.style.display = 'none';
+            }
+        }
+
+        // Hàm cập nhật trạng thái đăng nhập
+        function updateLoginStatus() {
+            const statusElements = ['loginStatus1', 'loginStatus2', 'loginStatus3', 'loginStatus4'];
+            
+            statusElements.forEach((elementId, index) => {
+                const element = document.getElementById(elementId);
+                if (isLoggedIn && userData) {
+                    element.textContent = `Đã đăng nhập: ${userData.gmail} (MSSV: ${userData.studentId})`;
+                    element.style.color = '#27ae60';
+                    
+                    // Ẩn nút đăng nhập trong FAP chatbot nếu đã đăng nhập
+                    if (elementId === 'loginStatus2') {
+                        const loginButton = element.parentElement.querySelector('button');
+                        if (loginButton) {
+                            loginButton.style.display = 'none';
+                        }
+                        
+                        // Hiển thị thông tin user trong FAP chatbot
+                        const userInfoDisplay = document.getElementById('userInfoDisplay');
+                        const userEmail = document.getElementById('userEmail');
+                        const userMssv = document.getElementById('userMssv'); // Thêm MSSV
+                        if (userInfoDisplay && userEmail && userMssv) {
+                            userEmail.textContent = userData.gmail;
+                            userMssv.textContent = userData.studentId; // Cập nhật MSSV
+                            userInfoDisplay.style.display = 'block';
+                        }
+                    }
+                } else {
+                    element.textContent = 'Chưa đăng nhập';
+                    element.style.color = '#e74c3c';
+                    
+                    // Hiện nút đăng nhập trong FAP chatbot nếu chưa đăng nhập
+                    if (elementId === 'loginStatus2') {
+                        const loginButton = element.parentElement.querySelector('button');
+                        if (loginButton) {
+                            loginButton.style.display = 'inline-block';
+                        }
+                        
+                        // Ẩn thông tin user trong FAP chatbot
+                        const userInfoDisplay = document.getElementById('userInfoDisplay');
+                        if (userInfoDisplay) {
+                            userInfoDisplay.style.display = 'none';
+                        }
+                    }
+                }
+            });
+        }
+
+        // Hàm gửi tin nhắn
+        async function sendMessage(chatbotId) {
+            const inputElement = document.getElementById(`input${chatbotId}`);
+            const message = inputElement.value.trim();
+
+            if (message === '') return;
+
+            // Thêm tin nhắn của người dùng vào giao diện
+            const messagesContainer = document.getElementById(`messages${chatbotId}`);
+            const userMessageElement = document.createElement('div');
+            userMessageElement.classList.add('message', 'user-message');
+            userMessageElement.textContent = message;
+            messagesContainer.appendChild(userMessageElement);
+
+            // Xóa nội dung trong ô input
+            inputElement.value = '';
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+
+            const loadingElement = document.createElement('div');
+            loadingElement.classList.add('message', 'bot-message');
+            loadingElement.innerHTML = `
+                <div class="typing-indicator">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            `;
+            messagesContainer.appendChild(loadingElement);
+
+            // Xử lý theo từng chatbot
+            if (chatbotId === 1 || chatbotId === 2) {
+                // FLM hoặc FAP Chatbot - gọi API
+                try {
+                    const response = await fetch('http://localhost:5000/api/search', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({ 
+                            query: message,
+                            user_id: (isLoggedIn && userData) ? userData.studentId : null
+                        }),
+                    });
+
+                    if (!response.ok) {
+                        throw new Error('Lỗi mạng hoặc server không phản hồi.');
+                    }
+
+                    const data = await response.json();
+                    const botResponseText = data.summary; 
+                    loadingElement.innerHTML = marked.parse(botResponseText);
+
+                    // Nếu có raw_results, thêm nút xem chi tiết
+                    if (data.raw_results && Array.isArray(data.raw_results) && data.raw_results.length > 0) {
+                        const detailBtn = document.createElement('button');
+                        detailBtn.textContent = 'Xem chi tiết kết quả';
+                        detailBtn.style = 'margin-top:10px; background: #f39c12; color: white; border: none; padding: 8px 16px; border-radius: 20px; cursor: pointer; font-size: 0.9rem;';
+                        let detailVisible = false;
+                        const detailDiv = document.createElement('div');
+                        detailDiv.style = 'display:none; margin-top:10px; background:#f8f9fa; border-radius:10px; padding:10px;';
+                        detailDiv.innerHTML = data.raw_results.map((item, idx) => {
+                            let html = `<div style='margin-bottom:10px;'><b>Kết quả ${idx+1}:</b><br>`;
+                            if (item.ma_mon_hoc || item.subject_code) html += `Mã môn: <b>${item.ma_mon_hoc || item.subject_code}</b><br>`;
+                            if (item.ten_mon_hoc || item.subject_name) html += `Tên môn: <b>${item.ten_mon_hoc || item.subject_name}</b><br>`;
+                            if (item.loai || item.type) html += `Loại: <b>${item.loai || item.type}</b><br>`;
+                            html += `Nội dung: <div style='background:#fff; border-radius:6px; padding:6px; margin-top:3px;'>${item.content}</div></div>`;
+                            return html;
+                        }).join('');
+                        detailBtn.onclick = function() {
+                            detailVisible = !detailVisible;
+                            detailDiv.style.display = detailVisible ? 'block' : 'none';
+                            detailBtn.textContent = detailVisible ? 'Ẩn chi tiết kết quả' : 'Xem chi tiết kết quả';
+                        };
+                        loadingElement.appendChild(detailBtn);
+                        loadingElement.appendChild(detailDiv);
+                    }
+                } catch (error) {
+                    loadingElement.textContent = 'Rất tiếc, đã có lỗi xảy ra. Vui lòng thử lại.';
+                    console.error('Error:', error);
+                }
+            } else {
+                // Logic cũ cho các chatbot 3, 4
+                const botResponses = {
+                    3: ["Tôi là Chatbot 3, chuyên về sức khỏe và dinh dưỡng.", "Bạn nên uống đủ 2 lít nước mỗi ngày."],
+                    4: ["Tôi là Chatbot 4, chuyên về du lịch và khám phá.", "Việt Nam có nhiều điểm đến tuyệt vời."]
+                };
+                const responses = botResponses[chatbotId];
+                const randomResponse = responses[Math.floor(Math.random() * responses.length)];
+                
+                setTimeout(() => {
+                    loadingElement.textContent = randomResponse;
+                }, 1000);
+            }
+
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+        }
+
+        // Hàm xử lý khi nhấn phím Enter
+        function handleKeyPress(event, chatbotId) {
+            if (event.key === 'Enter') {
+                sendMessage(chatbotId);
+            }
+        }
+
+        // Hàm kích hoạt chatbot
+        function activateChatbot(chatbotId) {
+            for (let i = 1; i <= 4; i++) {
+                const chatbotElement = document.getElementById(`chatbot${i}`);
+                chatbotElement.style.display = 'none';
+            }
+            const selectedChatbot = document.getElementById(`chatbot${chatbotId}`);
+            selectedChatbot.style.display = 'flex';
+            document.getElementById(`input${chatbotId}`).focus();
+            currentChatbotId = chatbotId;
+        }
+
+        // Hàm hiển thị modal xác nhận scrape
+        function showConfirmScrapeModal() {
+            document.getElementById('confirmScrapeModal').style.display = 'block';
+            document.getElementById('scrapeEmail').textContent = userData.gmail;
+            document.getElementById('scrapeMssv').textContent = userData.studentId;
+        }
+
+        // Hàm đóng modal xác nhận scrape
+        function closeConfirmScrapeModal() {
+            document.getElementById('confirmScrapeModal').style.display = 'none';
+            document.getElementById('scrapeMessage').innerHTML = '';
+        }
+
+        // Hàm xử lý khi người dùng chọn "Cập nhật ngay"
+        async function confirmScrape() {
+            const scrapeMessage = document.getElementById('scrapeMessage');
+            scrapeMessage.innerHTML = '<div class="loading-spinner"></div>';
+            try {
+                const response = await fetch('http://localhost:5000/api/scrape', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ 
+                        gmail: userData.gmail,
+                        password: loginCredentials.password // Lấy mật khẩu từ biến loginCredentials
+                    }),
+                });
+
+                const data = await response.json();
+
+                if (response.ok && data.status === 'success') {
+                    scrapeMessage.innerHTML = '<div class="success-message">Dữ liệu đã được cập nhật thành công!</div>';
+                    // Cập nhật trạng thái đăng nhập sau khi scrape thành công
+                    updateLoginStatus();
+                } else {
+                    scrapeMessage.innerHTML = `<div class="error-message">Lỗi khi cập nhật dữ liệu: ${data.message || 'Vui lòng thử lại.'}</div>`;
+                }
+            } catch (error) {
+                scrapeMessage.innerHTML = '<div class="error-message">Lỗi kết nối khi cập nhật dữ liệu. Vui lòng thử lại sau.</div>';
+                console.error('Scrape error:', error);
+            }
+        }
+
+        // Hàm hiển thị thông tin user
+        function showUserInfo() {
+            if (isLoggedIn && userData) {
+                alert(`Thông tin User:\nEmail: ${userData.gmail}\nMSSV: ${userData.studentId}`);
+            } else {
+                alert('Bạn chưa đăng nhập. Vui lòng đăng nhập để xem thông tin user.');
+                showLoginModal();
+            }
+        }
+
+        // Đóng modal khi click bên ngoài
+        window.onclick = function(event) {
+            const modal = document.getElementById('loginModal');
+            if (event.target === modal) {
+                closeLoginModal();
+            }
+            const confirmScrapeModal = document.getElementById('confirmScrapeModal');
+            if (event.target === confirmScrapeModal) {
+                closeConfirmScrapeModal();
+            }
+        }
+
+        // Khởi tạo khi trang được tải
+        window.onload = function() {
+            activateChatbot(1);
+            updateLoginStatus();
+            
+            // Gắn event listener cho form đăng nhập
+            document.getElementById('loginForm').addEventListener('submit', handleLogin);
+        };
+    </script>
+</body>
+</html>
