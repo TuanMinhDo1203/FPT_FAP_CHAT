@@ -70,26 +70,53 @@ python main.py
 - `"điểm môn CPV301"`
 - `"điểm danh môn AIL303m"`
 - `"thông tin sinh viên"`
-
+- `"giáo trình môn Machine Learning"`
+- `"outline môn Deep Learning kỳ này"`
 ### Combined Queries:
 - `"điểm danh môn CSI105 tuần sau"`
 - `"điểm môn PFP191 kì này"`
+- `"giáo trình môn Trí tuệ nhân tạo kỳ FA25"`
+- `"syllabus môn Data Mining học kì này"`
 
 ## 📁 Cấu trúc Project
 
 ```
-Fap_Chat/
-├── code/
-│   ├── main.py              # Entry point
-│   │   ├── FAP/
-│   │   │   ├── embedder.py      # Vector search engine
-│   │   │   ├── llm_helper.py    # LLM integration
-│   │   │   ├── cloud.py         # Database management
-│   │   │   └── fap_scraper.py   # Data scraping
-│   │   └── data/
-│   │       └── FAP/             # CSV data files
-│   └── requirements.txt
-└── README.md
+FPT_FAP_CHAT/
+├── app.py                          # FastAPI app, khởi tạo server và định nghĩa endpoint
+│
+├── code1/                          # CLI / pipeline chính
+│   ├── main.py                     # entrypoint, điều khiển ingest → embed → query
+│   ├── crawler.py                  # module crawl dữ liệu từ FAP
+│   ├── embedder.py                 # module nhúng văn bản sang vector
+│   ├── llm_helper.py               # helper gọi LLM (Gemini,... nếu có key)
+│   ├── qdrant_helper.py            # helper kết nối Qdrant (vector DB)
+│   ├── mysql_helper.py             # helper kết nối MySQL
+│   └── utils.py                    # hàm tiện ích chung
+│
+├── data/                           # dữ liệu CSV (export từ FAP)
+│   └── FAP/
+│       ├── attendance_reports.csv  # báo cáo điểm danh
+│       ├── course_summaries.csv    # thông tin môn học / syllabus ngắn
+│       ├── grade_details.csv       # bảng điểm chi tiết
+│       └── student_profile.csv     # thông tin hồ sơ sinh viên
+│
+├── templates/                      # giao diện web (FastAPI dùng Jinja2)
+│   └── chatbot.html                # UI chatbot đơn giản
+│
+├── static/                         # file tĩnh (css/js/img nếu cần)
+│   
+│
+├── notebook/                       # notebook thử nghiệm
+│   ├── tester.ipynb                # notebook test pipeline
+│   └── ...                         # (các notebook phụ khác)
+│
+├── requirements.txt                # danh sách thư viện Python cần cài
+├── QUERY_CLASSIFICATION_GUIDE.md   # tài liệu hướng dẫn phân loại truy vấn
+├── QUERY_PATTERNS_ANALYSIS.md      # phân tích pattern truy vấn thường gặp
+├── USER_GUIDE.md                   # hướng dẫn sử dụng cho end-user
+└── README.md                       # mô tả dự án (file bạn đang đọc)
+
+
 ```
 
 ## ⚠️ Lưu ý
