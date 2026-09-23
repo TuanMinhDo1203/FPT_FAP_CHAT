@@ -16,10 +16,14 @@ from transformers import pipeline, AutoTokenizer, AutoModelForSeq2SeqLM
 import json
 from dotenv import load_dotenv
 import os
+from pathlib import Path
 
 load_dotenv()
-qdrant_api_key = os.getenv("qdrant_api_key")
-gemini_api_key = os.getenv("gemini_api_key")
+BASE_DIR = Path(__file__).resolve().parent
+qdrant_url = os.getenv("QDRANT_URL")
+qdrant_api_key = os.getenv("QDRANT_API_KEY")
+qdrant_collection = os.getenv("QDRANT_WEB_COLLECTION", "flm_fap")
+gemini_api_key = os.getenv("GEMINI_API_KEY")
 # --- Embedding Model ---
 class BGEEmbedder:
     def __init__(self, model_name="BAAI/bge-m3"):
@@ -40,13 +44,13 @@ class BGEEmbedder:
 
 # --- Qdrant client ---
 client = QdrantClient(
-    url=r"https://0f47d391-b7c1-45d9-a956-5f7228cd80f3.europe-west3-0.gcp.cloud.qdrant.io:6333",
+    url=qdrant_url,
     api_key=qdrant_api_key,
     prefer_grpc=False
 )
 
 # --- Load subject map and embeddings ---
-DF_PATH = r"D:\Learn\Semester_5\SEG301\Fap-Chat\data\DATA cố định\FLM\FINAL\FINAL_DF_FLM.csv"
+DF_PATH = BASE_DIR / "data" / "DATA cố định" / "FLM" / "FINAL" / "FINAL_DF_FLM.csv"
 df_flm = pd.read_csv(DF_PATH)
 subject_map = {
     row["SubjectCode"]: f"{row['SubjectCode']} - {row['Subject Name']}"
@@ -271,7 +275,7 @@ def api_search():
         query_filter["should"].append({"key": "semester", "match": {"value": detected_semester}})
     # 4. Truy vấn Qdrant
     hits = client.search(
-        collection_name="flm_fap",
+        collection_name=qdrant_collection,
         query_vector=query_vec.tolist(),
         limit=30,
         query_filter=query_filter if query_filter["must"] or query_filter["should"] else None
@@ -321,4 +325,4 @@ def api_search():
     })
 
 if __name__ == '__main__':
-    app.run(debug=True) 
+    app.run(debug=os.getenv("FLASK_DEBUG", "false").lower() == "true")

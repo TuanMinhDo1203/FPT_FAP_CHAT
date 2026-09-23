@@ -1,5 +1,34 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
 config.json
 pass_cloud.json
-.env
-tempCodeRunnerFile.py
-intent_model2/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebook, editor, and OS metadata
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local model artifacts
+intent_model*/
+
+# Student-specific and generated FAP data
+data/FAP/**
+!data/FAP/.gitkeep
+data/Chunk_JSON/dssv_chunks_flat.json
+data/DATA cố định/DS_SV_AI.csv
+data/FULL_schedule.csv
+data/course_summaries.csv
+data/mark_reports.csv
+data/multi_week_schedule*.xlsx
+data/parsed_schedule.xlsx
+data/schedule_ai.csv
+data/schedule_week*.csv

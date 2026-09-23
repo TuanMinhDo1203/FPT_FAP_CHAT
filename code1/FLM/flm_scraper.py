@@ -8,6 +8,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from bs4 import BeautifulSoup
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 import pandas as pd
+import os
 import re
 import time
 import logging
@@ -697,7 +698,9 @@ class FLMScraper:
 
 def main():
     # Configuration
-    USER_DATA_DIR = r"C:\Users\DO TUAN MINH\AppData\Local\Microsoft\Edge\User Data\Default"
+    USER_DATA_DIR = os.environ.get("EDGE_USER_DATA_DIR")
+    if not USER_DATA_DIR:
+        raise ValueError("Set EDGE_USER_DATA_DIR before running the FLM scraper.")
     
     # No need for EDGE_DRIVER_PATH anymore
     scraper = FLMScraper(None, USER_DATA_DIR)  # or update __init__ to not require edge_driver_path
@@ -734,4 +737,4 @@ def main():
         scraper.close()
 
 if __name__ == "__main__":
-    main() 
+    main()

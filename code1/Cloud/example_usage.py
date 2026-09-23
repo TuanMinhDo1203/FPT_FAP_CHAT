@@ -1,4 +1,4 @@
-from database_manager import DatabaseManager
+from .database_manager import DatabaseManager
 from datetime import datetime
 
 def main():
@@ -77,4 +77,4 @@ def main():
         print("Student transactions:", transactions)
 
 if __name__ == "__main__":
-    main() 
+    main()

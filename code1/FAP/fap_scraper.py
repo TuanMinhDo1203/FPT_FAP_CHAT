@@ -709,45 +709,16 @@ class FapScraper:
             return None
 
 def main():
-    # """
-    # Hàm chính để chạy trình cào dữ liệu
-    # """
-    # import json
-    
-    # # Đọc thông tin đăng nhập từ file config
-    # with open(r"D:\Desktop\tap tanh hoc code\.vscode\Summer_2025\SEG301\Fap-Chat\config.json", "r") as f:
-    #     config = json.load(f)
-    
-    # # Khởi tạo scraper
-    # scraper = FapScraper(
-    #     gmail=config.get("gmail"),
-    #     password=config.get("password")
-    # )
-    
-    # # Chạy quy trình cào
-    # results = scraper.full_scraping_process()
-    
-    # if results:
-    #     # Lưu kết quả vào các file CSV
-    #     if results['attendance']:
-    #         scraper.save_to_csv(results['attendance'], r'D:\Desktop\tap tanh hoc code\.vscode\Summer_2025\SEG301\Fap-Chat\data\FAP\attendance_reports.csv')
-    #     if results['course_summaries']:
-    #         scraper.save_to_csv(results['course_summaries'], r'D:\Desktop\tap tanh hoc code\.vscode\Summer_2025\SEG301\Fap-Chat\data\FAP\course_summaries.csv')
-    #     if results['grade_details']:
-    #         scraper.save_to_csv(results['grade_details'], r'D:\Desktop\tap tanh hoc code\.vscode\Summer_2025\SEG301\Fap-Chat\data\FAP\grade_details.csv')
-    #     if results['profile']:
-    #         scraper.save_to_csv([results['profile']], r'D:\Desktop\tap tanh hoc code\.vscode\Summer_2025\SEG301\Fap-Chat\data\FAP\student_profile.csv')
-    #     logger.info("✅ Hoàn thành quá trình cào dữ liệu!")
-    # else:
-    #     logger.error("❌ Quá trình cào dữ liệu thất bại!")
     # Use relative paths instead of hardcoded paths
     import os
-    data_dir = os.path.join(os.path.dirname(__file__), '..', 'data', 'FAP')
+    from pathlib import Path
+
+    data_dir = Path(__file__).resolve().parents[2] / "data" / "FAP"
     csv_paths = {
-        'student_profile': os.path.join(data_dir, 'student_profile.csv'),
-        'attendance_reports': os.path.join(data_dir, 'attendance_reports.csv'), 
-        'grade_details': os.path.join(data_dir, 'grade_details.csv'),
-        'course_summaries': os.path.join(data_dir, 'course_summaries.csv')
+        'student_profile': str(data_dir / 'student_profile.csv'),
+        'attendance_reports': str(data_dir / 'attendance_reports.csv'),
+        'grade_details': str(data_dir / 'grade_details.csv'),
+        'course_summaries': str(data_dir / 'course_summaries.csv')
     }
     # Use environment variables for Qdrant config
     engine=embedder.FapSearchEngine(csv_paths=csv_paths)
@@ -792,4 +763,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main() 
+    main()

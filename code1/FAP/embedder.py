@@ -26,7 +26,6 @@ class FapSearchEngine:
         self.qdrant_url = qdrant_url or os.environ.get("QDRANT_URL")
         self.qdrant_api_key = qdrant_api_key or os.environ.get("QDRANT_API_KEY")
         self.collection_name = collection_name or os.environ.get("QDRANT_COLLECTION", "Fap_data_testing")
-        print(self.qdrant_url, self.qdrant_api_key, self.collection_name)
         # Khởi tạo Qdrant client
         self.client = QdrantClient(
             url=self.qdrant_url,
@@ -865,12 +864,14 @@ def main():
     """Example usage"""
     # Cấu hình paths
     # Use relative paths instead of hardcoded paths
-    data_dir = os.path.join(os.path.dirname(__file__), '..', 'data', 'FAP')
+    from pathlib import Path
+
+    data_dir = Path(__file__).resolve().parents[2] / "data" / "FAP"
     csv_paths = {
-        'student_profile': os.path.join(data_dir, 'student_profile.csv'),
-        'attendance_reports': os.path.join(data_dir, 'attendance_reports.csv'), 
-        'grade_details': os.path.join(data_dir, 'grade_details.csv'),
-        'course_summaries': os.path.join(data_dir, 'course_summaries.csv')
+        'student_profile': str(data_dir / 'student_profile.csv'),
+        'attendance_reports': str(data_dir / 'attendance_reports.csv'),
+        'grade_details': str(data_dir / 'grade_details.csv'),
+        'course_summaries': str(data_dir / 'course_summaries.csv')
     }
     # Qdrant config sẽ lấy từ .env nếu không truyền vào
     engine = FapSearchEngine(csv_paths=csv_paths)

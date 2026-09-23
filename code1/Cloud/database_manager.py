@@ -1,7 +1,7 @@
 import pymysql
 from typing import Dict, List, Optional
 from datetime import datetime
-from config import DB_CONFIG
+from .config import DB_CONFIG
 
 class DatabaseManager:
     def __init__(self):
@@ -254,4 +254,4 @@ class DatabaseManager:
                 return cursor.fetchall()
         except Exception as e:
             print(f"Error getting table columns: {e}")
-            return [] 
+            return []

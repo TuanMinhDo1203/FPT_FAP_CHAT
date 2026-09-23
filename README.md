@@ -1,141 +1,158 @@
-﻿# FAP Chat - Student Academic Data RAG System
+# FPT_FAP_CHAT — Intent-Aware Academic Retrieval System
 
-Hệ thống RAG (Retrieval-Augmented Generation) cho dữ liệu học tập sinh viên FPT University.
-![Demo](static/demo.JPG)
+## Overview
 
-## 🚀 Cài đặt
+FPT_FAP_CHAT is an applied AI project for retrieving academic information from FPT University data sources. It combines semantic retrieval with query-intent and metadata processing so that questions about curricula, course materials, assessments, learning outcomes, schedules, grades, and attendance can be routed to relevant records.
 
-### 1. Cài đặt dependencies
+The repository contains two related workflows:
+
+- a Flask API for querying processed curriculum data in Qdrant; and
+- a command-line pipeline for collecting student-authorized FAP data, synchronizing it with MySQL, embedding it with BGE-M3, and searching it through Qdrant.
+
+The project is a research and prototyping artifact. It is not presented as a production-ready student information system, and generated student data is intentionally excluded from the public repository.
+
+![Web retrieval demo](static/demo.JPG)
+
+## Key Features
+
+- Semantic retrieval using `BAAI/bge-m3` embeddings and Qdrant vector search
+- Query-type, subject, semester, and time-range processing for metadata-aware retrieval
+- Optional Gemini-based intent extraction, result reranking, and answer synthesis
+- Fallback query translation and embedding-based classification in the Flask workflow
+- Selenium-based FAP and FLM data collection utilities
+- MySQL synchronization for student-authorized FAP records
+- Data-preparation and evaluation experiments preserved in Jupyter notebooks
+
+## System Architecture
+
+The Flask curriculum-retrieval path follows this flow:
+
+```text
+User query
+    ↓
+Gemini intent analysis (or local fallback)
+    ↓
+Type / subject / semester metadata
+    ↓
+BGE-M3 query embedding
+    ↓
+Filtered Qdrant retrieval
+    ↓
+Gemini answer synthesis
+    ↓
+JSON API response
+```
+
+The CLI pipeline additionally supports authorized FAP scraping, MySQL synchronization, payload construction, and ingestion into a student-data collection before retrieval.
+
+## Evaluation
+
+The repository includes exploratory intent-analysis and retrieval-evaluation notebooks under `notebook/`. No consolidated, reproducible benchmark report is currently included, so this README does not claim verified F1 or latency results.
+
+## Tech Stack
+
+- Python, pandas, NumPy, and scikit-learn
+- Flask and Flask-CORS
+- Sentence Transformers with BGE-M3
+- Qdrant
+- Gemini API (`google-generativeai` and REST calls)
+- Hugging Face Transformers
+- MySQL with PyMySQL and SQLAlchemy
+- Selenium, Beautiful Soup, and webdriver-manager
+- Jupyter notebooks for data preparation and experiments
+
+## Repository Structure
+
+```text
+FPT_FAP_CHAT/
+├── app.py                      # Flask curriculum-retrieval API
+├── code1/
+│   ├── main.py                 # Interactive FAP ingestion and search pipeline
+│   ├── FAP/                    # FAP scraper, embedding, retrieval, and LLM helpers
+│   ├── FLM/                    # Curriculum/syllabus scraper and parsers
+│   └── Cloud/                  # MySQL utilities and examples
+├── data/
+│   ├── Chunk_JSON/             # Processed public curriculum chunks
+│   ├── DATA cố định/FLM/       # Curriculum and syllabus research data
+│   └── FAP/                    # Local-only student data directory (ignored by Git)
+├── notebook/                   # Research and preprocessing notebooks
+├── static/                     # Portfolio demo image
+├── templates/                  # Web UI prototypes
+├── .env.example                # Configuration template
+└── requirements.txt
+```
+
+## Configuration
+
+Create a local environment file from the provided template:
+
 ```bash
+cp .env.example .env
+```
+
+| Variable | Purpose | Required |
+| --- | --- | --- |
+| `QDRANT_URL` | Qdrant endpoint | Yes |
+| `QDRANT_API_KEY` | Qdrant credential | Yes for secured deployments |
+| `QDRANT_WEB_COLLECTION` | Curriculum collection used by `app.py` | No; defaults to `flm_fap` |
+| `QDRANT_COLLECTION` | Student-data collection used by the CLI | No; defaults to `Fap_data_testing` |
+| `GEMINI_API_KEY` | Gemini intent analysis and response synthesis | Optional |
+| `MYSQL_HOST`, `MYSQL_PORT`, `MYSQL_USER`, `MYSQL_PASSWORD`, `MYSQL_DB` | MySQL connection used by the CLI | Required for cloud synchronization |
+| `EDGE_USER_DATA_DIR` | Local Edge profile used by the FLM scraper | Required only for that scraper |
+
+Never commit `.env`, credentials, browser profiles, or exported student records.
+
+## Installation
+
+Python 3.10 or newer is recommended.
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 2. Cấu hình Environment Variables
-Tạo file `.env` trong thư mục gốc với các biến sau:
+On Windows, activate the environment with `.venv\Scripts\activate`.
 
-```env
-# Qdrant Vector Database
-QDRANT_URL=https://your-qdrant-url.qdrant.io:6333
-QDRANT_API_KEY=your_qdrant_api_key_here
-QDRANT_COLLECTION=Fap_data_testing
+## Usage
 
-# MySQL Database (Aiven)
-MYSQL_HOST=your-mysql-host.aivencloud.com
-MYSQL_PORT=19116
-MYSQL_USER=your_mysql_username
-MYSQL_PASSWORD=your_mysql_password
-MYSQL_DB=your_database_name
+### Flask retrieval API
 
-# LLM (Gemini) - Optional
-GEMINI_API_KEY=your_gemini_api_key_here
+After configuring Qdrant and, optionally, Gemini:
+
+```bash
+python app.py
 ```
 
-## 🎯 Sử dụng
+Submit a JSON request to `POST /api/search`:
 
-### Chạy hệ thống chính
+```json
+{
+  "query": "What are the learning outcomes for CPV301?"
+}
+```
+
+The application loads BGE-M3 and translation models at startup, so the first launch can require model downloads and substantial memory.
+
+### Interactive FAP pipeline
+
+Student records are deliberately not included. Place your own authorized CSV exports in `data/FAP/` or configure the MySQL synchronization used by the pipeline, then run:
+
 ```bash
-cd Fap_Chat/code
+cd code1
 python main.py
 ```
 
-### Các tính năng chính:
+The expected local filenames are `student_profile.csv`, `attendance_reports.csv`, `grade_details.csv`, and `course_summaries.csv`. Treat these files as private; Git ignores them by default.
 
-1. **Cào dữ liệu từ FAP** (tùy chọn)
-   - Nhập email và mật khẩu FPT
-   - Tự động cào: profile, điểm danh, điểm số, tổng kết môn học
+## Project Scope and Data Ethics
 
-2. **Đồng bộ với Cloud Database**
-   - Upload dữ liệu lên MySQL Aiven
-   - Download dữ liệu về local
+This repository demonstrates intent-aware retrieval and RAG techniques over academic information. The scraping utilities should only be used with accounts and records the operator is authorized to access. Real student profiles, identifiers, contact details, attendance, grades, schedules, database checkpoints, and derived vector payloads are excluded from version control.
 
-3. **Vector Embedding & Search**
-   - Tạo embeddings cho dữ liệu
-   - Tìm kiếm semantic với BGE-M3
-   - Hỗ trợ time range filtering
+The large FLM files are retained as research inputs for curriculum retrieval. Review their provenance and redistribution permissions before publishing or redistributing the dataset outside this project.
 
-4. **LLM Enhancement** (tùy chọn)
-   - Intent extraction
-   - Re-ranking kết quả
-   - Tổng hợp câu trả lời
+## Supporting Documentation
 
-## 🔍 Ví dụ truy vấn
-
-### Time Range Queries:
-- `"điểm danh tuần sau"`
-- `"lịch học tháng này"`
-- `"điểm danh kì sau"`
-- `"lịch học kì trước"`
-
-### Subject Queries:
-- `"điểm môn CPV301"`
-- `"điểm danh môn AIL303m"`
-- `"thông tin sinh viên"`
-- `"giáo trình môn Machine Learning"`
-- `"outline môn Deep Learning kỳ này"`
-### Combined Queries:
-- `"điểm danh môn CSI105 tuần sau"`
-- `"điểm môn PFP191 kì này"`
-- `"giáo trình môn Trí tuệ nhân tạo kỳ FA25"`
-- `"syllabus môn Data Mining học kì này"`
-
-## 📁 Cấu trúc Project
-
-```
-FPT_FAP_CHAT/
-├── app.py                          # FastAPI app, khởi tạo server và định nghĩa endpoint
-│
-├── code1/                          # CLI / pipeline chính
-│   ├── main.py                     # entrypoint, điều khiển ingest → embed → query
-│   ├── crawler.py                  # module crawl dữ liệu từ FAP
-│   ├── embedder.py                 # module nhúng văn bản sang vector
-│   ├── llm_helper.py               # helper gọi LLM (Gemini,... nếu có key)
-│   ├── qdrant_helper.py            # helper kết nối Qdrant (vector DB)
-│   ├── mysql_helper.py             # helper kết nối MySQL
-│   └── utils.py                    # hàm tiện ích chung
-│
-├── data/                           # dữ liệu CSV (export từ FAP)
-│   └── FAP/
-│       ├── attendance_reports.csv  # báo cáo điểm danh
-│       ├── course_summaries.csv    # thông tin môn học / syllabus ngắn
-│       ├── grade_details.csv       # bảng điểm chi tiết
-│       └── student_profile.csv     # thông tin hồ sơ sinh viên
-│
-├── templates/                      # giao diện web (FastAPI dùng Jinja2)
-│   └── chatbot.html                # UI chatbot đơn giản
-│
-├── static/                         # file tĩnh (css/js/img nếu cần)
-│   
-│
-├── notebook/                       # notebook thử nghiệm
-│   ├── tester.ipynb                # notebook test pipeline
-│   └── ...                         # (các notebook phụ khác)
-│
-├── requirements.txt                # danh sách thư viện Python cần cài
-├── QUERY_CLASSIFICATION_GUIDE.md   # tài liệu hướng dẫn phân loại truy vấn
-├── QUERY_PATTERNS_ANALYSIS.md      # phân tích pattern truy vấn thường gặp
-├── USER_GUIDE.md                   # hướng dẫn sử dụng cho end-user
-└── README.md                       # mô tả dự án (file bạn đang đọc)
-
-
-```
-
-## ⚠️ Lưu ý
-
-1. **Bảo mật**: Đảm bảo file `.env` không được commit lên git
-2. **Dependencies**: Cần cài đặt đầy đủ các thư viện trong requirements.txt
-3. **API Keys**: Cần có Qdrant và MySQL credentials hợp lệ
-4. **LLM**: Gemini API key là tùy chọn, hệ thống vẫn hoạt động không có LLM
-
-## 🐛 Troubleshooting
-
-### Lỗi kết nối database:
-- Kiểm tra thông tin MySQL trong `.env`
-- Đảm bảo database đã được tạo
-
-### Lỗi Qdrant:
-- Kiểm tra QDRANT_URL và QDRANT_API_KEY
-- Đảm bảo collection có thể tạo được
-
-### Lỗi LLM:
-- Kiểm tra GEMINI_API_KEY
-- Hệ thống sẽ fallback về search truyền thống nếu LLM không khả dụng
+- [Query Classification Guide](QUERY_CLASSIFICATION_GUIDE.md)
+- [Query Pattern Analysis](QUERY_PATTERNS_ANALYSIS.md)
+- [User Guide](USER_GUIDE.md)
